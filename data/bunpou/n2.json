@@ -1,0 +1,3201 @@
+[
+  {
+    "id": "n2-001",
+    "patternNumber": 1,
+    "title": "一方だ",
+    "displayTitle": "～一方だ",
+    "jp": "一方だ",
+    "kana": "いっぽうだ",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "terus berubah ke satu arah",
+    "formula": "V bentuk kamus + 一方だ",
+    "explanation": "Pola 一方だ digunakan untuk menyatakan terus berubah ke satu arah. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "0:25",
+      "seconds": 25,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=25s"
+    },
+    "tags": [
+      "Perubahan",
+      "JLPT N2"
+    ],
+    "keywords": "一方だ terus berubah ke satu arah",
+    "category": "Perubahan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Harga terus naik tanpa henti.",
+        "jp": "物価は上がる一方だ。",
+        "furiganaHtml": "物価は上がる一方だ。",
+        "translation": "Harga terus naik tanpa henti."
+      }
+    ]
+  },
+  {
+    "id": "n2-002",
+    "patternNumber": 2,
+    "title": "欠かさず",
+    "displayTitle": "～欠かさず",
+    "jp": "欠かさず",
+    "kana": "かかさず",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tanpa melewatkan satu kali pun",
+    "formula": "N + を欠かさず",
+    "explanation": "Pola 欠かさず digunakan untuk menyatakan tanpa melewatkan satu kali pun. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "1:50",
+      "seconds": 110,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=110s"
+    },
+    "tags": [
+      "Kebiasaan",
+      "JLPT N2"
+    ],
+    "keywords": "欠かさず tanpa melewatkan satu kali pun",
+    "category": "Kebiasaan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Setiap pagi, saya terus berolahraga tanpa pernah melewatkannya.",
+        "jp": "毎朝、運動を欠かさず続けている。",
+        "furiganaHtml": "毎朝、運動を欠かさず続けている。",
+        "translation": "Setiap pagi, saya terus berolahraga tanpa pernah melewatkannya."
+      }
+    ],
+    "reviewNeeded": true,
+    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required."
+  },
+  {
+    "id": "n2-003",
+    "patternNumber": 3,
+    "title": "た上で",
+    "displayTitle": "～た上で",
+    "jp": "た上で",
+    "kana": "たうえで",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "setelah melakukan atau mempertimbangkan",
+    "formula": "V bentuk た + 上で / Nの + 上で",
+    "explanation": "Pola た上で digunakan untuk menyatakan setelah melakukan atau mempertimbangkan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "3:15",
+      "seconds": 195,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=195s"
+    },
+    "tags": [
+      "Urutan",
+      "JLPT N2"
+    ],
+    "keywords": "た上で setelah melakukan atau mempertimbangkan",
+    "category": "Urutan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Saya akan menjawab setelah mempertimbangkannya baik-baik.",
+        "jp": "よく考えた上で、返事をします。",
+        "furiganaHtml": "よく考えた上で、返事をします。",
+        "translation": "Saya akan menjawab setelah mempertimbangkannya baik-baik."
+      }
+    ]
+  },
+  {
+    "id": "n2-004",
+    "patternNumber": 4,
+    "title": "ことはない",
+    "displayTitle": "～ことはない",
+    "jp": "ことはない",
+    "kana": "ことはない",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tidak perlu; tidak usah",
+    "formula": "V bentuk kamus + ことはない",
+    "explanation": "Pola ことはない digunakan untuk menyatakan tidak perlu; tidak usah. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "4:40",
+      "seconds": 280,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=280s"
+    },
+    "tags": [
+      "Nasihat",
+      "JLPT N2"
+    ],
+    "keywords": "ことはない tidak perlu; tidak usah",
+    "category": "Nasihat",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Kamu tidak perlu terlalu khawatir.",
+        "jp": "そんなに心配することはない。",
+        "furiganaHtml": "そんなに心配することはない。",
+        "translation": "Kamu tidak perlu terlalu khawatir."
+      }
+    ]
+  },
+  {
+    "id": "n2-005",
+    "patternNumber": 5,
+    "title": "すら／さえ",
+    "displayTitle": "～すら／さえ",
+    "jp": "すら／さえ",
+    "kana": "すら／さえ",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "bahkan; sampai hal paling dasar",
+    "formula": "N + すら／さえ",
+    "explanation": "Pola すら／さえ digunakan untuk menyatakan bahkan; sampai hal paling dasar. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "6:05",
+      "seconds": 365,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=365s"
+    },
+    "tags": [
+      "Penekanan",
+      "JLPT N2"
+    ],
+    "keywords": "すら／さえ bahkan; sampai hal paling dasar",
+    "category": "Penekanan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Dia bahkan tidak bisa menulis namanya sendiri.",
+        "jp": "彼は自分の名前すら書けない。",
+        "furiganaHtml": "彼は自分の名前すら書けない。",
+        "translation": "Dia bahkan tidak bisa menulis namanya sendiri."
+      }
+    ]
+  },
+  {
+    "id": "n2-006",
+    "patternNumber": 6,
+    "title": "次第",
+    "displayTitle": "～次第",
+    "jp": "次第",
+    "kana": "しだい",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "segera setelah; begitu",
+    "formula": "V stem ます + 次第",
+    "explanation": "Pola 次第 digunakan untuk menyatakan segera setelah; begitu. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "7:30",
+      "seconds": 450,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=450s"
+    },
+    "tags": [
+      "Waktu",
+      "JLPT N2"
+    ],
+    "keywords": "次第 segera setelah; begitu",
+    "category": "Waktu",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Segera setelah terkonfirmasi, saya akan menghubungi Anda.",
+        "jp": "確認次第、ご連絡します。",
+        "furiganaHtml": "確認次第、ご連絡します。",
+        "translation": "Segera setelah terkonfirmasi, saya akan menghubungi Anda."
+      }
+    ]
+  },
+  {
+    "id": "n2-007",
+    "patternNumber": 7,
+    "title": "末に",
+    "displayTitle": "～末に",
+    "jp": "末に",
+    "kana": "まつに",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "setelah proses panjang, akhirnya",
+    "formula": "Vた + 末に / Nの + 末に",
+    "explanation": "Pola 末に digunakan untuk menyatakan setelah proses panjang, akhirnya. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "8:55",
+      "seconds": 535,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=535s"
+    },
+    "tags": [
+      "Hasil",
+      "JLPT N2"
+    ],
+    "keywords": "末に setelah proses panjang, akhirnya",
+    "category": "Hasil",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Setelah diskusi panjang, akhirnya rencana diubah.",
+        "jp": "長い議論の末に、計画を変更した。",
+        "furiganaHtml": "長い議論の末に、計画を変更した。",
+        "translation": "Setelah diskusi panjang, akhirnya rencana diubah."
+      }
+    ]
+  },
+  {
+    "id": "n2-008",
+    "patternNumber": 8,
+    "title": "たいだけ",
+    "displayTitle": "～たいだけ",
+    "jp": "たいだけ",
+    "kana": "たいだけ",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "sebanyak/sepuas yang diinginkan",
+    "formula": "Vたい + だけ + V",
+    "explanation": "Pola たいだけ digunakan untuk menyatakan sebanyak/sepuas yang diinginkan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "10:20",
+      "seconds": 620,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=620s"
+    },
+    "tags": [
+      "Keinginan",
+      "JLPT N2"
+    ],
+    "keywords": "たいだけ sebanyak/sepuas yang diinginkan",
+    "category": "Keinginan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Silakan makan sepuas yang Anda inginkan.",
+        "jp": "食べたいだけ食べてください。",
+        "furiganaHtml": "食べたいだけ食べてください。",
+        "translation": "Silakan makan sepuas yang Anda inginkan."
+      }
+    ]
+  },
+  {
+    "id": "n2-009",
+    "patternNumber": 9,
+    "title": "だけに",
+    "displayTitle": "～だけに",
+    "jp": "だけに",
+    "kana": "だけに",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "justru karena; sesuai besarnya alasan",
+    "formula": "bentuk biasa + だけに",
+    "explanation": "Pola だけに digunakan untuk menyatakan justru karena; sesuai besarnya alasan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "11:45",
+      "seconds": 705,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=705s"
+    },
+    "tags": [
+      "Sebab",
+      "JLPT N2"
+    ],
+    "keywords": "だけに justru karena; sesuai besarnya alasan",
+    "category": "Sebab",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Justru karena sangat berharap, kekecewaannya besar.",
+        "jp": "期待していただけに、失望も大きかった。",
+        "furiganaHtml": "期待していただけに、失望も大きかった。",
+        "translation": "Justru karena sangat berharap, kekecewaannya besar."
+      }
+    ]
+  },
+  {
+    "id": "n2-010",
+    "patternNumber": 10,
+    "title": "だって",
+    "displayTitle": "～だって",
+    "jp": "だって",
+    "kana": "だって",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "bahkan; siapa pun juga",
+    "formula": "N/ kata tanya + だって",
+    "explanation": "Pola だって digunakan untuk menyatakan bahkan; siapa pun juga. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "13:10",
+      "seconds": 790,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=790s"
+    },
+    "tags": [
+      "Percakapan",
+      "JLPT N2"
+    ],
+    "keywords": "だって bahkan; siapa pun juga",
+    "category": "Percakapan",
+    "formality": "informal",
+    "examples": [
+      {
+        "id": "Siapa pun pasti pernah gagal.",
+        "jp": "誰だって失敗することはある。",
+        "furiganaHtml": "誰だって失敗することはある。",
+        "translation": "Siapa pun pasti pernah gagal."
+      }
+    ]
+  },
+  {
+    "id": "n2-011",
+    "patternNumber": 11,
+    "title": "たら〜で",
+    "displayTitle": "～たら〜で",
+    "jp": "たら〜で",
+    "kana": "たら〜で",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "kalaupun begitu, ada konsekuensinya",
+    "formula": "Vたら + Vた + で",
+    "explanation": "Pola たら〜で digunakan untuk menyatakan kalaupun begitu, ada konsekuensinya. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "14:35",
+      "seconds": 875,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=875s"
+    },
+    "tags": [
+      "Kondisi",
+      "JLPT N2"
+    ],
+    "keywords": "たら〜で kalaupun begitu, ada konsekuensinya",
+    "category": "Kondisi",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Kalaupun hujan, kita bisa beristirahat di rumah.",
+        "jp": "雨が降ったら降ったで、家で休めばいい。",
+        "furiganaHtml": "雨が降ったら降ったで、家で休めばいい。",
+        "translation": "Kalaupun hujan, kita bisa beristirahat di rumah."
+      }
+    ]
+  },
+  {
+    "id": "n2-012",
+    "patternNumber": 12,
+    "title": "て以来",
+    "displayTitle": "～て以来",
+    "jp": "て以来",
+    "kana": "ていらい",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "sejak saat itu hingga kini",
+    "formula": "Vて + 以来",
+    "explanation": "Pola て以来 digunakan untuk menyatakan sejak saat itu hingga kini. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "16:00",
+      "seconds": 960,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=960s"
+    },
+    "tags": [
+      "Waktu",
+      "JLPT N2"
+    ],
+    "keywords": "て以来 sejak saat itu hingga kini",
+    "category": "Waktu",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Sejak datang ke Jepang, saya belum pernah sakit.",
+        "jp": "日本に来て以来、病気をしていない。",
+        "furiganaHtml": "日本に来て以来、病気をしていない。",
+        "translation": "Sejak datang ke Jepang, saya belum pernah sakit."
+      }
+    ]
+  },
+  {
+    "id": "n2-013",
+    "patternNumber": 13,
+    "title": "のではないか",
+    "displayTitle": "～のではないか",
+    "jp": "のではないか",
+    "kana": "のではないか",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "bukankah; sepertinya",
+    "formula": "bentuk biasa + のではないか",
+    "explanation": "Pola のではないか digunakan untuk menyatakan bukankah; sepertinya. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "17:25",
+      "seconds": 1045,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=1045s"
+    },
+    "tags": [
+      "Opini",
+      "JLPT N2"
+    ],
+    "keywords": "のではないか bukankah; sepertinya",
+    "category": "Opini",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Bukankah ini masalah penting?",
+        "jp": "これは大切な問題なのではないか。",
+        "furiganaHtml": "これは大切な問題なのではないか。",
+        "translation": "Bukankah ini masalah penting?"
+      }
+    ]
+  },
+  {
+    "id": "n2-014",
+    "patternNumber": 14,
+    "title": "といえば",
+    "displayTitle": "～といえば",
+    "jp": "といえば",
+    "kana": "といえば",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "kalau bicara tentang",
+    "formula": "N + といえば",
+    "explanation": "Pola といえば digunakan untuk menyatakan kalau bicara tentang. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "18:50",
+      "seconds": 1130,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=1130s"
+    },
+    "tags": [
+      "Topik",
+      "JLPT N2"
+    ],
+    "keywords": "といえば kalau bicara tentang",
+    "category": "Topik",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Kalau bicara masakan Jepang, sushi terkenal.",
+        "jp": "日本料理といえば、寿司が有名だ。",
+        "furiganaHtml": "日本料理といえば、寿司が有名だ。",
+        "translation": "Kalau bicara masakan Jepang, sushi terkenal."
+      }
+    ]
+  },
+  {
+    "id": "n2-015",
+    "patternNumber": 15,
+    "title": "といった",
+    "displayTitle": "～といった",
+    "jp": "といった",
+    "kana": "といった",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "seperti; antara lain",
+    "formula": "contoh + といった + N",
+    "explanation": "Pola といった digunakan untuk menyatakan seperti; antara lain. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "20:15",
+      "seconds": 1215,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=1215s"
+    },
+    "tags": [
+      "Contoh",
+      "JLPT N2"
+    ],
+    "keywords": "といった seperti; antara lain",
+    "category": "Contoh",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Saya suka makanan seperti sushi dan tempura.",
+        "jp": "寿司や天ぷらといった料理が好きだ。",
+        "furiganaHtml": "寿司や天ぷらといった料理が好きだ。",
+        "translation": "Saya suka makanan seperti sushi dan tempura."
+      }
+    ]
+  },
+  {
+    "id": "n2-016",
+    "patternNumber": 16,
+    "title": "としたら／とすれば",
+    "displayTitle": "～としたら／とすれば",
+    "jp": "としたら／とすれば",
+    "kana": "としたら／とすれば",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "seandainya; jika diasumsikan",
+    "formula": "bentuk biasa + としたら／とすれば",
+    "explanation": "Pola としたら／とすれば digunakan untuk menyatakan seandainya; jika diasumsikan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "21:40",
+      "seconds": 1300,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=1300s"
+    },
+    "tags": [
+      "Pengandaian",
+      "JLPT N2"
+    ],
+    "keywords": "としたら／とすれば seandainya; jika diasumsikan",
+    "category": "Pengandaian",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Seandainya terlahir kembali, saya ingin menjadi burung.",
+        "jp": "もし生まれ変わるとしたら、鳥になりたい。",
+        "furiganaHtml": "もし生まれ変わるとしたら、鳥になりたい。",
+        "translation": "Seandainya terlahir kembali, saya ingin menjadi burung."
+      }
+    ]
+  },
+  {
+    "id": "n2-017",
+    "patternNumber": 17,
+    "title": "として／としては／としても",
+    "displayTitle": "～として／としては／としても",
+    "jp": "として／としては／としても",
+    "kana": "として／としては／としても",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "sebagai; selaku",
+    "formula": "N + として",
+    "explanation": "Pola として／としては／としても digunakan untuk menyatakan sebagai; selaku. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "23:05",
+      "seconds": 1385,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=1385s"
+    },
+    "tags": [
+      "Peran",
+      "JLPT N2"
+    ],
+    "keywords": "として／としては／としても sebagai; selaku",
+    "category": "Peran",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Sebagai guru, saya ingin mendukung siswa.",
+        "jp": "教師として、学生を支えたい。",
+        "furiganaHtml": "教師として、学生を支えたい。",
+        "translation": "Sebagai guru, saya ingin mendukung siswa."
+      }
+    ]
+  },
+  {
+    "id": "n2-018",
+    "patternNumber": 18,
+    "title": "にかけては",
+    "displayTitle": "～にかけては",
+    "jp": "にかけては",
+    "kana": "にかけては",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "dalam hal tertentu adalah yang terbaik",
+    "formula": "N + にかけては",
+    "explanation": "Pola にかけては digunakan untuk menyatakan dalam hal tertentu adalah yang terbaik. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "24:30",
+      "seconds": 1470,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=1470s"
+    },
+    "tags": [
+      "Keahlian",
+      "JLPT N2"
+    ],
+    "keywords": "にかけては dalam hal tertentu adalah yang terbaik",
+    "category": "Keahlian",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Dalam hal memasak, dialah yang terbaik.",
+        "jp": "料理にかけては、彼が一番上手だ。",
+        "furiganaHtml": "料理にかけては、彼が一番上手だ。",
+        "translation": "Dalam hal memasak, dialah yang terbaik."
+      }
+    ]
+  },
+  {
+    "id": "n2-019",
+    "patternNumber": 19,
+    "title": "にすぎない",
+    "displayTitle": "～にすぎない",
+    "jp": "にすぎない",
+    "kana": "にすぎない",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tidak lebih dari; hanya",
+    "formula": "bentuk biasa/N + にすぎない",
+    "explanation": "Pola にすぎない digunakan untuk menyatakan tidak lebih dari; hanya. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "25:55",
+      "seconds": 1555,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=1555s"
+    },
+    "tags": [
+      "Pembatasan",
+      "JLPT N2"
+    ],
+    "keywords": "にすぎない tidak lebih dari; hanya",
+    "category": "Pembatasan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Saya hanya menceritakan pengalaman saya.",
+        "jp": "私は自分の経験を話したにすぎない。",
+        "furiganaHtml": "私は自分の経験を話したにすぎない。",
+        "translation": "Saya hanya menceritakan pengalaman saya."
+      }
+    ]
+  },
+  {
+    "id": "n2-020",
+    "patternNumber": 20,
+    "title": "によらず",
+    "displayTitle": "～によらず",
+    "jp": "によらず",
+    "kana": "によらず",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tanpa memandang; tidak berdasarkan",
+    "formula": "N + によらず",
+    "explanation": "Pola によらず digunakan untuk menyatakan tanpa memandang; tidak berdasarkan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "27:20",
+      "seconds": 1640,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=1640s"
+    },
+    "tags": [
+      "Aturan",
+      "JLPT N2"
+    ],
+    "keywords": "によらず tanpa memandang; tidak berdasarkan",
+    "category": "Aturan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Anda dapat melamar tanpa memandang usia.",
+        "jp": "年齢によらず、応募できます。",
+        "furiganaHtml": "年齢によらず、応募できます。",
+        "translation": "Anda dapat melamar tanpa memandang usia."
+      }
+    ]
+  },
+  {
+    "id": "n2-021",
+    "patternNumber": 21,
+    "title": "にわたって",
+    "displayTitle": "～にわたって",
+    "jp": "にわたって",
+    "kana": "にわたって",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "sepanjang rentang; mencakup",
+    "formula": "N + にわたって",
+    "explanation": "Pola にわたって digunakan untuk menyatakan sepanjang rentang; mencakup. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "28:45",
+      "seconds": 1725,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=1725s"
+    },
+    "tags": [
+      "Rentang",
+      "JLPT N2"
+    ],
+    "keywords": "にわたって sepanjang rentang; mencakup",
+    "category": "Rentang",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Rapat berlangsung selama tiga jam.",
+        "jp": "会議は三時間にわたって続いた。",
+        "furiganaHtml": "会議は三時間にわたって続いた。",
+        "translation": "Rapat berlangsung selama tiga jam."
+      }
+    ]
+  },
+  {
+    "id": "n2-022",
+    "patternNumber": 22,
+    "title": "ものなら",
+    "displayTitle": "～ものなら",
+    "jp": "ものなら",
+    "kana": "ものなら",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "seandainya bisa, walau sulit/mustahil",
+    "formula": "V potensial + ものなら",
+    "explanation": "Pola ものなら digunakan untuk menyatakan seandainya bisa, walau sulit/mustahil. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "30:10",
+      "seconds": 1810,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=1810s"
+    },
+    "tags": [
+      "Penyesalan",
+      "JLPT N2"
+    ],
+    "keywords": "ものなら seandainya bisa, walau sulit/mustahil",
+    "category": "Penyesalan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Seandainya bisa, saya ingin kembali ke masa sekolah.",
+        "jp": "戻れるものなら、学生時代に戻りたい。",
+        "furiganaHtml": "戻れるものなら、学生時代に戻りたい。",
+        "translation": "Seandainya bisa, saya ingin kembali ke masa sekolah."
+      }
+    ]
+  },
+  {
+    "id": "n2-023",
+    "patternNumber": 23,
+    "title": "ものだ／ものではない",
+    "displayTitle": "～ものだ／ものではない",
+    "jp": "ものだ／ものではない",
+    "kana": "ものだ／ものではない",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "sudah sewajarnya; tidak pantas",
+    "formula": "V kamus + ものだ／ものではない",
+    "explanation": "Pola ものだ／ものではない digunakan untuk menyatakan sudah sewajarnya; tidak pantas. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "31:35",
+      "seconds": 1895,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=1895s"
+    },
+    "tags": [
+      "Norma",
+      "JLPT N2"
+    ],
+    "keywords": "ものだ／ものではない sudah sewajarnya; tidak pantas",
+    "category": "Norma",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Tidak pantas merepotkan orang lain.",
+        "jp": "人に迷惑をかけるものではない。",
+        "furiganaHtml": "人に迷惑をかけるものではない。",
+        "translation": "Tidak pantas merepotkan orang lain."
+      }
+    ]
+  },
+  {
+    "id": "n2-024",
+    "patternNumber": 24,
+    "title": "わけだ",
+    "displayTitle": "～わけだ",
+    "jp": "わけだ",
+    "kana": "わけだ",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "pantas saja; berarti memang",
+    "formula": "bentuk biasa + わけだ",
+    "explanation": "Pola わけだ digunakan untuk menyatakan pantas saja; berarti memang. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "33:00",
+      "seconds": 1980,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=1980s"
+    },
+    "tags": [
+      "Logika",
+      "JLPT N2"
+    ],
+    "keywords": "わけだ pantas saja; berarti memang",
+    "category": "Logika",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Pantas bahasa Jepangnya lancar; dia sudah tinggal sepuluh tahun.",
+        "jp": "十年住んでいるから、日本語が上手なわけだ。",
+        "furiganaHtml": "十年住んでいるから、日本語が上手なわけだ。",
+        "translation": "Pantas bahasa Jepangnya lancar; dia sudah tinggal sepuluh tahun."
+      }
+    ]
+  },
+  {
+    "id": "n2-025",
+    "patternNumber": 25,
+    "title": "わけではない／わけがない",
+    "displayTitle": "～わけではない／わけがない",
+    "jp": "わけではない／わけがない",
+    "kana": "わけではない／わけがない",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "bukan berarti; mustahil",
+    "formula": "bentuk biasa + わけではない／わけがない",
+    "explanation": "Pola わけではない／わけがない digunakan untuk menyatakan bukan berarti; mustahil. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "34:25",
+      "seconds": 2065,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=2065s"
+    },
+    "tags": [
+      "Penyangkalan",
+      "JLPT N2"
+    ],
+    "keywords": "わけではない／わけがない bukan berarti; mustahil",
+    "category": "Penyangkalan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Bukan berarti saya membenci pekerjaan ini.",
+        "jp": "仕事が嫌いなわけではない。",
+        "furiganaHtml": "仕事が嫌いなわけではない。",
+        "translation": "Bukan berarti saya membenci pekerjaan ini."
+      }
+    ]
+  },
+  {
+    "id": "n2-026",
+    "patternNumber": 26,
+    "title": "あまりに／あまりの",
+    "displayTitle": "～あまりに／あまりの",
+    "jp": "あまりに／あまりの",
+    "kana": "あまりに／あまりの",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "terlalu; karena terlalu ... sehingga",
+    "formula": "あまりに + adj/V / あまりのNに",
+    "explanation": "Pola あまりに／あまりの digunakan untuk menyatakan terlalu; karena terlalu ... sehingga. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "35:50",
+      "seconds": 2150,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=2150s"
+    },
+    "tags": [
+      "Derajat",
+      "JLPT N2"
+    ],
+    "keywords": "あまりに／あまりの terlalu; karena terlalu ... sehingga",
+    "category": "Derajat",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Karena terlalu sibuk, saya lupa makan siang.",
+        "jp": "あまりに忙しくて、昼食を忘れた。",
+        "furiganaHtml": "あまりに忙しくて、昼食を忘れた。",
+        "translation": "Karena terlalu sibuk, saya lupa makan siang."
+      }
+    ],
+    "reviewNeeded": true,
+    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required."
+  },
+  {
+    "id": "n2-027",
+    "patternNumber": 27,
+    "title": "以上は",
+    "displayTitle": "～以上は",
+    "jp": "以上は",
+    "kana": "いじょうは",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "karena sudah; selama",
+    "formula": "bentuk biasa + 以上は",
+    "explanation": "Pola 以上は digunakan untuk menyatakan karena sudah; selama. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "37:15",
+      "seconds": 2235,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=2235s"
+    },
+    "tags": [
+      "Kewajiban",
+      "JLPT N2"
+    ],
+    "keywords": "以上は karena sudah; selama",
+    "category": "Kewajiban",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Karena sudah berjanji, seharusnya ditepati.",
+        "jp": "約束した以上は、守るべきだ。",
+        "furiganaHtml": "約束した以上は、守るべきだ。",
+        "translation": "Karena sudah berjanji, seharusnya ditepati."
+      }
+    ]
+  },
+  {
+    "id": "n2-028",
+    "patternNumber": 28,
+    "title": "上に",
+    "displayTitle": "～上に",
+    "jp": "上に",
+    "kana": "うえに",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "selain itu; bahkan",
+    "formula": "bentuk biasa + 上に",
+    "explanation": "Pola 上に digunakan untuk menyatakan selain itu; bahkan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "38:40",
+      "seconds": 2320,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=2320s"
+    },
+    "tags": [
+      "Penambahan",
+      "JLPT N2"
+    ],
+    "keywords": "上に selain itu; bahkan",
+    "category": "Penambahan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Toko ini murah dan selain itu dekat stasiun.",
+        "jp": "この店は安い上に、駅から近い。",
+        "furiganaHtml": "この店は安い上に、駅から近い。",
+        "translation": "Toko ini murah dan selain itu dekat stasiun."
+      }
+    ]
+  },
+  {
+    "id": "n2-029",
+    "patternNumber": 29,
+    "title": "おきに",
+    "displayTitle": "～おきに",
+    "jp": "おきに",
+    "kana": "おきに",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "setiap interval",
+    "formula": "N waktu/jarak + おきに",
+    "explanation": "Pola おきに digunakan untuk menyatakan setiap interval. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "40:05",
+      "seconds": 2405,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=2405s"
+    },
+    "tags": [
+      "Interval",
+      "JLPT N2"
+    ],
+    "keywords": "おきに setiap interval",
+    "category": "Interval",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Kereta berhenti setiap dua stasiun.",
+        "jp": "二駅おきに電車が止まる。",
+        "furiganaHtml": "二駅おきに電車が止まる。",
+        "translation": "Kereta berhenti setiap dua stasiun."
+      }
+    ]
+  },
+  {
+    "id": "n2-030",
+    "patternNumber": 30,
+    "title": "がたい",
+    "displayTitle": "～がたい",
+    "jp": "がたい",
+    "kana": "がたい",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "sulit untuk dilakukan",
+    "formula": "V stem ます + がたい",
+    "explanation": "Pola がたい digunakan untuk menyatakan sulit untuk dilakukan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "41:30",
+      "seconds": 2490,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=2490s"
+    },
+    "tags": [
+      "Kesulitan",
+      "JLPT N2"
+    ],
+    "keywords": "がたい sulit untuk dilakukan",
+    "category": "Kesulitan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Penjelasannya sulit dipahami.",
+        "jp": "彼の説明は理解しがたい。",
+        "furiganaHtml": "彼の説明は理解しがたい。",
+        "translation": "Penjelasannya sulit dipahami."
+      }
+    ]
+  },
+  {
+    "id": "n2-031",
+    "patternNumber": 31,
+    "title": "がちだ",
+    "displayTitle": "～がちだ",
+    "jp": "がちだ",
+    "kana": "がちだ",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "cenderung; mudah menjadi",
+    "formula": "N/V stem + がちだ",
+    "explanation": "Pola がちだ digunakan untuk menyatakan cenderung; mudah menjadi. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "42:55",
+      "seconds": 2575,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=2575s"
+    },
+    "tags": [
+      "Kecenderungan",
+      "JLPT N2"
+    ],
+    "keywords": "がちだ cenderung; mudah menjadi",
+    "category": "Kecenderungan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Saat sibuk, saya cenderung lupa makan.",
+        "jp": "忙しいと、食事を忘れがちだ。",
+        "furiganaHtml": "忙しいと、食事を忘れがちだ。",
+        "translation": "Saat sibuk, saya cenderung lupa makan."
+      }
+    ]
+  },
+  {
+    "id": "n2-032",
+    "patternNumber": 32,
+    "title": "かと思うと",
+    "displayTitle": "～かと思うと",
+    "jp": "かと思うと",
+    "kana": "かとおもうと",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "baru saja ... ternyata",
+    "formula": "bentuk biasa + かと思うと",
+    "explanation": "Pola かと思うと digunakan untuk menyatakan baru saja ... ternyata. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "44:20",
+      "seconds": 2660,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=2660s"
+    },
+    "tags": [
+      "Perubahan",
+      "JLPT N2"
+    ],
+    "keywords": "かと思うと baru saja ... ternyata",
+    "category": "Perubahan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Baru saja hujan berhenti, ternyata mulai turun lagi.",
+        "jp": "雨がやんだかと思うと、また降り始めた。",
+        "furiganaHtml": "雨がやんだかと思うと、また降り始めた。",
+        "translation": "Baru saja hujan berhenti, ternyata mulai turun lagi."
+      }
+    ]
+  },
+  {
+    "id": "n2-033",
+    "patternNumber": 33,
+    "title": "からすると／からすれば",
+    "displayTitle": "～からすると／からすれば",
+    "jp": "からすると／からすれば",
+    "kana": "からすると／からすれば",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "dilihat dari; menurut",
+    "formula": "N + からすると／からすれば",
+    "explanation": "Pola からすると／からすれば digunakan untuk menyatakan dilihat dari; menurut. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "45:45",
+      "seconds": 2745,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=2745s"
+    },
+    "tags": [
+      "Sudut pandang",
+      "JLPT N2"
+    ],
+    "keywords": "からすると／からすれば dilihat dari; menurut",
+    "category": "Sudut pandang",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Dilihat dari pengalamannya, dia mungkin berhasil.",
+        "jp": "彼の経験からすると、成功するだろう。",
+        "furiganaHtml": "彼の経験からすると、成功するだろう。",
+        "translation": "Dilihat dari pengalamannya, dia mungkin berhasil."
+      }
+    ]
+  },
+  {
+    "id": "n2-034",
+    "patternNumber": 34,
+    "title": "からして",
+    "displayTitle": "～からして",
+    "jp": "からして",
+    "kana": "からして",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "bahkan dari; dilihat dari",
+    "formula": "N + からして",
+    "explanation": "Pola からして digunakan untuk menyatakan bahkan dari; dilihat dari. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "47:10",
+      "seconds": 2830,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=2830s"
+    },
+    "tags": [
+      "Petunjuk",
+      "JLPT N2"
+    ],
+    "keywords": "からして bahkan dari; dilihat dari",
+    "category": "Petunjuk",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Dilihat dari cara bicaranya saja, dia tampak baik.",
+        "jp": "彼は話し方からして親切そうだ。",
+        "furiganaHtml": "彼は話し方からして親切そうだ。",
+        "translation": "Dilihat dari cara bicaranya saja, dia tampak baik."
+      }
+    ]
+  },
+  {
+    "id": "n2-035",
+    "patternNumber": 35,
+    "title": "からには",
+    "displayTitle": "～からには",
+    "jp": "からには",
+    "kana": "からには",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "karena sudah; selama",
+    "formula": "bentuk biasa + からには",
+    "explanation": "Pola からには digunakan untuk menyatakan karena sudah; selama. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "48:35",
+      "seconds": 2915,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=2915s"
+    },
+    "tags": [
+      "Tekad",
+      "JLPT N2"
+    ],
+    "keywords": "からには karena sudah; selama",
+    "category": "Tekad",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Karena sudah ikut, saya akan berusaha sampai akhir.",
+        "jp": "参加するからには、最後まで頑張る。",
+        "furiganaHtml": "参加するからには、最後まで頑張る。",
+        "translation": "Karena sudah ikut, saya akan berusaha sampai akhir."
+      }
+    ]
+  },
+  {
+    "id": "n2-036",
+    "patternNumber": 36,
+    "title": "きり",
+    "displayTitle": "～きり",
+    "jp": "きり",
+    "kana": "きり",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "sejak ... dan tidak lagi",
+    "formula": "Vた + きり",
+    "explanation": "Pola きり digunakan untuk menyatakan sejak ... dan tidak lagi. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "50:00",
+      "seconds": 3000,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=3000s"
+    },
+    "tags": [
+      "Kelanjutan",
+      "JLPT N2"
+    ],
+    "keywords": "きり sejak ... dan tidak lagi",
+    "category": "Kelanjutan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Sejak pergi, dia tidak kembali lagi.",
+        "jp": "彼は出かけたきり、戻ってこない。",
+        "furiganaHtml": "彼は出かけたきり、戻ってこない。",
+        "translation": "Sejak pergi, dia tidak kembali lagi."
+      }
+    ]
+  },
+  {
+    "id": "n2-037",
+    "patternNumber": 37,
+    "title": "くせに",
+    "displayTitle": "～くせに",
+    "jp": "くせに",
+    "kana": "くせに",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "padahal; meskipun",
+    "formula": "bentuk biasa + くせに",
+    "explanation": "Pola くせに digunakan untuk menyatakan padahal; meskipun. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "51:25",
+      "seconds": 3085,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=3085s"
+    },
+    "tags": [
+      "Kontras",
+      "JLPT N2"
+    ],
+    "keywords": "くせに padahal; meskipun",
+    "category": "Kontras",
+    "formality": "informal",
+    "examples": [
+      {
+        "id": "Padahal tahu, dia tidak mau memberi tahu.",
+        "jp": "知っているくせに、教えてくれない。",
+        "furiganaHtml": "知っているくせに、教えてくれない。",
+        "translation": "Padahal tahu, dia tidak mau memberi tahu."
+      }
+    ]
+  },
+  {
+    "id": "n2-038",
+    "patternNumber": 38,
+    "title": "ことから",
+    "displayTitle": "～ことから",
+    "jp": "ことから",
+    "kana": "ことから",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "dari fakta bahwa; karena",
+    "formula": "bentuk biasa + ことから",
+    "explanation": "Pola ことから digunakan untuk menyatakan dari fakta bahwa; karena. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "52:50",
+      "seconds": 3170,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=3170s"
+    },
+    "tags": [
+      "Sebab",
+      "JLPT N2"
+    ],
+    "keywords": "ことから dari fakta bahwa; karena",
+    "category": "Sebab",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Saya memilih toko ini karena dekat stasiun.",
+        "jp": "駅に近いことから、この店を選んだ。",
+        "furiganaHtml": "駅に近いことから、この店を選んだ。",
+        "translation": "Saya memilih toko ini karena dekat stasiun."
+      }
+    ]
+  },
+  {
+    "id": "n2-039",
+    "patternNumber": 39,
+    "title": "ことに",
+    "displayTitle": "～ことに",
+    "jp": "ことに",
+    "kana": "ことに",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "yang ... sekali; dengan perasaan",
+    "formula": "Vた/adj + ことに",
+    "explanation": "Pola ことに digunakan untuk menyatakan yang ... sekali; dengan perasaan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "54:15",
+      "seconds": 3255,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=3255s"
+    },
+    "tags": [
+      "Emosi",
+      "JLPT N2"
+    ],
+    "keywords": "ことに yang ... sekali; dengan perasaan",
+    "category": "Emosi",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Yang mengejutkan, dia menyelesaikannya sendiri.",
+        "jp": "驚いたことに、彼は一人で完成させた。",
+        "furiganaHtml": "驚いたことに、彼は一人で完成させた。",
+        "translation": "Yang mengejutkan, dia menyelesaikannya sendiri."
+      }
+    ]
+  },
+  {
+    "id": "n2-040",
+    "patternNumber": 40,
+    "title": "ことなく",
+    "displayTitle": "～ことなく",
+    "jp": "ことなく",
+    "kana": "ことなく",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tanpa melakukan",
+    "formula": "V kamus + ことなく",
+    "explanation": "Pola ことなく digunakan untuk menyatakan tanpa melakukan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "55:40",
+      "seconds": 3340,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=3340s"
+    },
+    "tags": [
+      "Cara",
+      "JLPT N2"
+    ],
+    "keywords": "ことなく tanpa melakukan",
+    "category": "Cara",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Dia bekerja tanpa beristirahat satu kali pun.",
+        "jp": "彼は一度も休むことなく働いた。",
+        "furiganaHtml": "彼は一度も休むことなく働いた。",
+        "translation": "Dia bekerja tanpa beristirahat satu kali pun."
+      }
+    ]
+  },
+  {
+    "id": "n2-041",
+    "patternNumber": 41,
+    "title": "ことにはならない",
+    "displayTitle": "～ことにはならない",
+    "jp": "ことにはならない",
+    "kana": "ことにはならない",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tidak berarti bahwa; tidak bisa dianggap",
+    "formula": "bentuk biasa + ことにはならない",
+    "explanation": "Pola ことにはならない digunakan untuk menyatakan tidak berarti bahwa; tidak bisa dianggap. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "57:05",
+      "seconds": 3425,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=3425s"
+    },
+    "tags": [
+      "Logika",
+      "JLPT N2"
+    ],
+    "keywords": "ことにはならない tidak berarti bahwa; tidak bisa dianggap",
+    "category": "Logika",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Meminta maaf bukan berarti sudah dimaafkan.",
+        "jp": "謝ったからといって、許したことにはならない。",
+        "furiganaHtml": "謝ったからといって、許したことにはならない。",
+        "translation": "Meminta maaf bukan berarti sudah dimaafkan."
+      }
+    ],
+    "reviewNeeded": true,
+    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required."
+  },
+  {
+    "id": "n2-042",
+    "patternNumber": 42,
+    "title": "際に",
+    "displayTitle": "～際に",
+    "jp": "際に",
+    "kana": "さいに",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "ketika; pada kesempatan",
+    "formula": "V/N + 際に",
+    "explanation": "Pola 際に digunakan untuk menyatakan ketika; pada kesempatan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "58:30",
+      "seconds": 3510,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=3510s"
+    },
+    "tags": [
+      "Waktu",
+      "JLPT N2"
+    ],
+    "keywords": "際に ketika; pada kesempatan",
+    "category": "Waktu",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Saat menggunakan layanan, bacalah peraturan.",
+        "jp": "ご利用の際には、規則をお読みください。",
+        "furiganaHtml": "ご利用の際には、規則をお読みください。",
+        "translation": "Saat menggunakan layanan, bacalah peraturan."
+      }
+    ]
+  },
+  {
+    "id": "n2-043",
+    "patternNumber": 43,
+    "title": "最中に",
+    "displayTitle": "～最中に",
+    "jp": "最中に",
+    "kana": "さいちゅうに",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "di tengah-tengah",
+    "formula": "Nの/Vている + 最中に",
+    "explanation": "Pola 最中に digunakan untuk menyatakan di tengah-tengah. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "59:55",
+      "seconds": 3595,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=3595s"
+    },
+    "tags": [
+      "Waktu",
+      "JLPT N2"
+    ],
+    "keywords": "最中に di tengah-tengah",
+    "category": "Waktu",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Di tengah rapat, telepon berdering.",
+        "jp": "会議の最中に、電話が鳴った。",
+        "furiganaHtml": "会議の最中に、電話が鳴った。",
+        "translation": "Di tengah rapat, telepon berdering."
+      }
+    ]
+  },
+  {
+    "id": "n2-044",
+    "patternNumber": 44,
+    "title": "次第で",
+    "displayTitle": "～次第で",
+    "jp": "次第で",
+    "kana": "しだいで",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tergantung pada",
+    "formula": "N + 次第で",
+    "explanation": "Pola 次第で digunakan untuk menyatakan tergantung pada. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "61:20",
+      "seconds": 3680,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=3680s"
+    },
+    "tags": [
+      "Ketergantungan",
+      "JLPT N2"
+    ],
+    "keywords": "次第で tergantung pada",
+    "category": "Ketergantungan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Hasil berubah tergantung usaha.",
+        "jp": "結果は努力次第で変わる。",
+        "furiganaHtml": "結果は努力次第で変わる。",
+        "translation": "Hasil berubah tergantung usaha."
+      }
+    ]
+  },
+  {
+    "id": "n2-045",
+    "patternNumber": 45,
+    "title": "ずにはいられない",
+    "displayTitle": "～ずにはいられない",
+    "jp": "ずにはいられない",
+    "kana": "ずにはいられない",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tidak bisa tidak; tak tahan untuk tidak",
+    "formula": "Vずにはいられない",
+    "explanation": "Pola ずにはいられない digunakan untuk menyatakan tidak bisa tidak; tak tahan untuk tidak. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "62:45",
+      "seconds": 3765,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=3765s"
+    },
+    "tags": [
+      "Emosi",
+      "JLPT N2"
+    ],
+    "keywords": "ずにはいられない tidak bisa tidak; tak tahan untuk tidak",
+    "category": "Emosi",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Setelah mendengar cerita itu, saya tidak bisa menahan tawa.",
+        "jp": "その話を聞いて、笑わずにはいられなかった。",
+        "furiganaHtml": "その話を聞いて、笑わずにはいられなかった。",
+        "translation": "Setelah mendengar cerita itu, saya tidak bisa menahan tawa."
+      }
+    ]
+  },
+  {
+    "id": "n2-046",
+    "patternNumber": 46,
+    "title": "せいで",
+    "displayTitle": "～せいで",
+    "jp": "せいで",
+    "kana": "せいで",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "gara-gara; akibat buruk",
+    "formula": "bentuk biasa + せいで",
+    "explanation": "Pola せいで digunakan untuk menyatakan gara-gara; akibat buruk. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "64:10",
+      "seconds": 3850,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=3850s"
+    },
+    "tags": [
+      "Sebab buruk",
+      "JLPT N2"
+    ],
+    "keywords": "せいで gara-gara; akibat buruk",
+    "category": "Sebab buruk",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Gara-gara hujan, pertandingan dibatalkan.",
+        "jp": "雨のせいで、試合が中止になった。",
+        "furiganaHtml": "雨のせいで、試合が中止になった。",
+        "translation": "Gara-gara hujan, pertandingan dibatalkan."
+      }
+    ]
+  },
+  {
+    "id": "n2-047",
+    "patternNumber": 47,
+    "title": "だけあって",
+    "displayTitle": "～だけあって",
+    "jp": "だけあって",
+    "kana": "だけあって",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "sesuai reputasi/harapan",
+    "formula": "bentuk biasa/N + だけあって",
+    "explanation": "Pola だけあって digunakan untuk menyatakan sesuai reputasi/harapan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "65:35",
+      "seconds": 3935,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=3935s"
+    },
+    "tags": [
+      "Evaluasi",
+      "JLPT N2"
+    ],
+    "keywords": "だけあって sesuai reputasi/harapan",
+    "category": "Evaluasi",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Sesuai reputasinya, masakan restoran terkenal itu luar biasa.",
+        "jp": "有名な店だけあって、料理がすばらしい。",
+        "furiganaHtml": "有名な店だけあって、料理がすばらしい。",
+        "translation": "Sesuai reputasinya, masakan restoran terkenal itu luar biasa."
+      }
+    ]
+  },
+  {
+    "id": "n2-048",
+    "patternNumber": 48,
+    "title": "だけに",
+    "displayTitle": "～だけに",
+    "jp": "だけに",
+    "kana": "だけに",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "justru karena; sesuai harapan",
+    "formula": "bentuk biasa + だけに",
+    "explanation": "Pola だけに digunakan untuk menyatakan justru karena; sesuai harapan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "67:00",
+      "seconds": 4020,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=4020s"
+    },
+    "tags": [
+      "Sebab",
+      "JLPT N2"
+    ],
+    "keywords": "だけに justru karena; sesuai harapan",
+    "category": "Sebab",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Justru karena berpengalaman, penilaiannya cepat.",
+        "jp": "経験が豊富なだけに、判断が速い。",
+        "furiganaHtml": "経験が豊富なだけに、判断が速い。",
+        "translation": "Justru karena berpengalaman, penilaiannya cepat."
+      }
+    ]
+  },
+  {
+    "id": "n2-049",
+    "patternNumber": 49,
+    "title": "だけの",
+    "displayTitle": "～だけの",
+    "jp": "だけの",
+    "kana": "だけの",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "sepadan dengan; sebanyak yang",
+    "formula": "N + だけの + N",
+    "explanation": "Pola だけの digunakan untuk menyatakan sepadan dengan; sebanyak yang. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "68:25",
+      "seconds": 4105,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=4105s"
+    },
+    "tags": [
+      "Jumlah",
+      "JLPT N2"
+    ],
+    "keywords": "だけの sepadan dengan; sebanyak yang",
+    "category": "Jumlah",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Saya membawa uang sebanyak yang diperlukan.",
+        "jp": "必要なだけのお金を持っていく。",
+        "furiganaHtml": "必要なだけのお金を持っていく。",
+        "translation": "Saya membawa uang sebanyak yang diperlukan."
+      }
+    ]
+  },
+  {
+    "id": "n2-050",
+    "patternNumber": 50,
+    "title": "たとえ〜ても",
+    "displayTitle": "～たとえ〜ても",
+    "jp": "たとえ〜ても",
+    "kana": "たとえ〜ても",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "meskipun seandainya",
+    "formula": "たとえ + Vても/adjても",
+    "explanation": "Pola たとえ〜ても digunakan untuk menyatakan meskipun seandainya. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "69:50",
+      "seconds": 4190,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=4190s"
+    },
+    "tags": [
+      "Konsesi",
+      "JLPT N2"
+    ],
+    "keywords": "たとえ〜ても meskipun seandainya",
+    "category": "Konsesi",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Meskipun gagal, saya ingin mencoba.",
+        "jp": "たとえ失敗しても、挑戦したい。",
+        "furiganaHtml": "たとえ失敗しても、挑戦したい。",
+        "translation": "Meskipun gagal, saya ingin mencoba."
+      }
+    ]
+  },
+  {
+    "id": "n2-051",
+    "patternNumber": 51,
+    "title": "たびに",
+    "displayTitle": "～たびに",
+    "jp": "たびに",
+    "kana": "たびに",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "setiap kali",
+    "formula": "V kamus/Nの + たびに",
+    "explanation": "Pola たびに digunakan untuk menyatakan setiap kali. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "71:15",
+      "seconds": 4275,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=4275s"
+    },
+    "tags": [
+      "Pengulangan",
+      "JLPT N2"
+    ],
+    "keywords": "たびに setiap kali",
+    "category": "Pengulangan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Setiap melihat foto ini, saya teringat perjalanan.",
+        "jp": "この写真を見るたびに、旅を思い出す。",
+        "furiganaHtml": "この写真を見るたびに、旅を思い出す。",
+        "translation": "Setiap melihat foto ini, saya teringat perjalanan."
+      }
+    ]
+  },
+  {
+    "id": "n2-052",
+    "patternNumber": 52,
+    "title": "だらけ",
+    "displayTitle": "～だらけ",
+    "jp": "だらけ",
+    "kana": "だらけ",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "penuh dengan; berlumuran",
+    "formula": "N + だらけ",
+    "explanation": "Pola だらけ digunakan untuk menyatakan penuh dengan; berlumuran. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "72:40",
+      "seconds": 4360,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=4360s"
+    },
+    "tags": [
+      "Keadaan",
+      "JLPT N2"
+    ],
+    "keywords": "だらけ penuh dengan; berlumuran",
+    "category": "Keadaan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Baju itu menjadi penuh lumpur.",
+        "jp": "シャツが泥だらけになった。",
+        "furiganaHtml": "シャツが泥だらけになった。",
+        "translation": "Baju itu menjadi penuh lumpur."
+      }
+    ]
+  },
+  {
+    "id": "n2-053",
+    "patternNumber": 53,
+    "title": "つつ／つつある",
+    "displayTitle": "～つつ／つつある",
+    "jp": "つつ／つつある",
+    "kana": "つつ／つつある",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "sambil; sedang dalam proses",
+    "formula": "V stem ます + つつある",
+    "explanation": "Pola つつ／つつある digunakan untuk menyatakan sambil; sedang dalam proses. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "74:05",
+      "seconds": 4445,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=4445s"
+    },
+    "tags": [
+      "Proses",
+      "JLPT N2"
+    ],
+    "keywords": "つつ／つつある sambil; sedang dalam proses",
+    "category": "Proses",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Kota itu sedang berubah sedikit demi sedikit.",
+        "jp": "町は少しずつ変わりつつある。",
+        "furiganaHtml": "町は少しずつ変わりつつある。",
+        "translation": "Kota itu sedang berubah sedikit demi sedikit."
+      }
+    ]
+  },
+  {
+    "id": "n2-054",
+    "patternNumber": 54,
+    "title": "てたまらない",
+    "displayTitle": "～てたまらない",
+    "jp": "てたまらない",
+    "kana": "てたまらない",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "sangat ... sampai tak tertahankan",
+    "formula": "Vて/adjて + たまらない",
+    "explanation": "Pola てたまらない digunakan untuk menyatakan sangat ... sampai tak tertahankan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "75:30",
+      "seconds": 4530,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=4530s"
+    },
+    "tags": [
+      "Perasaan",
+      "JLPT N2"
+    ],
+    "keywords": "てたまらない sangat ... sampai tak tertahankan",
+    "category": "Perasaan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Saya sangat penasaran dengan hasil ujian.",
+        "jp": "試験の結果が気になってたまらない。",
+        "furiganaHtml": "試験の結果が気になってたまらない。",
+        "translation": "Saya sangat penasaran dengan hasil ujian."
+      }
+    ]
+  },
+  {
+    "id": "n2-055",
+    "patternNumber": 55,
+    "title": "てはならない",
+    "displayTitle": "～てはならない",
+    "jp": "てはならない",
+    "kana": "てはならない",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tidak boleh",
+    "formula": "Vてはならない",
+    "explanation": "Pola てはならない digunakan untuk menyatakan tidak boleh. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "76:55",
+      "seconds": 4615,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=4615s"
+    },
+    "tags": [
+      "Larangan",
+      "JLPT N2"
+    ],
+    "keywords": "てはならない tidak boleh",
+    "category": "Larangan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Tidak boleh mengambil foto di sini.",
+        "jp": "ここで写真を撮ってはならない。",
+        "furiganaHtml": "ここで写真を撮ってはならない。",
+        "translation": "Tidak boleh mengambil foto di sini."
+      }
+    ],
+    "reviewNeeded": true,
+    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required."
+  },
+  {
+    "id": "n2-056",
+    "patternNumber": 56,
+    "title": "てもかまわない",
+    "displayTitle": "～てもかまわない",
+    "jp": "てもかまわない",
+    "kana": "てもかまわない",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tidak apa-apa jika",
+    "formula": "Vても/Nでも + かまわない",
+    "explanation": "Pola てもかまわない digunakan untuk menyatakan tidak apa-apa jika. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "78:20",
+      "seconds": 4700,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=4700s"
+    },
+    "tags": [
+      "Izin",
+      "JLPT N2"
+    ],
+    "keywords": "てもかまわない tidak apa-apa jika",
+    "category": "Izin",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Tidak apa-apa jika datang besok.",
+        "jp": "明日来てもかまいません。",
+        "furiganaHtml": "明日来てもかまいません。",
+        "translation": "Tidak apa-apa jika datang besok."
+      }
+    ]
+  },
+  {
+    "id": "n2-057",
+    "patternNumber": 57,
+    "title": "ても仕方がない",
+    "displayTitle": "～ても仕方がない",
+    "jp": "ても仕方がない",
+    "kana": "てもしかたがない",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tidak ada gunanya; tak terhindarkan",
+    "formula": "Vても + 仕方がない",
+    "explanation": "Pola ても仕方がない digunakan untuk menyatakan tidak ada gunanya; tak terhindarkan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "79:45",
+      "seconds": 4785,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=4785s"
+    },
+    "tags": [
+      "Penerimaan",
+      "JLPT N2"
+    ],
+    "keywords": "ても仕方がない tidak ada gunanya; tak terhindarkan",
+    "category": "Penerimaan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Tidak ada gunanya menyesali hal yang sudah berlalu.",
+        "jp": "終わったことを悔やんでも仕方がない。",
+        "furiganaHtml": "終わったことを悔やんでも仕方がない。",
+        "translation": "Tidak ada gunanya menyesali hal yang sudah berlalu."
+      }
+    ]
+  },
+  {
+    "id": "n2-058",
+    "patternNumber": 58,
+    "title": "ということだ",
+    "displayTitle": "～ということだ",
+    "jp": "ということだ",
+    "kana": "ということだ",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "berarti; kabarnya",
+    "formula": "bentuk biasa + ということだ",
+    "explanation": "Pola ということだ digunakan untuk menyatakan berarti; kabarnya. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "81:10",
+      "seconds": 4870,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=4870s"
+    },
+    "tags": [
+      "Informasi",
+      "JLPT N2"
+    ],
+    "keywords": "ということだ berarti; kabarnya",
+    "category": "Informasi",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Kabarnya harga akan naik mulai bulan depan.",
+        "jp": "来月から値上げするということだ。",
+        "furiganaHtml": "来月から値上げするということだ。",
+        "translation": "Kabarnya harga akan naik mulai bulan depan."
+      }
+    ]
+  },
+  {
+    "id": "n2-059",
+    "patternNumber": 59,
+    "title": "というものだ",
+    "displayTitle": "～というものだ",
+    "jp": "というものだ",
+    "kana": "というものだ",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "memang begitulah; itulah yang disebut",
+    "formula": "bentuk biasa + というものだ",
+    "explanation": "Pola というものだ digunakan untuk menyatakan memang begitulah; itulah yang disebut. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "82:35",
+      "seconds": 4955,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=4955s"
+    },
+    "tags": [
+      "Penilaian",
+      "JLPT N2"
+    ],
+    "keywords": "というものだ memang begitulah; itulah yang disebut",
+    "category": "Penilaian",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Justru usaha itulah yang disebut keberhasilan.",
+        "jp": "努力してこそ成功というものだ。",
+        "furiganaHtml": "努力してこそ成功というものだ。",
+        "translation": "Justru usaha itulah yang disebut keberhasilan."
+      }
+    ]
+  },
+  {
+    "id": "n2-060",
+    "patternNumber": 60,
+    "title": "というより",
+    "displayTitle": "～というより",
+    "jp": "というより",
+    "kana": "というより",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "daripada mengatakan ... lebih tepat ...",
+    "formula": "N/bentuk biasa + というより",
+    "explanation": "Pola というより digunakan untuk menyatakan daripada mengatakan ... lebih tepat .... Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "84:00",
+      "seconds": 5040,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=5040s"
+    },
+    "tags": [
+      "Koreksi",
+      "JLPT N2"
+    ],
+    "keywords": "というより daripada mengatakan ... lebih tepat ...",
+    "category": "Koreksi",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Daripada tenang, kota ini lebih tepat disebut sepi.",
+        "jp": "静かというより、寂しい町だ。",
+        "furiganaHtml": "静かというより、寂しい町だ。",
+        "translation": "Daripada tenang, kota ini lebih tepat disebut sepi."
+      }
+    ]
+  },
+  {
+    "id": "n2-061",
+    "patternNumber": 61,
+    "title": "とともに",
+    "displayTitle": "～とともに",
+    "jp": "とともに",
+    "kana": "とともに",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "bersamaan dengan; bersama",
+    "formula": "N/V kamus + とともに",
+    "explanation": "Pola とともに digunakan untuk menyatakan bersamaan dengan; bersama. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "85:25",
+      "seconds": 5125,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=5125s"
+    },
+    "tags": [
+      "Perubahan",
+      "JLPT N2"
+    ],
+    "keywords": "とともに bersamaan dengan; bersama",
+    "category": "Perubahan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Seiring bertambahnya usia, cara berpikir juga berubah.",
+        "jp": "年齢とともに、考え方も変わる。",
+        "furiganaHtml": "年齢とともに、考え方も変わる。",
+        "translation": "Seiring bertambahnya usia, cara berpikir juga berubah."
+      }
+    ]
+  },
+  {
+    "id": "n2-062",
+    "patternNumber": 62,
+    "title": "ないことには",
+    "displayTitle": "～ないことには",
+    "jp": "ないことには",
+    "kana": "ないことには",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "kalau tidak ... maka tidak",
+    "formula": "Vない + ことには",
+    "explanation": "Pola ないことには digunakan untuk menyatakan kalau tidak ... maka tidak. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "86:50",
+      "seconds": 5210,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=5210s"
+    },
+    "tags": [
+      "Syarat",
+      "JLPT N2"
+    ],
+    "keywords": "ないことには kalau tidak ... maka tidak",
+    "category": "Syarat",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Kalau tidak melihat langsung, tidak bisa menilai.",
+        "jp": "実際に見ないことには、判断できない。",
+        "furiganaHtml": "実際に見ないことには、判断できない。",
+        "translation": "Kalau tidak melihat langsung, tidak bisa menilai."
+      }
+    ]
+  },
+  {
+    "id": "n2-063",
+    "patternNumber": 63,
+    "title": "ないではいられない",
+    "displayTitle": "～ないではいられない",
+    "jp": "ないではいられない",
+    "kana": "ないではいられない",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tidak bisa menahan diri untuk tidak",
+    "formula": "Vないではいられない",
+    "explanation": "Pola ないではいられない digunakan untuk menyatakan tidak bisa menahan diri untuk tidak. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "88:15",
+      "seconds": 5295,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=5295s"
+    },
+    "tags": [
+      "Emosi",
+      "JLPT N2"
+    ],
+    "keywords": "ないではいられない tidak bisa menahan diri untuk tidak",
+    "category": "Emosi",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Saat menonton film itu, saya tidak bisa menahan tangis.",
+        "jp": "その映画を見ると、泣かないではいられない。",
+        "furiganaHtml": "その映画を見ると、泣かないではいられない。",
+        "translation": "Saat menonton film itu, saya tidak bisa menahan tangis."
+      }
+    ]
+  },
+  {
+    "id": "n2-064",
+    "patternNumber": 64,
+    "title": "など",
+    "displayTitle": "～など",
+    "jp": "など",
+    "kana": "など",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "seperti; dan sebagainya",
+    "formula": "N + など",
+    "explanation": "Pola など digunakan untuk menyatakan seperti; dan sebagainya. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "89:40",
+      "seconds": 5380,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=5380s"
+    },
+    "tags": [
+      "Contoh",
+      "JLPT N2"
+    ],
+    "keywords": "など seperti; dan sebagainya",
+    "category": "Contoh",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Saya membaca buku, majalah, dan sebagainya.",
+        "jp": "本や雑誌などを読んでいる。",
+        "furiganaHtml": "本や雑誌などを読んでいる。",
+        "translation": "Saya membaca buku, majalah, dan sebagainya."
+      }
+    ]
+  },
+  {
+    "id": "n2-065",
+    "patternNumber": 65,
+    "title": "ならでは",
+    "displayTitle": "～ならでは",
+    "jp": "ならでは",
+    "kana": "ならでは",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "hanya khas",
+    "formula": "N + ならではの + N",
+    "explanation": "Pola ならでは digunakan untuk menyatakan hanya khas. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "91:05",
+      "seconds": 5465,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=5465s"
+    },
+    "tags": [
+      "Keunikan",
+      "JLPT N2"
+    ],
+    "keywords": "ならでは hanya khas",
+    "category": "Keunikan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Ini pemandangan khas Kyoto.",
+        "jp": "これは京都ならではの景色だ。",
+        "furiganaHtml": "これは京都ならではの景色だ。",
+        "translation": "Ini pemandangan khas Kyoto."
+      }
+    ]
+  },
+  {
+    "id": "n2-066",
+    "patternNumber": 66,
+    "title": "にあたって",
+    "displayTitle": "～にあたって",
+    "jp": "にあたって",
+    "kana": "にあたって",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "pada saat akan; dalam rangka",
+    "formula": "N/V kamus + にあたって",
+    "explanation": "Pola にあたって digunakan untuk menyatakan pada saat akan; dalam rangka. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "92:30",
+      "seconds": 5550,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=5550s"
+    },
+    "tags": [
+      "Kesempatan",
+      "JLPT N2"
+    ],
+    "keywords": "にあたって pada saat akan; dalam rangka",
+    "category": "Kesempatan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Saat masuk sekolah, saya menyerahkan dokumen.",
+        "jp": "入学にあたって、書類を提出する。",
+        "furiganaHtml": "入学にあたって、書類を提出する。",
+        "translation": "Saat masuk sekolah, saya menyerahkan dokumen."
+      }
+    ]
+  },
+  {
+    "id": "n2-067",
+    "patternNumber": 67,
+    "title": "において",
+    "displayTitle": "～において",
+    "jp": "において",
+    "kana": "において",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "di; dalam (formal)",
+    "formula": "N + において",
+    "explanation": "Pola において digunakan untuk menyatakan di; dalam (formal). Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "93:55",
+      "seconds": 5635,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=5635s"
+    },
+    "tags": [
+      "Tempat/bidang",
+      "JLPT N2"
+    ],
+    "keywords": "において di; dalam (formal)",
+    "category": "Tempat/bidang",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Dalam masyarakat modern, informasi penting.",
+        "jp": "現代社会において、情報は重要だ。",
+        "furiganaHtml": "現代社会において、情報は重要だ。",
+        "translation": "Dalam masyarakat modern, informasi penting."
+      }
+    ]
+  },
+  {
+    "id": "n2-068",
+    "patternNumber": 68,
+    "title": "に先立って",
+    "displayTitle": "～に先立って",
+    "jp": "に先立って",
+    "kana": "にさきだって",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "sebelum; mendahului",
+    "formula": "N/V kamus + に先立って",
+    "explanation": "Pola に先立って digunakan untuk menyatakan sebelum; mendahului. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "95:20",
+      "seconds": 5720,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=5720s"
+    },
+    "tags": [
+      "Urutan",
+      "JLPT N2"
+    ],
+    "keywords": "に先立って sebelum; mendahului",
+    "category": "Urutan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Sebelum upacara, diadakan pengarahan.",
+        "jp": "式典に先立って、説明会を開く。",
+        "furiganaHtml": "式典に先立って、説明会を開く。",
+        "translation": "Sebelum upacara, diadakan pengarahan."
+      }
+    ]
+  },
+  {
+    "id": "n2-069",
+    "patternNumber": 69,
+    "title": "に沿って",
+    "displayTitle": "～に沿って",
+    "jp": "に沿って",
+    "kana": "にそって",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "sesuai dengan; sepanjang",
+    "formula": "N + に沿って",
+    "explanation": "Pola に沿って digunakan untuk menyatakan sesuai dengan; sepanjang. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "96:45",
+      "seconds": 5805,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=5805s"
+    },
+    "tags": [
+      "Kesesuaian",
+      "JLPT N2"
+    ],
+    "keywords": "に沿って sesuai dengan; sepanjang",
+    "category": "Kesesuaian",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Kami melanjutkan pekerjaan sesuai rencana.",
+        "jp": "計画に沿って作業を進める。",
+        "furiganaHtml": "計画に沿って作業を進める。",
+        "translation": "Kami melanjutkan pekerjaan sesuai rencana."
+      }
+    ]
+  },
+  {
+    "id": "n2-070",
+    "patternNumber": 70,
+    "title": "に対して",
+    "displayTitle": "～に対して",
+    "jp": "に対して",
+    "kana": "にたいして",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "terhadap; sedangkan",
+    "formula": "N + に対して",
+    "explanation": "Pola に対して digunakan untuk menyatakan terhadap; sedangkan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "98:10",
+      "seconds": 5890,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=5890s"
+    },
+    "tags": [
+      "Relasi",
+      "JLPT N2"
+    ],
+    "keywords": "に対して terhadap; sedangkan",
+    "category": "Relasi",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Saya menjawab pertanyaan itu dengan sopan.",
+        "jp": "質問に対して、丁寧に答えた。",
+        "furiganaHtml": "質問に対して、丁寧に答えた。",
+        "translation": "Saya menjawab pertanyaan itu dengan sopan."
+      }
+    ]
+  },
+  {
+    "id": "n2-071",
+    "patternNumber": 71,
+    "title": "につれて",
+    "displayTitle": "～につれて",
+    "jp": "につれて",
+    "kana": "につれて",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "seiring dengan",
+    "formula": "N/V kamus + につれて",
+    "explanation": "Pola につれて digunakan untuk menyatakan seiring dengan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "99:35",
+      "seconds": 5975,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=5975s"
+    },
+    "tags": [
+      "Perubahan",
+      "JLPT N2"
+    ],
+    "keywords": "につれて seiring dengan",
+    "category": "Perubahan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Seiring datangnya musim semi, cuaca menghangat.",
+        "jp": "春になるにつれて、暖かくなる。",
+        "furiganaHtml": "春になるにつれて、暖かくなる。",
+        "translation": "Seiring datangnya musim semi, cuaca menghangat."
+      }
+    ]
+  },
+  {
+    "id": "n2-072",
+    "patternNumber": 72,
+    "title": "に伴って",
+    "displayTitle": "～に伴って",
+    "jp": "に伴って",
+    "kana": "にともなって",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "seiring dengan; disertai",
+    "formula": "N/V kamus + に伴って",
+    "explanation": "Pola に伴って digunakan untuk menyatakan seiring dengan; disertai. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "101:00",
+      "seconds": 6060,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=6060s"
+    },
+    "tags": [
+      "Perubahan",
+      "JLPT N2"
+    ],
+    "keywords": "に伴って seiring dengan; disertai",
+    "category": "Perubahan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Seiring pertumbuhan penduduk, masalah juga bertambah.",
+        "jp": "人口の増加に伴って、問題も増えた。",
+        "furiganaHtml": "人口の増加に伴って、問題も増えた。",
+        "translation": "Seiring pertumbuhan penduduk, masalah juga bertambah."
+      }
+    ],
+    "reviewNeeded": true,
+    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required."
+  },
+  {
+    "id": "n2-073",
+    "patternNumber": 73,
+    "title": "にほかならない",
+    "displayTitle": "～にほかならない",
+    "jp": "にほかならない",
+    "kana": "にほかならない",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tidak lain adalah",
+    "formula": "N/bentuk biasa + にほかならない",
+    "explanation": "Pola にほかならない digunakan untuk menyatakan tidak lain adalah. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "102:25",
+      "seconds": 6145,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=6145s"
+    },
+    "tags": [
+      "Penegasan",
+      "JLPT N2"
+    ],
+    "keywords": "にほかならない tidak lain adalah",
+    "category": "Penegasan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Keberhasilan tidak lain adalah hasil usaha.",
+        "jp": "成功は努力の結果にほかならない。",
+        "furiganaHtml": "成功は努力の結果にほかならない。",
+        "translation": "Keberhasilan tidak lain adalah hasil usaha."
+      }
+    ]
+  },
+  {
+    "id": "n2-074",
+    "patternNumber": 74,
+    "title": "のもとで",
+    "displayTitle": "～のもとで",
+    "jp": "のもとで",
+    "kana": "のもとで",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "di bawah; dalam naungan",
+    "formula": "N + のもとで",
+    "explanation": "Pola のもとで digunakan untuk menyatakan di bawah; dalam naungan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "103:50",
+      "seconds": 6230,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=6230s"
+    },
+    "tags": [
+      "Naungan",
+      "JLPT N2"
+    ],
+    "keywords": "のもとで di bawah; dalam naungan",
+    "category": "Naungan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Saya meneliti di bawah bimbingan guru.",
+        "jp": "先生の指導のもとで研究した。",
+        "furiganaHtml": "先生の指導のもとで研究した。",
+        "translation": "Saya meneliti di bawah bimbingan guru."
+      }
+    ]
+  },
+  {
+    "id": "n2-075",
+    "patternNumber": 75,
+    "title": "はもとより",
+    "displayTitle": "～はもとより",
+    "jp": "はもとより",
+    "kana": "はもとより",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "apalagi; belum lagi",
+    "formula": "N + はもとより",
+    "explanation": "Pola はもとより digunakan untuk menyatakan apalagi; belum lagi. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "105:15",
+      "seconds": 6315,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=6315s"
+    },
+    "tags": [
+      "Penambahan",
+      "JLPT N2"
+    ],
+    "keywords": "はもとより apalagi; belum lagi",
+    "category": "Penambahan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Dia bisa berbahasa Inggris, bahkan bahasa Mandarin juga.",
+        "jp": "彼は英語はもとより、中国語も話せる。",
+        "furiganaHtml": "彼は英語はもとより、中国語も話せる。",
+        "translation": "Dia bisa berbahasa Inggris, bahkan bahasa Mandarin juga."
+      }
+    ]
+  },
+  {
+    "id": "n2-076",
+    "patternNumber": 76,
+    "title": "反面",
+    "displayTitle": "～反面",
+    "jp": "反面",
+    "kana": "はんめん",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "di sisi lain",
+    "formula": "bentuk biasa/N + 反面",
+    "explanation": "Pola 反面 digunakan untuk menyatakan di sisi lain. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "106:40",
+      "seconds": 6400,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=6400s"
+    },
+    "tags": [
+      "Kontras",
+      "JLPT N2"
+    ],
+    "keywords": "反面 di sisi lain",
+    "category": "Kontras",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Di sisi lain, meski praktis, biayanya mahal.",
+        "jp": "便利な反面、費用が高い。",
+        "furiganaHtml": "便利な反面、費用が高い。",
+        "translation": "Di sisi lain, meski praktis, biayanya mahal."
+      }
+    ]
+  },
+  {
+    "id": "n2-077",
+    "patternNumber": 77,
+    "title": "まい",
+    "displayTitle": "～まい",
+    "jp": "まい",
+    "kana": "まい",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tidak akan; mungkin tidak",
+    "formula": "V kamus + まい",
+    "explanation": "Pola まい digunakan untuk menyatakan tidak akan; mungkin tidak. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "108:05",
+      "seconds": 6485,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=6485s"
+    },
+    "tags": [
+      "Tekad",
+      "JLPT N2"
+    ],
+    "keywords": "まい tidak akan; mungkin tidak",
+    "category": "Tekad",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Saya tidak akan mengulangi kesalahan yang sama.",
+        "jp": "二度と同じ失敗はするまい。",
+        "furiganaHtml": "二度と同じ失敗はするまい。",
+        "translation": "Saya tidak akan mengulangi kesalahan yang sama."
+      }
+    ]
+  },
+  {
+    "id": "n2-078",
+    "patternNumber": 78,
+    "title": "まるで",
+    "displayTitle": "～まるで",
+    "jp": "まるで",
+    "kana": "まるで",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "seolah-olah; benar-benar seperti",
+    "formula": "まるで + Nのようだ",
+    "explanation": "Pola まるで digunakan untuk menyatakan seolah-olah; benar-benar seperti. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "109:30",
+      "seconds": 6570,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=6570s"
+    },
+    "tags": [
+      "Perbandingan",
+      "JLPT N2"
+    ],
+    "keywords": "まるで seolah-olah; benar-benar seperti",
+    "category": "Perbandingan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Ceritanya benar-benar seperti mimpi.",
+        "jp": "彼の話はまるで夢のようだ。",
+        "furiganaHtml": "彼の話はまるで夢のようだ。",
+        "translation": "Ceritanya benar-benar seperti mimpi."
+      }
+    ],
+    "reviewNeeded": true,
+    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required."
+  },
+  {
+    "id": "n2-079",
+    "patternNumber": 79,
+    "title": "むしろ",
+    "displayTitle": "～むしろ",
+    "jp": "むしろ",
+    "kana": "むしろ",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "malah; lebih tepatnya",
+    "formula": "むしろ + predikat",
+    "explanation": "Pola むしろ digunakan untuk menyatakan malah; lebih tepatnya. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "110:55",
+      "seconds": 6655,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=6655s"
+    },
+    "tags": [
+      "Perbandingan",
+      "JLPT N2"
+    ],
+    "keywords": "むしろ malah; lebih tepatnya",
+    "category": "Perbandingan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Daripada marah, dia malah tertawa.",
+        "jp": "彼は怒るより、むしろ笑った。",
+        "furiganaHtml": "彼は怒るより、むしろ笑った。",
+        "translation": "Daripada marah, dia malah tertawa."
+      }
+    ]
+  },
+  {
+    "id": "n2-080",
+    "patternNumber": 80,
+    "title": "もかまわず",
+    "displayTitle": "～もかまわず",
+    "jp": "もかまわず",
+    "kana": "もかまわず",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tanpa memedulikan",
+    "formula": "Nもかまわず",
+    "explanation": "Pola もかまわず digunakan untuk menyatakan tanpa memedulikan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "112:20",
+      "seconds": 6740,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=6740s"
+    },
+    "tags": [
+      "Sikap",
+      "JLPT N2"
+    ],
+    "keywords": "もかまわず tanpa memedulikan",
+    "category": "Sikap",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Dia bernyanyi tanpa memedulikan pandangan sekitar.",
+        "jp": "彼は周囲の目もかまわず歌った。",
+        "furiganaHtml": "彼は周囲の目もかまわず歌った。",
+        "translation": "Dia bernyanyi tanpa memedulikan pandangan sekitar."
+      }
+    ]
+  },
+  {
+    "id": "n2-081",
+    "patternNumber": 81,
+    "title": "もとより",
+    "displayTitle": "～もとより",
+    "jp": "もとより",
+    "kana": "もとより",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tentu saja; sejak awal",
+    "formula": "Nはもとより / もとより",
+    "explanation": "Pola もとより digunakan untuk menyatakan tentu saja; sejak awal. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "113:45",
+      "seconds": 6825,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=6825s"
+    },
+    "tags": [
+      "Penegasan",
+      "JLPT N2"
+    ],
+    "keywords": "もとより tentu saja; sejak awal",
+    "category": "Penegasan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Sejak awal dia memang berniat ikut.",
+        "jp": "彼はもとより参加するつもりだった。",
+        "furiganaHtml": "彼はもとより参加するつもりだった。",
+        "translation": "Sejak awal dia memang berniat ikut."
+      }
+    ]
+  },
+  {
+    "id": "n2-082",
+    "patternNumber": 82,
+    "title": "ようがない",
+    "displayTitle": "～ようがない",
+    "jp": "ようがない",
+    "kana": "ようがない",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tidak ada cara untuk",
+    "formula": "V stem ます + ようがない",
+    "explanation": "Pola ようがない digunakan untuk menyatakan tidak ada cara untuk. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "115:10",
+      "seconds": 6910,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=6910s"
+    },
+    "tags": [
+      "Kemustahilan",
+      "JLPT N2"
+    ],
+    "keywords": "ようがない tidak ada cara untuk",
+    "category": "Kemustahilan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Karena tidak ada kontak, tidak ada cara mencarinya.",
+        "jp": "連絡先がなく、探しようがない。",
+        "furiganaHtml": "連絡先がなく、探しようがない。",
+        "translation": "Karena tidak ada kontak, tidak ada cara mencarinya."
+      }
+    ]
+  },
+  {
+    "id": "n2-083",
+    "patternNumber": 83,
+    "title": "ようでは",
+    "displayTitle": "～ようでは",
+    "jp": "ようでは",
+    "kana": "ようでは",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "kalau sampai ... (buruk)",
+    "formula": "Vようでは",
+    "explanation": "Pola ようでは digunakan untuk menyatakan kalau sampai ... (buruk). Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "116:35",
+      "seconds": 6995,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=6995s"
+    },
+    "tags": [
+      "Peringatan",
+      "JLPT N2"
+    ],
+    "keywords": "ようでは kalau sampai ... (buruk)",
+    "category": "Peringatan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Kalau bersikap begitu, mustahil dipercaya.",
+        "jp": "そんな態度では、信頼されようがない。",
+        "furiganaHtml": "そんな態度では、信頼されようがない。",
+        "translation": "Kalau bersikap begitu, mustahil dipercaya."
+      }
+    ]
+  },
+  {
+    "id": "n2-084",
+    "patternNumber": 84,
+    "title": "ように",
+    "displayTitle": "～ように",
+    "jp": "ように",
+    "kana": "ように",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "agar; seperti",
+    "formula": "V kamus/ない + ように",
+    "explanation": "Pola ように digunakan untuk menyatakan agar; seperti. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "118:00",
+      "seconds": 7080,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=7080s"
+    },
+    "tags": [
+      "Tujuan",
+      "JLPT N2"
+    ],
+    "keywords": "ように agar; seperti",
+    "category": "Tujuan",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Tolong catat agar tidak lupa.",
+        "jp": "忘れないように、メモしてください。",
+        "furiganaHtml": "忘れないように、メモしてください。",
+        "translation": "Tolong catat agar tidak lupa."
+      }
+    ]
+  },
+  {
+    "id": "n2-085",
+    "patternNumber": 85,
+    "title": "わりに",
+    "displayTitle": "～わりに",
+    "jp": "わりに",
+    "kana": "わりに",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "walaupun; dibandingkan dengan",
+    "formula": "bentuk biasa/Nの + わりに",
+    "explanation": "Pola わりに digunakan untuk menyatakan walaupun; dibandingkan dengan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "119:25",
+      "seconds": 7165,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=7165s"
+    },
+    "tags": [
+      "Kontras",
+      "JLPT N2"
+    ],
+    "keywords": "わりに walaupun; dibandingkan dengan",
+    "category": "Kontras",
+    "formality": "netral",
+    "examples": [
+      {
+        "id": "Makanan ini enak walaupun murah.",
+        "jp": "この料理は安いわりに、おいしい。",
+        "furiganaHtml": "この料理は安いわりに、おいしい。",
+        "translation": "Makanan ini enak walaupun murah."
+      }
+    ]
+  },
+  {
+    "id": "n2-086",
+    "patternNumber": 86,
+    "title": "をめぐって",
+    "displayTitle": "～をめぐって",
+    "jp": "をめぐって",
+    "kana": "をめぐって",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "seputar; mengenai perselisihan",
+    "formula": "N + をめぐって",
+    "explanation": "Pola をめぐって digunakan untuk menyatakan seputar; mengenai perselisihan. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "120:50",
+      "seconds": 7250,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=7250s"
+    },
+    "tags": [
+      "Perdebatan",
+      "JLPT N2"
+    ],
+    "keywords": "をめぐって seputar; mengenai perselisihan",
+    "category": "Perdebatan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Pendapat terbagi mengenai rencana itu.",
+        "jp": "計画をめぐって、意見が分かれた。",
+        "furiganaHtml": "計画をめぐって、意見が分かれた。",
+        "translation": "Pendapat terbagi mengenai rencana itu."
+      }
+    ]
+  },
+  {
+    "id": "n2-087",
+    "patternNumber": 87,
+    "title": "を問わず",
+    "displayTitle": "～を問わず",
+    "jp": "を問わず",
+    "kana": "をとわず",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "tanpa memandang",
+    "formula": "N + を問わず",
+    "explanation": "Pola を問わず digunakan untuk menyatakan tanpa memandang. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "122:15",
+      "seconds": 7335,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=7335s"
+    },
+    "tags": [
+      "Aturan",
+      "JLPT N2"
+    ],
+    "keywords": "を問わず tanpa memandang",
+    "category": "Aturan",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Siapa pun dapat melamar tanpa memandang pengalaman.",
+        "jp": "経験の有無を問わず応募できる。",
+        "furiganaHtml": "経験の有無を問わず応募できる。",
+        "translation": "Siapa pun dapat melamar tanpa memandang pengalaman."
+      }
+    ]
+  },
+  {
+    "id": "n2-088",
+    "patternNumber": 88,
+    "title": "を通じて",
+    "displayTitle": "～を通じて",
+    "jp": "を通じて",
+    "kana": "をつうじて",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "melalui; sepanjang",
+    "formula": "N + を通じて",
+    "explanation": "Pola を通じて digunakan untuk menyatakan melalui; sepanjang. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "123:40",
+      "seconds": 7420,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=7420s"
+    },
+    "tags": [
+      "Media/waktu",
+      "JLPT N2"
+    ],
+    "keywords": "を通じて melalui; sepanjang",
+    "category": "Media/waktu",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Sepanjang tahun, banyak turis berkunjung.",
+        "jp": "一年を通じて、多くの観光客が訪れる。",
+        "furiganaHtml": "一年を通じて、多くの観光客が訪れる。",
+        "translation": "Sepanjang tahun, banyak turis berkunjung."
+      }
+    ]
+  },
+  {
+    "id": "n2-089",
+    "patternNumber": 89,
+    "title": "をはじめ",
+    "displayTitle": "～をはじめ",
+    "jp": "をはじめ",
+    "kana": "をはじめ",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "mulai dari; termasuk",
+    "formula": "N + をはじめ",
+    "explanation": "Pola をはじめ digunakan untuk menyatakan mulai dari; termasuk. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "125:05",
+      "seconds": 7505,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=7505s"
+    },
+    "tags": [
+      "Contoh",
+      "JLPT N2"
+    ],
+    "keywords": "をはじめ mulai dari; termasuk",
+    "category": "Contoh",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Acara ini diadakan di banyak kota, termasuk Tokyo.",
+        "jp": "東京をはじめ、多くの都市で開催される。",
+        "furiganaHtml": "東京をはじめ、多くの都市で開催される。",
+        "translation": "Acara ini diadakan di banyak kota, termasuk Tokyo."
+      }
+    ]
+  },
+  {
+    "id": "n2-090",
+    "patternNumber": 90,
+    "title": "をもとに",
+    "displayTitle": "～をもとに",
+    "jp": "をもとに",
+    "kana": "をもとに",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "berdasarkan pada",
+    "formula": "N + をもとに",
+    "explanation": "Pola をもとに digunakan untuk menyatakan berdasarkan pada. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "126:30",
+      "seconds": 7590,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=7590s"
+    },
+    "tags": [
+      "Dasar",
+      "JLPT N2"
+    ],
+    "keywords": "をもとに berdasarkan pada",
+    "category": "Dasar",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Saya membuat laporan berdasarkan hasil survei.",
+        "jp": "調査結果をもとに、報告書を作成した。",
+        "furiganaHtml": "調査結果をもとに、報告書を作成した。",
+        "translation": "Saya membuat laporan berdasarkan hasil survei."
+      }
+    ]
+  },
+  {
+    "id": "n2-091",
+    "patternNumber": 91,
+    "title": "に応じて",
+    "displayTitle": "～に応じて",
+    "jp": "に応じて",
+    "kana": "におうじて",
+    "romaji": "",
+    "level": "N2",
+    "available": true,
+    "statusText": "Tersedia",
+    "meaning": "sesuai dengan; bergantung pada",
+    "formula": "N + に応じて",
+    "explanation": "Pola に応じて digunakan untuk menyatakan sesuai dengan; bergantung pada. Makna mengikuti konteks pengantar pola pada transcript video.",
+    "videoTimestamp": {
+      "time": "127:55",
+      "seconds": 7675,
+      "youtubeUrl": "https://youtu.be/VcaLbwTMS9M?t=7675s"
+    },
+    "tags": [
+      "Kesesuaian",
+      "JLPT N2"
+    ],
+    "keywords": "に応じて sesuai dengan; bergantung pada",
+    "category": "Kesesuaian",
+    "formality": "formal",
+    "examples": [
+      {
+        "id": "Pekerjaan diberikan sesuai kemampuan.",
+        "jp": "能力に応じて、仕事を任せる。",
+        "furiganaHtml": "能力に応じて、仕事を任せる。",
+        "translation": "Pekerjaan diberikan sesuai kemampuan."
+      }
+    ],
+    "reviewNeeded": true,
+    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required."
+  }
+]

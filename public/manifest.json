@@ -1,0 +1,19 @@
+{
+  "name": "LearningN2",
+  "short_name": "LearningN2",
+  "description": "Belajar bunpou JLPT N2 dalam Bahasa Indonesia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#38bdf8",
+  "lang": "id",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ],
+  "shortcuts": [
+    { "name": "Pola bunpou", "url": "/#patterns" },
+    { "name": "Quiz", "url": "/#quiz" }
+  ]
+}

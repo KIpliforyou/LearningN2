@@ -1,0 +1,3 @@
+import "./globals.css"; import type {Metadata,Viewport} from "next";
+export const metadata:Metadata={title:"LearningN2",description:"Belajar bunpou JLPT N2"}; export const viewport:Viewport={themeColor:"#6750e8"};
+export default function Layout({children}:{children:React.ReactNode}){return <html lang="id"><body>{children}<script dangerouslySetInnerHTML={{__html:`if('serviceWorker' in navigator) navigator.serviceWorker.register('/sw.js')`}}/></body></html>}
