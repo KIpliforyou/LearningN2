@@ -31,6 +31,9 @@ button:focus-visible, input:focus-visible, textarea:focus-visible { outline: 3px
 .modal { width: min(100%, 620px); max-height: min(720px, calc(100dvh - 40px)); overflow: auto; }
 .modal-header { display: flex; justify-content: space-between; align-items: start; gap: 12px; }
 .example { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 12px 0; border-top: 1px solid #e6e4f5; font-size: 20px; }
+.example-copy { min-width: 0; }
+.example-japanese { font-size: 20px; }
+.example-translation { margin-top: 6px; color: var(--muted); font-size: 15px; line-height: 1.5; }
 .answer { padding: 14px; border-radius: 12px; background: #eeeaff; }
 @media (max-width: 600px) {
   .shell { padding: 16px; }

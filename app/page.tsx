@@ -224,7 +224,10 @@ export default function Home() {
             <p><b>Penjelasan:</b> {selected.explanation}</p>
             {selected.examples.map((example) => (
               <div className="example" key={example.id}>
-                <div dangerouslySetInnerHTML={{ __html: example.furiganaHtml }} />
+                <div className="example-copy">
+                  <div className="example-japanese" dangerouslySetInnerHTML={{ __html: example.furiganaHtml }} />
+                  <div className="example-translation"><b>Arti contoh:</b> {example.translation}</div>
+                </div>
                 <button className="btn" onClick={() => speak(example.jp)}>Audio Jepang</button>
               </div>
             ))}

@@ -59,8 +59,8 @@ function validate(): void {
         reviewCount++;
       }
       for (const ex of item.examples) {
-        if (!ex.jp || !ex.id || !ex.furiganaHtml) {
-          throw new Error(`Active item ${item.id} has invalid example: missing jp, id, or furiganaHtml`);
+        if (!ex.jp || !ex.id || !ex.furiganaHtml || !ex.translation || ex.translation.trim() === "") {
+          throw new Error(`Active item ${item.id} has invalid example: missing jp, id, furiganaHtml, or translation`);
         }
         if (!ex.furiganaHtml.includes("<ruby>")) {
           throw new Error(`Active item ${item.id} example must contain ruby furigana`);

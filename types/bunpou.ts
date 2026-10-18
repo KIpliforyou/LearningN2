@@ -1,6 +1,7 @@
 export interface ExampleSentence {
   jp: string;
   furiganaHtml: string;
+  translation: string;
   id: string;
 }
 
