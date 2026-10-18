@@ -33,10 +33,10 @@ npm run build
 - Bunpou detail: formula, core explanation, usage, comparison, examples, furigana toggle, audio, timestamp link, notes.
 - LocalStorage persistence with try/catch and normalized schema.
 - Import/export progress with validation and merge behavior.
-- Flashcards with simple SM-2 ratings and due queue.
-- Quiz, mock exam, favorites, status filters, streak, review history.
-- PWA manifest, generated icons, service worker shell caching.
-- Local admin/import route at `/admin` for verified content updates; placeholders stay unavailable until verified.
+- Detail pola dengan contoh furigana, audio browser, catatan, favorit, dan review SM-2.
+- Quiz kilat, pencarian, filter status, due review, serta progress mastered.
+- Import/export progress JSON dengan normalisasi dan migrasi key lama.
+- PWA manifest, icons, dan service worker untuk app shell; data pribadi tetap di localStorage.
 
 ## Data workflow
 

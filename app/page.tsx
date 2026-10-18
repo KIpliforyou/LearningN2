@@ -71,6 +71,17 @@ export default function Home() {
     if (migrateLegacyProgress()) setProgress(loadProgress());
   }, []);
 
+  useEffect(() => {
+    function closeOnEscape(event: KeyboardEvent) {
+      if (event.key === 'Escape') {
+        setSelected(null);
+        setQuizPattern(null);
+      }
+    }
+    window.addEventListener('keydown', closeOnEscape);
+    return () => window.removeEventListener('keydown', closeOnEscape);
+  }, []);
+
   const filtered = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
     return activePatterns.filter((pattern) => {
