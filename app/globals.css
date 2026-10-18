@@ -20,6 +20,10 @@ button:focus-visible, input:focus-visible, textarea:focus-visible { outline: 3px
 .tag { display: inline-block; background: #eeeaff; color: var(--purple); padding: 5px 9px; border-radius: 999px; font-size: 12px; font-weight: 700; }
 .search { width: 100%; padding: 14px; border: 1px solid #dedcf5; border-radius: 14px; margin: 14px 0; }
 .jp { font-size: 25px; font-weight: 800; }
+.meaning-block { margin: 12px 0; padding: 12px 14px; border-left: 4px solid var(--purple); border-radius: 10px; background: #f0edff; }
+.meaning-block p { margin: 4px 0 0; font-weight: 650; }
+.meaning-label { color: var(--purple); font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: .05em; }
+.meaning-block--detail { font-size: 18px; }
 .actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 14px; align-items: center; }
 .stat { font-size: 30px; font-weight: 900; }
 .section { margin: 24px 0; }

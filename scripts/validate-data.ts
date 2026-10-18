@@ -43,6 +43,9 @@ function validate(): void {
       if (!item.meaning || item.meaning.trim() === "") {
         throw new Error(`Active item ${item.id} has empty meaning`);
       }
+      if (/^(meaning|arti|terjemahan|todo|tbd|placeholder)$/i.test(item.meaning.trim())) {
+        throw new Error(`Active item ${item.id} has placeholder meaning`);
+      }
       if (!item.formula || item.formula.trim() === "") {
         throw new Error(`Active item ${item.id} has empty formula`);
       }

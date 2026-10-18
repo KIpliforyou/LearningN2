@@ -196,7 +196,10 @@ export default function Home() {
                 <span className="tag">{itemProgress.status}</span>
                 <h3>{pattern.title}</h3>
                 <div className="jp">{pattern.jp}</div>
-                <p>{pattern.meaning}</p>
+                <div className="meaning-block">
+                  <div className="meaning-label">Arti pola</div>
+                  <p>{pattern.meaning}</p>
+                </div>
                 <div className="actions">
                   <button className="btn primary" onClick={() => setSelected(pattern)}>Belajar</button>
                   <button className="btn" onClick={() => updatePattern(pattern.id, { favorite: !itemProgress.favorite })}>{itemProgress.favorite ? "★ Favorit" : "☆ Simpan"}</button>
@@ -213,6 +216,10 @@ export default function Home() {
           <section className="modal card" role="dialog" aria-modal="true" aria-labelledby="pattern-title" onClick={(event) => event.stopPropagation()}>
             <div className="modal-header"><h2 id="pattern-title">{selected.displayTitle}</h2><button className="btn" onClick={() => setSelected(null)}>Tutup</button></div>
             <div className="jp">{selected.jp} ・ {selected.kana}</div>
+            <div className="meaning-block meaning-block--detail">
+              <div className="meaning-label">Arti pola</div>
+              <p>{selected.meaning}</p>
+            </div>
             <p><b>Rumus:</b> {selected.formula}</p>
             <p><b>Penjelasan:</b> {selected.explanation}</p>
             {selected.examples.map((example) => (
