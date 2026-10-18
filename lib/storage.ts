@@ -1,6 +1,7 @@
 import { FullUserProgress, PatternProgress, StudyStatus, UserStats } from '../types/bunpou';
 
 export const STORAGE_KEY = 'learningn2-progress-v1';
+export const LEGACY_STORAGE_KEY = 'learningn2-progress';
 export const DEFAULT_EASE_FACTOR = 2.5;
 
 export const defaultPatternProgress = (): PatternProgress => ({
