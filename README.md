@@ -29,14 +29,12 @@ npm run build
 
 ## Features
 
-- Dashboard with active count, progress, streak, search, filters, and focus mode.
-- Bunpou detail: formula, core explanation, usage, comparison, examples, furigana toggle, audio, timestamp link, notes.
-- LocalStorage persistence with try/catch and normalized schema.
-- Import/export progress with validation and merge behavior.
-- Detail pola dengan contoh furigana, audio browser, catatan, favorit, dan review SM-2.
-- Quiz kilat, pencarian, filter status, due review, serta progress mastered.
-- Import/export progress JSON dengan normalisasi dan migrasi key lama.
-- PWA manifest, icons, dan service worker untuk app shell; data pribadi tetap di localStorage.
+- Dashboard with active count, mastered progress, review queue, search, and filters.
+- Detail pola: rumus, penjelasan, contoh furigana, audio Jepang, catatan, favorit, dan review SM-2.
+- Quiz kilat dan status belajar (`unstudied`, `learning`, `mastered`).
+- LocalStorage persistence with try/catch, normalized schema, and legacy-key migration.
+- Import/export progress JSON with validation and merge behavior.
+- PWA manifest, icons, and service worker for app shell; personal data stays in localStorage.
 
 ## Data workflow
 
