@@ -52,9 +52,15 @@ function validate(): void {
       if (!Array.isArray(item.examples) || item.examples.length === 0) {
         throw new Error(`Active item ${item.id} must have at least one example sentence`);
       }
+      if (item.reviewNeeded === true) {
+        reviewCount++;
+      }
       for (const ex of item.examples) {
         if (!ex.jp || !ex.id || !ex.furiganaHtml) {
           throw new Error(`Active item ${item.id} has invalid example: missing jp, id, or furiganaHtml`);
+        }
+        if (!ex.furiganaHtml.includes("<ruby>")) {
+          throw new Error(`Active item ${item.id} example must contain ruby furigana`);
         }
       }
     } else if (item.available === false) {

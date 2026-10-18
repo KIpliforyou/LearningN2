@@ -29,7 +29,7 @@
       {
         "id": "Harga terus naik tanpa henti.",
         "jp": "物価は上がる一方だ。",
-        "furiganaHtml": "物価は上がる一方だ。",
+        "furiganaHtml": "<ruby>物価<rt>ぶっか</rt></ruby>は<ruby>上が<rt>あが</rt></ruby>る<ruby>一方<rt>いっぽう</rt></ruby>だ。",
         "translation": "Harga terus naik tanpa henti."
       }
     ]
@@ -64,7 +64,7 @@
       {
         "id": "Setiap pagi, saya terus berolahraga tanpa pernah melewatkannya.",
         "jp": "毎朝、運動を欠かさず続けている。",
-        "furiganaHtml": "毎朝、運動を欠かさず続けている。",
+        "furiganaHtml": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>運動<rt>うんどう</rt></ruby>を<ruby>欠か<rt>かか</rt></ruby>さず<ruby>続け<rt>つづけ</rt></ruby>ている。",
         "translation": "Setiap pagi, saya terus berolahraga tanpa pernah melewatkannya."
       }
     ],
@@ -101,7 +101,7 @@
       {
         "id": "Saya akan menjawab setelah mempertimbangkannya baik-baik.",
         "jp": "よく考えた上で、返事をします。",
-        "furiganaHtml": "よく考えた上で、返事をします。",
+        "furiganaHtml": "よく<ruby>考え<rt>かんがえ</rt></ruby>た<ruby>上で<rt>うえで</rt></ruby>、<ruby>返事<rt>へんじ</rt></ruby>をします。",
         "translation": "Saya akan menjawab setelah mempertimbangkannya baik-baik."
       }
     ]
@@ -136,7 +136,7 @@
       {
         "id": "Kamu tidak perlu terlalu khawatir.",
         "jp": "そんなに心配することはない。",
-        "furiganaHtml": "そんなに心配することはない。",
+        "furiganaHtml": "そんなに<ruby>心配<rt>しんぱい</rt></ruby>することはない。",
         "translation": "Kamu tidak perlu terlalu khawatir."
       }
     ]
@@ -171,7 +171,7 @@
       {
         "id": "Dia bahkan tidak bisa menulis namanya sendiri.",
         "jp": "彼は自分の名前すら書けない。",
-        "furiganaHtml": "彼は自分の名前すら書けない。",
+        "furiganaHtml": "<ruby>彼は<rt>かれは</rt></ruby><ruby>自分<rt>じぶん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>すら<ruby>書け<rt>かけ</rt></ruby>ない。",
         "translation": "Dia bahkan tidak bisa menulis namanya sendiri."
       }
     ]
@@ -206,7 +206,7 @@
       {
         "id": "Segera setelah terkonfirmasi, saya akan menghubungi Anda.",
         "jp": "確認次第、ご連絡します。",
-        "furiganaHtml": "確認次第、ご連絡します。",
+        "furiganaHtml": "<ruby>確認<rt>かくにん</rt></ruby><ruby>次第<rt>しだい</rt></ruby>、ご<ruby>連絡<rt>れんらく</rt></ruby>します。",
         "translation": "Segera setelah terkonfirmasi, saya akan menghubungi Anda."
       }
     ]
@@ -241,7 +241,7 @@
       {
         "id": "Setelah diskusi panjang, akhirnya rencana diubah.",
         "jp": "長い議論の末に、計画を変更した。",
-        "furiganaHtml": "長い議論の末に、計画を変更した。",
+        "furiganaHtml": "<ruby>長い<rt>ながい</rt></ruby><ruby>議論<rt>ぎろん</rt></ruby>の<ruby>末<rt>まつ</rt></ruby>に、<ruby>計画<rt>けいかく</rt></ruby>を<ruby>変更<rt>へんこう</rt></ruby>した。",
         "translation": "Setelah diskusi panjang, akhirnya rencana diubah."
       }
     ]
@@ -276,7 +276,7 @@
       {
         "id": "Silakan makan sepuas yang Anda inginkan.",
         "jp": "食べたいだけ食べてください。",
-        "furiganaHtml": "食べたいだけ食べてください。",
+        "furiganaHtml": "<ruby>食べた<rt>たべた</rt></ruby>いだけ<ruby>食べて<rt>たべて</rt></ruby>ください。",
         "translation": "Silakan makan sepuas yang Anda inginkan."
       }
     ]
@@ -311,7 +311,7 @@
       {
         "id": "Justru karena sangat berharap, kekecewaannya besar.",
         "jp": "期待していただけに、失望も大きかった。",
-        "furiganaHtml": "期待していただけに、失望も大きかった。",
+        "furiganaHtml": "<ruby>期待し<rt>きたいし</rt></ruby>ていただけに、<ruby>失望<rt>しつぼう</rt></ruby>も<ruby>大きか<rt>おーきか</rt></ruby>った。",
         "translation": "Justru karena sangat berharap, kekecewaannya besar."
       }
     ]
@@ -346,7 +346,7 @@
       {
         "id": "Siapa pun pasti pernah gagal.",
         "jp": "誰だって失敗することはある。",
-        "furiganaHtml": "誰だって失敗することはある。",
+        "furiganaHtml": "<ruby>誰<rt>だれ</rt></ruby>だって<ruby>失敗<rt>しっぱい</rt></ruby>することはある。",
         "translation": "Siapa pun pasti pernah gagal."
       }
     ]
@@ -381,7 +381,7 @@
       {
         "id": "Kalaupun hujan, kita bisa beristirahat di rumah.",
         "jp": "雨が降ったら降ったで、家で休めばいい。",
-        "furiganaHtml": "雨が降ったら降ったで、家で休めばいい。",
+        "furiganaHtml": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>たら<ruby>降っ<rt>ふっ</rt></ruby>たで、<ruby>家<rt>いえ</rt></ruby>で<ruby>休め<rt>やすめ</rt></ruby>ばいい。",
         "translation": "Kalaupun hujan, kita bisa beristirahat di rumah."
       }
     ]
@@ -416,7 +416,7 @@
       {
         "id": "Sejak datang ke Jepang, saya belum pernah sakit.",
         "jp": "日本に来て以来、病気をしていない。",
-        "furiganaHtml": "日本に来て以来、病気をしていない。",
+        "furiganaHtml": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来て<rt>きて</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>病気<rt>びょうき</rt></ruby>をしていない。",
         "translation": "Sejak datang ke Jepang, saya belum pernah sakit."
       }
     ]
@@ -451,7 +451,7 @@
       {
         "id": "Bukankah ini masalah penting?",
         "jp": "これは大切な問題なのではないか。",
-        "furiganaHtml": "これは大切な問題なのではないか。",
+        "furiganaHtml": "これは<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>問題<rt>もんだい</rt></ruby>なのではないか。",
         "translation": "Bukankah ini masalah penting?"
       }
     ]
@@ -486,7 +486,7 @@
       {
         "id": "Kalau bicara masakan Jepang, sushi terkenal.",
         "jp": "日本料理といえば、寿司が有名だ。",
-        "furiganaHtml": "日本料理といえば、寿司が有名だ。",
+        "furiganaHtml": "<ruby>日本料理<rt>にほんりょうり</rt></ruby>といえば、<ruby>寿司<rt>すし</rt></ruby>が<ruby>有名<rt>ゆうめい</rt></ruby>だ。",
         "translation": "Kalau bicara masakan Jepang, sushi terkenal."
       }
     ]
@@ -521,7 +521,7 @@
       {
         "id": "Saya suka makanan seperti sushi dan tempura.",
         "jp": "寿司や天ぷらといった料理が好きだ。",
-        "furiganaHtml": "寿司や天ぷらといった料理が好きだ。",
+        "furiganaHtml": "<ruby>寿司<rt>すし</rt></ruby>や<ruby>天ぷら<rt>てんぷら</rt></ruby>といった<ruby>料理<rt>りょうり</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>だ。",
         "translation": "Saya suka makanan seperti sushi dan tempura."
       }
     ]
@@ -556,7 +556,7 @@
       {
         "id": "Seandainya terlahir kembali, saya ingin menjadi burung.",
         "jp": "もし生まれ変わるとしたら、鳥になりたい。",
-        "furiganaHtml": "もし生まれ変わるとしたら、鳥になりたい。",
+        "furiganaHtml": "もし<ruby>生まれ<rt>うまれ</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>るとしたら、<ruby>鳥<rt>とり</rt></ruby>になりたい。",
         "translation": "Seandainya terlahir kembali, saya ingin menjadi burung."
       }
     ]
@@ -591,7 +591,7 @@
       {
         "id": "Sebagai guru, saya ingin mendukung siswa.",
         "jp": "教師として、学生を支えたい。",
-        "furiganaHtml": "教師として、学生を支えたい。",
+        "furiganaHtml": "<ruby>教師<rt>きょうし</rt></ruby>として、<ruby>学生<rt>がくせい</rt></ruby>を<ruby>支え<rt>ささえ</rt></ruby>たい。",
         "translation": "Sebagai guru, saya ingin mendukung siswa."
       }
     ]
@@ -626,7 +626,7 @@
       {
         "id": "Dalam hal memasak, dialah yang terbaik.",
         "jp": "料理にかけては、彼が一番上手だ。",
-        "furiganaHtml": "料理にかけては、彼が一番上手だ。",
+        "furiganaHtml": "<ruby>料理<rt>りょうり</rt></ruby>にかけては、<ruby>彼<rt>かれ</rt></ruby>が<ruby>一番上手<rt>いちばんじょうず</rt></ruby>だ。",
         "translation": "Dalam hal memasak, dialah yang terbaik."
       }
     ]
@@ -661,7 +661,7 @@
       {
         "id": "Saya hanya menceritakan pengalaman saya.",
         "jp": "私は自分の経験を話したにすぎない。",
-        "furiganaHtml": "私は自分の経験を話したにすぎない。",
+        "furiganaHtml": "<ruby>私<rt>わたし</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>経験<rt>けいけん</rt></ruby>を<ruby>話し<rt>はなし</rt></ruby>たにすぎない。",
         "translation": "Saya hanya menceritakan pengalaman saya."
       }
     ]
@@ -696,7 +696,7 @@
       {
         "id": "Anda dapat melamar tanpa memandang usia.",
         "jp": "年齢によらず、応募できます。",
-        "furiganaHtml": "年齢によらず、応募できます。",
+        "furiganaHtml": "<ruby>年齢<rt>ねんれい</rt></ruby>によらず、<ruby>応募<rt>おうぼ</rt></ruby>できます。",
         "translation": "Anda dapat melamar tanpa memandang usia."
       }
     ]
@@ -731,7 +731,7 @@
       {
         "id": "Rapat berlangsung selama tiga jam.",
         "jp": "会議は三時間にわたって続いた。",
-        "furiganaHtml": "会議は三時間にわたって続いた。",
+        "furiganaHtml": "<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>三時<rt>さんじ</rt></ruby><ruby>間に<rt>まに</rt></ruby>わたって<ruby>続い<rt>つづい</rt></ruby>た。",
         "translation": "Rapat berlangsung selama tiga jam."
       }
     ]
@@ -766,7 +766,7 @@
       {
         "id": "Seandainya bisa, saya ingin kembali ke masa sekolah.",
         "jp": "戻れるものなら、学生時代に戻りたい。",
-        "furiganaHtml": "戻れるものなら、学生時代に戻りたい。",
+        "furiganaHtml": "<ruby>戻れ<rt>もどれ</rt></ruby>るものなら、<ruby>学生時代<rt>がくせいじだい</rt></ruby>に<ruby>戻り<rt>もどり</rt></ruby>たい。",
         "translation": "Seandainya bisa, saya ingin kembali ke masa sekolah."
       }
     ]
@@ -801,7 +801,7 @@
       {
         "id": "Tidak pantas merepotkan orang lain.",
         "jp": "人に迷惑をかけるものではない。",
-        "furiganaHtml": "人に迷惑をかけるものではない。",
+        "furiganaHtml": "<ruby>人<rt>にん</rt></ruby>に<ruby>迷惑<rt>めいわく</rt></ruby>をかけるものではない。",
         "translation": "Tidak pantas merepotkan orang lain."
       }
     ]
@@ -836,7 +836,7 @@
       {
         "id": "Pantas bahasa Jepangnya lancar; dia sudah tinggal sepuluh tahun.",
         "jp": "十年住んでいるから、日本語が上手なわけだ。",
-        "furiganaHtml": "十年住んでいるから、日本語が上手なわけだ。",
+        "furiganaHtml": "<ruby>十年<rt>じゅうねん</rt></ruby><ruby>住ん<rt>すん</rt></ruby>でいるから、<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>なわけだ。",
         "translation": "Pantas bahasa Jepangnya lancar; dia sudah tinggal sepuluh tahun."
       }
     ]
@@ -871,7 +871,7 @@
       {
         "id": "Bukan berarti saya membenci pekerjaan ini.",
         "jp": "仕事が嫌いなわけではない。",
-        "furiganaHtml": "仕事が嫌いなわけではない。",
+        "furiganaHtml": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>嫌い<rt>きらい</rt></ruby>なわけではない。",
         "translation": "Bukan berarti saya membenci pekerjaan ini."
       }
     ]
@@ -906,7 +906,7 @@
       {
         "id": "Karena terlalu sibuk, saya lupa makan siang.",
         "jp": "あまりに忙しくて、昼食を忘れた。",
-        "furiganaHtml": "あまりに忙しくて、昼食を忘れた。",
+        "furiganaHtml": "あまりに<ruby>忙しく<rt>いそがしく</rt></ruby>て、<ruby>昼食<rt>ちゅうしょく</rt></ruby>を<ruby>忘れ<rt>わすれ</rt></ruby>た。",
         "translation": "Karena terlalu sibuk, saya lupa makan siang."
       }
     ],
@@ -943,7 +943,7 @@
       {
         "id": "Karena sudah berjanji, seharusnya ditepati.",
         "jp": "約束した以上は、守るべきだ。",
-        "furiganaHtml": "約束した以上は、守るべきだ。",
+        "furiganaHtml": "<ruby>約束<rt>やくそく</rt></ruby>した<ruby>以上<rt>いじょう</rt></ruby>は、<ruby>守る<rt>まもる</rt></ruby>べきだ。",
         "translation": "Karena sudah berjanji, seharusnya ditepati."
       }
     ]
@@ -978,7 +978,7 @@
       {
         "id": "Toko ini murah dan selain itu dekat stasiun.",
         "jp": "この店は安い上に、駅から近い。",
-        "furiganaHtml": "この店は安い上に、駅から近い。",
+        "furiganaHtml": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>安い<rt>やすい</rt></ruby><ruby>上に<rt>うえに</rt></ruby>、<ruby>駅<rt>えき</rt></ruby>から<ruby>近い<rt>ちかい</rt></ruby>。",
         "translation": "Toko ini murah dan selain itu dekat stasiun."
       }
     ]
@@ -1013,7 +1013,7 @@
       {
         "id": "Kereta berhenti setiap dua stasiun.",
         "jp": "二駅おきに電車が止まる。",
-        "furiganaHtml": "二駅おきに電車が止まる。",
+        "furiganaHtml": "<ruby>二駅<rt>ふたえき</rt></ruby>おきに<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>止ま<rt>とま</rt></ruby>る。",
         "translation": "Kereta berhenti setiap dua stasiun."
       }
     ]
@@ -1048,7 +1048,7 @@
       {
         "id": "Penjelasannya sulit dipahami.",
         "jp": "彼の説明は理解しがたい。",
-        "furiganaHtml": "彼の説明は理解しがたい。",
+        "furiganaHtml": "<ruby>彼の<rt>かの</rt></ruby><ruby>説明<rt>せつめい</rt></ruby>は<ruby>理解<rt>りかい</rt></ruby>しがたい。",
         "translation": "Penjelasannya sulit dipahami."
       }
     ]
@@ -1083,7 +1083,7 @@
       {
         "id": "Saat sibuk, saya cenderung lupa makan.",
         "jp": "忙しいと、食事を忘れがちだ。",
-        "furiganaHtml": "忙しいと、食事を忘れがちだ。",
+        "furiganaHtml": "<ruby>忙しい<rt>いそがしい</rt></ruby>と、<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>忘れ<rt>わすれ</rt></ruby>がちだ。",
         "translation": "Saat sibuk, saya cenderung lupa makan."
       }
     ]
@@ -1118,7 +1118,7 @@
       {
         "id": "Baru saja hujan berhenti, ternyata mulai turun lagi.",
         "jp": "雨がやんだかと思うと、また降り始めた。",
-        "furiganaHtml": "雨がやんだかと思うと、また降り始めた。",
+        "furiganaHtml": "<ruby>雨<rt>あめ</rt></ruby>がやんだかと<ruby>思う<rt>おもう</rt></ruby>と、また<ruby>降り<rt>おり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た。",
         "translation": "Baru saja hujan berhenti, ternyata mulai turun lagi."
       }
     ]
@@ -1153,7 +1153,7 @@
       {
         "id": "Dilihat dari pengalamannya, dia mungkin berhasil.",
         "jp": "彼の経験からすると、成功するだろう。",
-        "furiganaHtml": "彼の経験からすると、成功するだろう。",
+        "furiganaHtml": "<ruby>彼の<rt>かの</rt></ruby><ruby>経験<rt>けいけん</rt></ruby>からすると、<ruby>成功<rt>せいこう</rt></ruby>するだろう。",
         "translation": "Dilihat dari pengalamannya, dia mungkin berhasil."
       }
     ]
@@ -1188,7 +1188,7 @@
       {
         "id": "Dilihat dari cara bicaranya saja, dia tampak baik.",
         "jp": "彼は話し方からして親切そうだ。",
-        "furiganaHtml": "彼は話し方からして親切そうだ。",
+        "furiganaHtml": "<ruby>彼は<rt>かれは</rt></ruby><ruby>話し方<rt>はなしかた</rt></ruby>からして<ruby>親切<rt>しんせつ</rt></ruby>そうだ。",
         "translation": "Dilihat dari cara bicaranya saja, dia tampak baik."
       }
     ]
@@ -1223,7 +1223,7 @@
       {
         "id": "Karena sudah ikut, saya akan berusaha sampai akhir.",
         "jp": "参加するからには、最後まで頑張る。",
-        "furiganaHtml": "参加するからには、最後まで頑張る。",
+        "furiganaHtml": "<ruby>参加<rt>さんか</rt></ruby>するからには、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>頑張る<rt>がんばる</rt></ruby>。",
         "translation": "Karena sudah ikut, saya akan berusaha sampai akhir."
       }
     ]
@@ -1258,7 +1258,7 @@
       {
         "id": "Sejak pergi, dia tidak kembali lagi.",
         "jp": "彼は出かけたきり、戻ってこない。",
-        "furiganaHtml": "彼は出かけたきり、戻ってこない。",
+        "furiganaHtml": "<ruby>彼は<rt>かれは</rt></ruby><ruby>出か<rt>でか</rt></ruby>けたきり、<ruby>戻っ<rt>もどっ</rt></ruby>てこない。",
         "translation": "Sejak pergi, dia tidak kembali lagi."
       }
     ]
@@ -1293,7 +1293,7 @@
       {
         "id": "Padahal tahu, dia tidak mau memberi tahu.",
         "jp": "知っているくせに、教えてくれない。",
-        "furiganaHtml": "知っているくせに、教えてくれない。",
+        "furiganaHtml": "<ruby>知って<rt>しって</rt></ruby>いるくせに、<ruby>教え<rt>おしえ</rt></ruby>てくれない。",
         "translation": "Padahal tahu, dia tidak mau memberi tahu."
       }
     ]
@@ -1328,7 +1328,7 @@
       {
         "id": "Saya memilih toko ini karena dekat stasiun.",
         "jp": "駅に近いことから、この店を選んだ。",
-        "furiganaHtml": "駅に近いことから、この店を選んだ。",
+        "furiganaHtml": "<ruby>駅<rt>えき</rt></ruby>に<ruby>近い<rt>ちかい</rt></ruby>ことから、この<ruby>店<rt>みせ</rt></ruby>を<ruby>選ん<rt>えらん</rt></ruby>だ。",
         "translation": "Saya memilih toko ini karena dekat stasiun."
       }
     ]
@@ -1363,7 +1363,7 @@
       {
         "id": "Yang mengejutkan, dia menyelesaikannya sendiri.",
         "jp": "驚いたことに、彼は一人で完成させた。",
-        "furiganaHtml": "驚いたことに、彼は一人で完成させた。",
+        "furiganaHtml": "<ruby>驚い<rt>おどろい</rt></ruby>たことに、<ruby>彼は<rt>かれは</rt></ruby><ruby>一人<rt>ひとり</rt></ruby>で<ruby>完成さ<rt>かんせいさ</rt></ruby>せた。",
         "translation": "Yang mengejutkan, dia menyelesaikannya sendiri."
       }
     ]
@@ -1398,7 +1398,7 @@
       {
         "id": "Dia bekerja tanpa beristirahat satu kali pun.",
         "jp": "彼は一度も休むことなく働いた。",
-        "furiganaHtml": "彼は一度も休むことなく働いた。",
+        "furiganaHtml": "<ruby>彼は<rt>かれは</rt></ruby><ruby>一度<rt>いちど</rt></ruby>も<ruby>休む<rt>やすむ</rt></ruby>ことなく<ruby>働い<rt>はたらい</rt></ruby>た。",
         "translation": "Dia bekerja tanpa beristirahat satu kali pun."
       }
     ]
@@ -1433,7 +1433,7 @@
       {
         "id": "Meminta maaf bukan berarti sudah dimaafkan.",
         "jp": "謝ったからといって、許したことにはならない。",
-        "furiganaHtml": "謝ったからといって、許したことにはならない。",
+        "furiganaHtml": "<ruby>謝っ<rt>あやまっ</rt></ruby>たからといって、<ruby>許し<rt>ゆるし</rt></ruby>たことにはならない。",
         "translation": "Meminta maaf bukan berarti sudah dimaafkan."
       }
     ],
@@ -1470,7 +1470,7 @@
       {
         "id": "Saat menggunakan layanan, bacalah peraturan.",
         "jp": "ご利用の際には、規則をお読みください。",
-        "furiganaHtml": "ご利用の際には、規則をお読みください。",
+        "furiganaHtml": "ご<ruby>利用<rt>りよう</rt></ruby>の<ruby>際に<rt>さいに</rt></ruby>は、<ruby>規則<rt>きそく</rt></ruby>をお<ruby>読み<rt>よみ</rt></ruby>ください。",
         "translation": "Saat menggunakan layanan, bacalah peraturan."
       }
     ]
@@ -1505,7 +1505,7 @@
       {
         "id": "Di tengah rapat, telepon berdering.",
         "jp": "会議の最中に、電話が鳴った。",
-        "furiganaHtml": "会議の最中に、電話が鳴った。",
+        "furiganaHtml": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>最中<rt>さいちゅう</rt></ruby>に、<ruby>電話<rt>でんわ</rt></ruby>が<ruby>鳴っ<rt>なっ</rt></ruby>た。",
         "translation": "Di tengah rapat, telepon berdering."
       }
     ]
@@ -1540,7 +1540,7 @@
       {
         "id": "Hasil berubah tergantung usaha.",
         "jp": "結果は努力次第で変わる。",
-        "furiganaHtml": "結果は努力次第で変わる。",
+        "furiganaHtml": "<ruby>結果<rt>けっか</rt></ruby>は<ruby>努力<rt>どりょく</rt></ruby><ruby>次第<rt>しだい</rt></ruby>で<ruby>変わ<rt>かわ</rt></ruby>る。",
         "translation": "Hasil berubah tergantung usaha."
       }
     ]
@@ -1575,7 +1575,7 @@
       {
         "id": "Setelah mendengar cerita itu, saya tidak bisa menahan tawa.",
         "jp": "その話を聞いて、笑わずにはいられなかった。",
-        "furiganaHtml": "その話を聞いて、笑わずにはいられなかった。",
+        "furiganaHtml": "その<ruby>話<rt>はなし</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>て、<ruby>笑わ<rt>わらわ</rt></ruby>ずにはいられなかった。",
         "translation": "Setelah mendengar cerita itu, saya tidak bisa menahan tawa."
       }
     ]
@@ -1610,7 +1610,7 @@
       {
         "id": "Gara-gara hujan, pertandingan dibatalkan.",
         "jp": "雨のせいで、試合が中止になった。",
-        "furiganaHtml": "雨のせいで、試合が中止になった。",
+        "furiganaHtml": "<ruby>雨<rt>あめ</rt></ruby>のせいで、<ruby>試合<rt>しあい</rt></ruby>が<ruby>中止<rt>ちゅうし</rt></ruby>になった。",
         "translation": "Gara-gara hujan, pertandingan dibatalkan."
       }
     ]
@@ -1645,7 +1645,7 @@
       {
         "id": "Sesuai reputasinya, masakan restoran terkenal itu luar biasa.",
         "jp": "有名な店だけあって、料理がすばらしい。",
-        "furiganaHtml": "有名な店だけあって、料理がすばらしい。",
+        "furiganaHtml": "<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>店<rt>みせ</rt></ruby>だけあって、<ruby>料理<rt>りょうり</rt></ruby>がすばらしい。",
         "translation": "Sesuai reputasinya, masakan restoran terkenal itu luar biasa."
       }
     ]
@@ -1680,7 +1680,7 @@
       {
         "id": "Justru karena berpengalaman, penilaiannya cepat.",
         "jp": "経験が豊富なだけに、判断が速い。",
-        "furiganaHtml": "経験が豊富なだけに、判断が速い。",
+        "furiganaHtml": "<ruby>経験<rt>けいけん</rt></ruby>が<ruby>豊富<rt>ほうふ</rt></ruby>なだけに、<ruby>判断<rt>はんだん</rt></ruby>が<ruby>速い<rt>はやい</rt></ruby>。",
         "translation": "Justru karena berpengalaman, penilaiannya cepat."
       }
     ]
@@ -1715,7 +1715,7 @@
       {
         "id": "Saya membawa uang sebanyak yang diperlukan.",
         "jp": "必要なだけのお金を持っていく。",
-        "furiganaHtml": "必要なだけのお金を持っていく。",
+        "furiganaHtml": "<ruby>必要<rt>ひつよう</rt></ruby>なだけのお<ruby>金<rt>きん</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>ていく。",
         "translation": "Saya membawa uang sebanyak yang diperlukan."
       }
     ]
@@ -1750,7 +1750,7 @@
       {
         "id": "Meskipun gagal, saya ingin mencoba.",
         "jp": "たとえ失敗しても、挑戦したい。",
-        "furiganaHtml": "たとえ失敗しても、挑戦したい。",
+        "furiganaHtml": "たとえ<ruby>失敗<rt>しっぱい</rt></ruby>しても、<ruby>挑戦<rt>ちょうせん</rt></ruby>したい。",
         "translation": "Meskipun gagal, saya ingin mencoba."
       }
     ]
@@ -1785,7 +1785,7 @@
       {
         "id": "Setiap melihat foto ini, saya teringat perjalanan.",
         "jp": "この写真を見るたびに、旅を思い出す。",
-        "furiganaHtml": "この写真を見るたびに、旅を思い出す。",
+        "furiganaHtml": "この<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>たびに、<ruby>旅<rt>たび</rt></ruby>を<ruby>思い出す<rt>おもいだす</rt></ruby>。",
         "translation": "Setiap melihat foto ini, saya teringat perjalanan."
       }
     ]
@@ -1820,7 +1820,7 @@
       {
         "id": "Baju itu menjadi penuh lumpur.",
         "jp": "シャツが泥だらけになった。",
-        "furiganaHtml": "シャツが泥だらけになった。",
+        "furiganaHtml": "シャツが<ruby>泥<rt>どろ</rt></ruby>だらけになった。",
         "translation": "Baju itu menjadi penuh lumpur."
       }
     ]
@@ -1855,7 +1855,7 @@
       {
         "id": "Kota itu sedang berubah sedikit demi sedikit.",
         "jp": "町は少しずつ変わりつつある。",
-        "furiganaHtml": "町は少しずつ変わりつつある。",
+        "furiganaHtml": "<ruby>町<rt>まち</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>変わり<rt>かわり</rt></ruby>つつある。",
         "translation": "Kota itu sedang berubah sedikit demi sedikit."
       }
     ]
@@ -1890,7 +1890,7 @@
       {
         "id": "Saya sangat penasaran dengan hasil ujian.",
         "jp": "試験の結果が気になってたまらない。",
-        "furiganaHtml": "試験の結果が気になってたまらない。",
+        "furiganaHtml": "<ruby>試験<rt>しけん</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>が<ruby>気に<rt>きに</rt></ruby>なってたまらない。",
         "translation": "Saya sangat penasaran dengan hasil ujian."
       }
     ]
@@ -1925,7 +1925,7 @@
       {
         "id": "Tidak boleh mengambil foto di sini.",
         "jp": "ここで写真を撮ってはならない。",
-        "furiganaHtml": "ここで写真を撮ってはならない。",
+        "furiganaHtml": "ここで<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮っ<rt>とっ</rt></ruby>てはならない。",
         "translation": "Tidak boleh mengambil foto di sini."
       }
     ],
@@ -1962,7 +1962,7 @@
       {
         "id": "Tidak apa-apa jika datang besok.",
         "jp": "明日来てもかまいません。",
-        "furiganaHtml": "明日来てもかまいません。",
+        "furiganaHtml": "<ruby>明日<rt>あした</rt></ruby><ruby>来て<rt>きて</rt></ruby>もかまいません。",
         "translation": "Tidak apa-apa jika datang besok."
       }
     ]
@@ -1997,7 +1997,7 @@
       {
         "id": "Tidak ada gunanya menyesali hal yang sudah berlalu.",
         "jp": "終わったことを悔やんでも仕方がない。",
-        "furiganaHtml": "終わったことを悔やんでも仕方がない。",
+        "furiganaHtml": "<ruby>終わ<rt>おわ</rt></ruby>ったことを<ruby>悔や<rt>くや</rt></ruby>んでも<ruby>仕方<rt>しかた</rt></ruby>がない。",
         "translation": "Tidak ada gunanya menyesali hal yang sudah berlalu."
       }
     ]
@@ -2032,7 +2032,7 @@
       {
         "id": "Kabarnya harga akan naik mulai bulan depan.",
         "jp": "来月から値上げするということだ。",
-        "furiganaHtml": "来月から値上げするということだ。",
+        "furiganaHtml": "<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>値上げ<rt>ねあげ</rt></ruby>するということだ。",
         "translation": "Kabarnya harga akan naik mulai bulan depan."
       }
     ]
@@ -2067,7 +2067,7 @@
       {
         "id": "Justru usaha itulah yang disebut keberhasilan.",
         "jp": "努力してこそ成功というものだ。",
-        "furiganaHtml": "努力してこそ成功というものだ。",
+        "furiganaHtml": "<ruby>努力<rt>どりょく</rt></ruby>してこそ<ruby>成功<rt>せいこう</rt></ruby>というものだ。",
         "translation": "Justru usaha itulah yang disebut keberhasilan."
       }
     ]
@@ -2102,7 +2102,7 @@
       {
         "id": "Daripada tenang, kota ini lebih tepat disebut sepi.",
         "jp": "静かというより、寂しい町だ。",
-        "furiganaHtml": "静かというより、寂しい町だ。",
+        "furiganaHtml": "<ruby>静か<rt>しずか</rt></ruby>というより、<ruby>寂しい<rt>さびしい</rt></ruby><ruby>町<rt>まち</rt></ruby>だ。",
         "translation": "Daripada tenang, kota ini lebih tepat disebut sepi."
       }
     ]
@@ -2137,7 +2137,7 @@
       {
         "id": "Seiring bertambahnya usia, cara berpikir juga berubah.",
         "jp": "年齢とともに、考え方も変わる。",
-        "furiganaHtml": "年齢とともに、考え方も変わる。",
+        "furiganaHtml": "<ruby>年齢<rt>ねんれい</rt></ruby>とともに、<ruby>考え方<rt>かんがえかた</rt></ruby>も<ruby>変わ<rt>かわ</rt></ruby>る。",
         "translation": "Seiring bertambahnya usia, cara berpikir juga berubah."
       }
     ]
@@ -2172,7 +2172,7 @@
       {
         "id": "Kalau tidak melihat langsung, tidak bisa menilai.",
         "jp": "実際に見ないことには、判断できない。",
-        "furiganaHtml": "実際に見ないことには、判断できない。",
+        "furiganaHtml": "<ruby>実際に<rt>じっさいに</rt></ruby><ruby>見な<rt>みな</rt></ruby>いことには、<ruby>判断<rt>はんだん</rt></ruby>できない。",
         "translation": "Kalau tidak melihat langsung, tidak bisa menilai."
       }
     ]
@@ -2207,7 +2207,7 @@
       {
         "id": "Saat menonton film itu, saya tidak bisa menahan tangis.",
         "jp": "その映画を見ると、泣かないではいられない。",
-        "furiganaHtml": "その映画を見ると、泣かないではいられない。",
+        "furiganaHtml": "その<ruby>映画<rt>えいが</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>と、<ruby>泣か<rt>なか</rt></ruby>ないではいられない。",
         "translation": "Saat menonton film itu, saya tidak bisa menahan tangis."
       }
     ]
@@ -2242,7 +2242,7 @@
       {
         "id": "Saya membaca buku, majalah, dan sebagainya.",
         "jp": "本や雑誌などを読んでいる。",
-        "furiganaHtml": "本や雑誌などを読んでいる。",
+        "furiganaHtml": "<ruby>本<rt>ほん</rt></ruby>や<ruby>雑誌<rt>ざっし</rt></ruby>などを<ruby>読んで<rt>よんで</rt></ruby>いる。",
         "translation": "Saya membaca buku, majalah, dan sebagainya."
       }
     ]
@@ -2277,7 +2277,7 @@
       {
         "id": "Ini pemandangan khas Kyoto.",
         "jp": "これは京都ならではの景色だ。",
-        "furiganaHtml": "これは京都ならではの景色だ。",
+        "furiganaHtml": "これは<ruby>京都<rt>きょうと</rt></ruby>ならではの<ruby>景色<rt>けしき</rt></ruby>だ。",
         "translation": "Ini pemandangan khas Kyoto."
       }
     ]
@@ -2312,7 +2312,7 @@
       {
         "id": "Saat masuk sekolah, saya menyerahkan dokumen.",
         "jp": "入学にあたって、書類を提出する。",
-        "furiganaHtml": "入学にあたって、書類を提出する。",
+        "furiganaHtml": "<ruby>入学<rt>にゅうがく</rt></ruby>にあたって、<ruby>書類<rt>しょるい</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>する。",
         "translation": "Saat masuk sekolah, saya menyerahkan dokumen."
       }
     ]
@@ -2347,7 +2347,7 @@
       {
         "id": "Dalam masyarakat modern, informasi penting.",
         "jp": "現代社会において、情報は重要だ。",
-        "furiganaHtml": "現代社会において、情報は重要だ。",
+        "furiganaHtml": "<ruby>現代社会<rt>げんだいしゃかい</rt></ruby>において、<ruby>情報<rt>じょうほう</rt></ruby>は<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
         "translation": "Dalam masyarakat modern, informasi penting."
       }
     ]
@@ -2382,7 +2382,7 @@
       {
         "id": "Sebelum upacara, diadakan pengarahan.",
         "jp": "式典に先立って、説明会を開く。",
-        "furiganaHtml": "式典に先立って、説明会を開く。",
+        "furiganaHtml": "<ruby>式典<rt>しきてん</rt></ruby>に<ruby>先立っ<rt>さきだっ</rt></ruby>て、<ruby>説明会<rt>せつめいかい</rt></ruby>を<ruby>開く<rt>ひらく</rt></ruby>。",
         "translation": "Sebelum upacara, diadakan pengarahan."
       }
     ]
@@ -2417,7 +2417,7 @@
       {
         "id": "Kami melanjutkan pekerjaan sesuai rencana.",
         "jp": "計画に沿って作業を進める。",
-        "furiganaHtml": "計画に沿って作業を進める。",
+        "furiganaHtml": "<ruby>計画<rt>けいかく</rt></ruby>に<ruby>沿って<rt>そって</rt></ruby><ruby>作業<rt>さぎょう</rt></ruby>を<ruby>進め<rt>すすめ</rt></ruby>る。",
         "translation": "Kami melanjutkan pekerjaan sesuai rencana."
       }
     ]
@@ -2452,7 +2452,7 @@
       {
         "id": "Saya menjawab pertanyaan itu dengan sopan.",
         "jp": "質問に対して、丁寧に答えた。",
-        "furiganaHtml": "質問に対して、丁寧に答えた。",
+        "furiganaHtml": "<ruby>質問<rt>しつもん</rt></ruby>に<ruby>対し<rt>たいし</rt></ruby>て、<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>答え<rt>こたえ</rt></ruby>た。",
         "translation": "Saya menjawab pertanyaan itu dengan sopan."
       }
     ]
@@ -2487,7 +2487,7 @@
       {
         "id": "Seiring datangnya musim semi, cuaca menghangat.",
         "jp": "春になるにつれて、暖かくなる。",
-        "furiganaHtml": "春になるにつれて、暖かくなる。",
+        "furiganaHtml": "<ruby>春<rt>はる</rt></ruby>になるにつれて、<ruby>暖かく<rt>あたたかく</rt></ruby>なる。",
         "translation": "Seiring datangnya musim semi, cuaca menghangat."
       }
     ]
@@ -2522,7 +2522,7 @@
       {
         "id": "Seiring pertumbuhan penduduk, masalah juga bertambah.",
         "jp": "人口の増加に伴って、問題も増えた。",
-        "furiganaHtml": "人口の増加に伴って、問題も増えた。",
+        "furiganaHtml": "<ruby>人口<rt>じんこう</rt></ruby>の<ruby>増加<rt>ぞうか</rt></ruby>に<ruby>伴っ<rt>ともなっ</rt></ruby>て、<ruby>問題<rt>もんだい</rt></ruby>も<ruby>増え<rt>ふえ</rt></ruby>た。",
         "translation": "Seiring pertumbuhan penduduk, masalah juga bertambah."
       }
     ],
@@ -2559,7 +2559,7 @@
       {
         "id": "Keberhasilan tidak lain adalah hasil usaha.",
         "jp": "成功は努力の結果にほかならない。",
-        "furiganaHtml": "成功は努力の結果にほかならない。",
+        "furiganaHtml": "<ruby>成功<rt>せいこう</rt></ruby>は<ruby>努力<rt>どりょく</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>にほかならない。",
         "translation": "Keberhasilan tidak lain adalah hasil usaha."
       }
     ]
@@ -2594,7 +2594,7 @@
       {
         "id": "Saya meneliti di bawah bimbingan guru.",
         "jp": "先生の指導のもとで研究した。",
-        "furiganaHtml": "先生の指導のもとで研究した。",
+        "furiganaHtml": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>指導<rt>しどう</rt></ruby>のもとで<ruby>研究<rt>けんきゅう</rt></ruby>した。",
         "translation": "Saya meneliti di bawah bimbingan guru."
       }
     ]
@@ -2629,7 +2629,7 @@
       {
         "id": "Dia bisa berbahasa Inggris, bahkan bahasa Mandarin juga.",
         "jp": "彼は英語はもとより、中国語も話せる。",
-        "furiganaHtml": "彼は英語はもとより、中国語も話せる。",
+        "furiganaHtml": "<ruby>彼は<rt>かれは</rt></ruby><ruby>英語<rt>えいご</rt></ruby>はもとより、<ruby>中国語<rt>ちゅうごくご</rt></ruby>も<ruby>話せ<rt>はなせ</rt></ruby>る。",
         "translation": "Dia bisa berbahasa Inggris, bahkan bahasa Mandarin juga."
       }
     ]
@@ -2664,7 +2664,7 @@
       {
         "id": "Di sisi lain, meski praktis, biayanya mahal.",
         "jp": "便利な反面、費用が高い。",
-        "furiganaHtml": "便利な反面、費用が高い。",
+        "furiganaHtml": "<ruby>便利<rt>べんり</rt></ruby>な<ruby>反面<rt>はんめん</rt></ruby>、<ruby>費用<rt>ひよう</rt></ruby>が<ruby>高い<rt>たかい</rt></ruby>。",
         "translation": "Di sisi lain, meski praktis, biayanya mahal."
       }
     ]
@@ -2699,7 +2699,7 @@
       {
         "id": "Saya tidak akan mengulangi kesalahan yang sama.",
         "jp": "二度と同じ失敗はするまい。",
-        "furiganaHtml": "二度と同じ失敗はするまい。",
+        "furiganaHtml": "<ruby>二度<rt>にど</rt></ruby>と<ruby>同じ<rt>おなじ</rt></ruby><ruby>失敗<rt>しっぱい</rt></ruby>はするまい。",
         "translation": "Saya tidak akan mengulangi kesalahan yang sama."
       }
     ]
@@ -2734,7 +2734,7 @@
       {
         "id": "Ceritanya benar-benar seperti mimpi.",
         "jp": "彼の話はまるで夢のようだ。",
-        "furiganaHtml": "彼の話はまるで夢のようだ。",
+        "furiganaHtml": "<ruby>彼の<rt>かの</rt></ruby><ruby>話<rt>はなし</rt></ruby>はまるで<ruby>夢<rt>ゆめ</rt></ruby>のようだ。",
         "translation": "Ceritanya benar-benar seperti mimpi."
       }
     ],
@@ -2771,7 +2771,7 @@
       {
         "id": "Daripada marah, dia malah tertawa.",
         "jp": "彼は怒るより、むしろ笑った。",
-        "furiganaHtml": "彼は怒るより、むしろ笑った。",
+        "furiganaHtml": "<ruby>彼は<rt>かれは</rt></ruby><ruby>怒る<rt>いかる</rt></ruby>より、むしろ<ruby>笑っ<rt>わらっ</rt></ruby>た。",
         "translation": "Daripada marah, dia malah tertawa."
       }
     ]
@@ -2806,7 +2806,7 @@
       {
         "id": "Dia bernyanyi tanpa memedulikan pandangan sekitar.",
         "jp": "彼は周囲の目もかまわず歌った。",
-        "furiganaHtml": "彼は周囲の目もかまわず歌った。",
+        "furiganaHtml": "<ruby>彼は<rt>かれは</rt></ruby><ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>目<rt>め</rt></ruby>もかまわず<ruby>歌っ<rt>うたっ</rt></ruby>た。",
         "translation": "Dia bernyanyi tanpa memedulikan pandangan sekitar."
       }
     ]
@@ -2841,7 +2841,7 @@
       {
         "id": "Sejak awal dia memang berniat ikut.",
         "jp": "彼はもとより参加するつもりだった。",
-        "furiganaHtml": "彼はもとより参加するつもりだった。",
+        "furiganaHtml": "<ruby>彼は<rt>かれは</rt></ruby>もとより<ruby>参加<rt>さんか</rt></ruby>するつもりだった。",
         "translation": "Sejak awal dia memang berniat ikut."
       }
     ]
@@ -2876,7 +2876,7 @@
       {
         "id": "Karena tidak ada kontak, tidak ada cara mencarinya.",
         "jp": "連絡先がなく、探しようがない。",
-        "furiganaHtml": "連絡先がなく、探しようがない。",
+        "furiganaHtml": "<ruby>連絡先<rt>れんらくさき</rt></ruby>がなく、<ruby>探し<rt>さがし</rt></ruby>ようがない。",
         "translation": "Karena tidak ada kontak, tidak ada cara mencarinya."
       }
     ]
@@ -2911,7 +2911,7 @@
       {
         "id": "Kalau bersikap begitu, mustahil dipercaya.",
         "jp": "そんな態度では、信頼されようがない。",
-        "furiganaHtml": "そんな態度では、信頼されようがない。",
+        "furiganaHtml": "そんな<ruby>態度<rt>たいど</rt></ruby>では、<ruby>信頼<rt>しんらい</rt></ruby>されようがない。",
         "translation": "Kalau bersikap begitu, mustahil dipercaya."
       }
     ]
@@ -2946,7 +2946,7 @@
       {
         "id": "Tolong catat agar tidak lupa.",
         "jp": "忘れないように、メモしてください。",
-        "furiganaHtml": "忘れないように、メモしてください。",
+        "furiganaHtml": "<ruby>忘れ<rt>わすれ</rt></ruby>ないように、メモしてください。",
         "translation": "Tolong catat agar tidak lupa."
       }
     ]
@@ -2981,7 +2981,7 @@
       {
         "id": "Makanan ini enak walaupun murah.",
         "jp": "この料理は安いわりに、おいしい。",
-        "furiganaHtml": "この料理は安いわりに、おいしい。",
+        "furiganaHtml": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>安い<rt>やすい</rt></ruby>わりに、おいしい。",
         "translation": "Makanan ini enak walaupun murah."
       }
     ]
@@ -3016,7 +3016,7 @@
       {
         "id": "Pendapat terbagi mengenai rencana itu.",
         "jp": "計画をめぐって、意見が分かれた。",
-        "furiganaHtml": "計画をめぐって、意見が分かれた。",
+        "furiganaHtml": "<ruby>計画<rt>けいかく</rt></ruby>をめぐって、<ruby>意見<rt>いけん</rt></ruby>が<ruby>分か<rt>わか</rt></ruby>れた。",
         "translation": "Pendapat terbagi mengenai rencana itu."
       }
     ]
@@ -3051,7 +3051,7 @@
       {
         "id": "Siapa pun dapat melamar tanpa memandang pengalaman.",
         "jp": "経験の有無を問わず応募できる。",
-        "furiganaHtml": "経験の有無を問わず応募できる。",
+        "furiganaHtml": "<ruby>経験<rt>けいけん</rt></ruby>の<ruby>有無<rt>うむ</rt></ruby>を<ruby>問わ<rt>とわ</rt></ruby>ず<ruby>応募<rt>おうぼ</rt></ruby>できる。",
         "translation": "Siapa pun dapat melamar tanpa memandang pengalaman."
       }
     ]
@@ -3086,7 +3086,7 @@
       {
         "id": "Sepanjang tahun, banyak turis berkunjung.",
         "jp": "一年を通じて、多くの観光客が訪れる。",
-        "furiganaHtml": "一年を通じて、多くの観光客が訪れる。",
+        "furiganaHtml": "<ruby>一年<rt>いちねん</rt></ruby>を<ruby>通じ<rt>つうじ</rt></ruby>て、<ruby>多く<rt>おおく</rt></ruby>の<ruby>観光客<rt>かんこうきゃく</rt></ruby>が<ruby>訪れ<rt>おとずれ</rt></ruby>る。",
         "translation": "Sepanjang tahun, banyak turis berkunjung."
       }
     ]
@@ -3121,7 +3121,7 @@
       {
         "id": "Acara ini diadakan di banyak kota, termasuk Tokyo.",
         "jp": "東京をはじめ、多くの都市で開催される。",
-        "furiganaHtml": "東京をはじめ、多くの都市で開催される。",
+        "furiganaHtml": "<ruby>東京<rt>とうきょう</rt></ruby>をはじめ、<ruby>多く<rt>おおく</rt></ruby>の<ruby>都市<rt>とし</rt></ruby>で<ruby>開催<rt>かいさい</rt></ruby>される。",
         "translation": "Acara ini diadakan di banyak kota, termasuk Tokyo."
       }
     ]
@@ -3156,7 +3156,7 @@
       {
         "id": "Saya membuat laporan berdasarkan hasil survei.",
         "jp": "調査結果をもとに、報告書を作成した。",
-        "furiganaHtml": "調査結果をもとに、報告書を作成した。",
+        "furiganaHtml": "<ruby>調査結果<rt>ちょうさけっか</rt></ruby>をもとに、<ruby>報告書<rt>ほうこくしょ</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>した。",
         "translation": "Saya membuat laporan berdasarkan hasil survei."
       }
     ]
@@ -3191,7 +3191,7 @@
       {
         "id": "Pekerjaan diberikan sesuai kemampuan.",
         "jp": "能力に応じて、仕事を任せる。",
-        "furiganaHtml": "能力に応じて、仕事を任せる。",
+        "furiganaHtml": "<ruby>能力<rt>のうりょく</rt></ruby>に<ruby>応じ<rt>おうじ</rt></ruby>て、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>任せ<rt>まかせ</rt></ruby>る。",
         "translation": "Pekerjaan diberikan sesuai kemampuan."
       }
     ],

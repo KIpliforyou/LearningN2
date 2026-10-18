@@ -5,7 +5,7 @@ from pykakasi import kakasi
 
 DATA = Path('C:/Users/USER/Desktop/LearningN2/data/bunpou/n2.json')
 converter = kakasi()
-KANJI = re.compile(r'[\\u3400-\\u9fff]')
+KANJI = re.compile(r'[㐀-鿿]')
 
 def parts(text: str):
     return converter.convert(text)
