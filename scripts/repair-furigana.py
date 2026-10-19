@@ -13,21 +13,22 @@ def parts(text: str):
 def hira(text: str) -> str:
     return ''.join(part['hira'] for part in parts(text))
 
-def ruby(text: str) -> str:
-    rendered = []
+def ruby_segments(text: str):
+    segments = []
     for part in parts(text):
         original = part['orig']
-        if KANJI.search(original):
-            rendered.append('<ruby>' + original + '<rt>' + part['hira'] + '</rt></ruby>')
+        reading = part['hira'] if KANJI.search(original) else None
+        if segments and segments[-1][1] == reading:
+            segments[-1][0] += original
         else:
-            rendered.append(original)
-    return ''.join(rendered)
+            segments.append([original, reading])
+    return segments
 
 data = json.loads(DATA.read_text(encoding='utf-8'))
 for item in data:
     item['kana'] = hira(item['jp'])
     for example in item.get('examples', []):
-        example['furiganaHtml'] = ruby(example['jp'])
+        example['rubySegments'] = ruby_segments(example['jp'])
 
 DATA.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 print(f'repaired {len(data)} patterns')
