@@ -3,6 +3,7 @@
 import { useEffect, useMemo, useState } from "react";
 import type { KeyboardEvent as ReactKeyboardEvent, MouseEvent } from "react";
 import data from "../data/bunpou/n2.json";
+import PatternVideo from "../components/PatternVideo";
 import { calculateSM2, SM2Rating } from "../lib/sm2";
 import {
   defaultPatternProgress,
@@ -65,19 +66,32 @@ export default function Home() {
   const [progress, setProgress] = useState<FullUserProgress>(() => loadProgress());
   const [selected, setSelected] = useState<Pattern | null>(null);
   const [quizPattern, setQuizPattern] = useState<Pattern | null>(null);
+  const [quizQuestionIndex, setQuizQuestionIndex] = useState(0);
   const [quizAnswer, setQuizAnswer] = useState(false);
   const [flashcardPattern, setFlashcardPattern] = useState<Pattern | null>(null);
   const [flashcardAnswer, setFlashcardAnswer] = useState(false);
   const [importMessage, setImportMessage] = useState("");
   const [furiganaOn, setFuriganaOn] = useState(true);
+  const [darkMode, setDarkMode] = useState(false);
 
   useEffect(() => {
     try {
       setFuriganaOn(window.localStorage.getItem("learningn2-furigana") !== "off");
+      setDarkMode(window.localStorage.getItem("learningn2-theme") === "dark");
     } catch {
       setFuriganaOn(true);
     }
   }, []);
+
+  function toggleTheme() {
+    const next = !darkMode;
+    setDarkMode(next);
+    try {
+      window.localStorage.setItem("learningn2-theme", next ? "dark" : "light");
+    } catch {
+      // UI tetap berjalan jika localStorage tidak tersedia.
+    }
+  }
 
   function toggleFurigana() {
     const next = !furiganaOn;
@@ -121,6 +135,10 @@ export default function Home() {
   }
 
   useEffect(() => {
+    document.documentElement.dataset.theme = darkMode ? "dark" : "light";
+  }, [darkMode]);
+
+  useEffect(() => {
     if (migrateLegacyProgress()) setProgress(loadProgress());
   }, []);
 
@@ -142,7 +160,7 @@ export default function Home() {
       const itemProgress = progressFor(progress, pattern.id);
       const matchesFilter =
         filter === "all" || (filter === "favorites" ? itemProgress.favorite : itemProgress.status === filter);
-      const searchable = `${pattern.title} ${pattern.meaning} ${pattern.jp} ${pattern.kana}`.toLowerCase();
+      const searchable = pattern.kunci_pencarian.toLowerCase();
       return matchesFilter && searchable.includes(normalizedQuery);
     });
   }, [filter, progress, query]);
@@ -201,7 +219,7 @@ export default function Home() {
   }
 
   return (
-    <main className={`shell ${furiganaOn ? "furigana-on" : "furigana-off"}`}>
+    <main className={`shell ${furiganaOn ? "furigana-on" : "furigana-off"} ${darkMode ? "theme-dark" : "theme-light"}`}>
       <header className="top">
         <div>
           <div className="logo">LearningN2</div>
@@ -213,8 +231,11 @@ export default function Home() {
           <button className={`btn furigana-toggle ${furiganaOn ? "primary" : ""}`} onClick={toggleFurigana} aria-pressed={furiganaOn}>
             Furigana: {furiganaOn ? "On" : "Off"}
           </button>
+          <button className="btn" onClick={toggleTheme} aria-pressed={darkMode}>
+            Tema: {darkMode ? "Gelap" : "Terang"}
+          </button>
           <button className="btn" onClick={() => { setFlashcardPattern(filtered[0] ?? activePatterns[0]); setFlashcardAnswer(false); }}>Flashcard</button>
-          <button className="btn" onClick={() => { setQuizPattern(filtered[0] ?? activePatterns[0]); setQuizAnswer(false); }}>Quiz</button>
+          <button className="btn" onClick={() => { setQuizPattern(filtered[0] ?? activePatterns[0]); setQuizQuestionIndex(0); setQuizAnswer(false); }}>Quiz</button>
           <button className="btn" onClick={exportProgress}>Export</button>
           <label className="btn">Import<input type="file" accept="application/json" hidden onChange={importProgress} /></label>
         </nav>
@@ -280,6 +301,10 @@ export default function Home() {
             </div>
             <p><b>Rumus:</b> {selected.formula}</p>
             <p><b>Penjelasan:</b> {selected.explanation}</p>
+            <PatternVideo source={selected.sumber} title={selected.title} />
+            <p className="muted"><b>Kategori:</b> {selected.category} · <b>Nuansa:</b> {selected.formality}</p>
+            {selected.catatan && <p className="note"><b>Catatan:</b> {selected.catatan}</p>}
+            <p className="muted"><b>Status sumber:</b> {selected.terverifikasi ? "Terverifikasi" : "Perlu review"}</p>
             {selected.examples.map((example) => (
               <div className="example" key={example.id}>
                 <div className="example-copy">
@@ -305,7 +330,7 @@ export default function Home() {
           <section className="modal card flashcard" role="dialog" aria-modal="true" aria-labelledby="flashcard-title" onClick={(event) => event.stopPropagation()}>
             <div className="modal-header"><h2 id="flashcard-title">Flashcard</h2><div className="actions"><button className={`btn ${furiganaOn ? "primary" : ""}`} onClick={toggleFurigana} aria-pressed={furiganaOn}>Furigana: {furiganaOn ? "On" : "Off"}</button><button className="btn" onClick={() => setFlashcardPattern(null)}>Tutup</button></div></div>
             <div className="jp">{renderRuby(flashcardPattern.examples[0].rubySegments as [string, string | null][], flashcardAnswer)}</div>
-            {flashcardAnswer ? <div className="answer"><b>{flashcardPattern.meaning}</b><p>{flashcardPattern.explanation}</p></div> : <button className="btn primary" onClick={() => setFlashcardAnswer(true)}>Balik kartu</button>}
+            {flashcardAnswer ? <div className="answer"><b>{flashcardPattern.meaning}</b><p>{flashcardPattern.explanation}</p><PatternVideo source={flashcardPattern.sumber} title={flashcardPattern.title} /></div> : <button className="btn primary" onClick={() => setFlashcardAnswer(true)}>Balik kartu</button>}
           </section>
         </div>
       )}
@@ -314,13 +339,21 @@ export default function Home() {
         <div className="modal-backdrop" role="presentation" onClick={() => setQuizPattern(null)}>
           <section className="modal card" role="dialog" aria-modal="true" aria-labelledby="quiz-title" onClick={(event) => event.stopPropagation()}>
             <div className="modal-header"><h2 id="quiz-title">Quiz kilat</h2><div className="actions"><button className={`btn ${furiganaOn ? "primary" : ""}`} onClick={toggleFurigana} aria-pressed={furiganaOn}>Furigana: {furiganaOn ? "On" : "Off"}</button><button className="btn" onClick={() => setQuizPattern(null)}>Tutup</button></div></div>
-            <p>Apa arti pola berikut?</p>
-            <div className={`quiz-question ${quizAnswer ? "quiz-answer-revealed" : ""}`}>
-              <div className="jp">{renderRuby((quizPattern.examples[0]?.rubySegments ?? [[quizPattern.jp, null]]) as [string, string | null][], quizAnswer)}</div>
-              {quizAnswer && <div className="example-translation"><b>Bacaan/arti contoh:</b> {quizPattern.examples[0]?.translation}</div>}
-            </div>
-            {quizAnswer ? <p className="answer"><b>Arti pola:</b> {quizPattern.meaning}<br /><b>Penjelasan:</b> {quizPattern.explanation}</p> : <button className="btn primary" onClick={() => setQuizAnswer(true)}>Tampilkan jawaban</button>}
-            {quizAnswer && <button className="btn" onClick={() => { review(quizPattern.id, 2); setQuizAnswer(false); setQuizPattern(null); }}>Tandai direview</button>}
+            {(() => {
+              const question = quizPattern.soal_latihan[quizQuestionIndex] ?? quizPattern.soal_latihan[0];
+              return <>
+                <p><b>Soal {quizQuestionIndex + 1}/3 · {question.tipe}</b></p>
+                <div className={`quiz-question ${quizAnswer ? "quiz-answer-revealed" : ""}`}>
+                  <div className="jp">{quizQuestionIndex === 1 ? renderRuby(quizPattern.examples[0].rubySegments as [string, string | null][], quizAnswer) : question.pertanyaan}</div>
+                  {quizAnswer && <div className="example-translation"><b>Jawaban:</b> {question.jawaban}</div>}
+                </div>
+                {quizAnswer ? <>
+                  <p className="answer"><b>Arti pola:</b> {quizPattern.meaning}<br /><b>Penjelasan:</b> {quizPattern.explanation}</p>
+                  <PatternVideo source={quizPattern.sumber} title={quizPattern.title} />
+                  {quizQuestionIndex < 2 ? <button className="btn primary" onClick={() => { setQuizQuestionIndex((index) => index + 1); setQuizAnswer(false); }}>Soal berikutnya</button> : <button className="btn" onClick={() => { review(quizPattern.id, 2); setQuizAnswer(false); setQuizPattern(null); }}>Tandai direview</button>}
+                </> : <button className="btn primary" onClick={() => setQuizAnswer(true)}>Tampilkan jawaban</button>}
+              </>;
+            })()}
           </section>
         </div>
       )}

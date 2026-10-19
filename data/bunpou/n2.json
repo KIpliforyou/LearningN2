@@ -6,7 +6,7 @@
     "displayTitle": "～一方だ",
     "jp": "一方だ",
     "kana": "いっぽうだ",
-    "romaji": "",
+    "romaji": "ippouda",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -57,7 +57,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 25,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "一方だ 一方だ いっぽうだ ippouda terus berubah ke satu arah 一方だ terus berubah ke satu arah",
+    "soal_latihan": [
+      {
+        "id": "n2-001-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola 一方だ?",
+        "jawaban": "terus berubah ke satu arah"
+      },
+      {
+        "id": "n2-001-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "物価は上がる一方だ。",
+        "jawaban": "Harga terus naik tanpa henti."
+      },
+      {
+        "id": "n2-001-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Harga terus naik tanpa henti.?",
+        "jawaban": "一方だ"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-002",
@@ -66,7 +95,7 @@
     "displayTitle": "～欠かさず",
     "jp": "欠かさず",
     "kana": "かかさず",
-    "romaji": "",
+    "romaji": "kakasazu",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -127,7 +156,36 @@
       }
     ],
     "reviewNeeded": true,
-    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required."
+    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required.",
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 110,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "欠かさず 欠かさず かかさず kakasazu tanpa melewatkan satu kali pun 欠かさず tanpa melewatkan satu kali pun",
+    "soal_latihan": [
+      {
+        "id": "n2-002-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola 欠かさず?",
+        "jawaban": "tanpa melewatkan satu kali pun"
+      },
+      {
+        "id": "n2-002-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "毎朝、運動を欠かさず続けている。",
+        "jawaban": "Setiap pagi, saya terus berolahraga tanpa pernah melewatkannya."
+      },
+      {
+        "id": "n2-002-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Setiap pagi, saya terus berolahraga tanpa pernah melewatkannya.?",
+        "jawaban": "欠かさず"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-003",
@@ -136,7 +194,7 @@
     "displayTitle": "～た上で",
     "jp": "た上で",
     "kana": "たうえで",
-    "romaji": "",
+    "romaji": "tauede",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -191,7 +249,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 195,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "た上で た上で たうえで tauede setelah melakukan atau mempertimbangkan た上で setelah melakukan atau mempertimbangkan",
+    "soal_latihan": [
+      {
+        "id": "n2-003-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola た上で?",
+        "jawaban": "setelah melakukan atau mempertimbangkan"
+      },
+      {
+        "id": "n2-003-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "よく考えた上で、返事をします。",
+        "jawaban": "Saya akan menjawab setelah mempertimbangkannya baik-baik."
+      },
+      {
+        "id": "n2-003-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Saya akan menjawab setelah mempertimbangkannya baik-baik.?",
+        "jawaban": "た上で"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-004",
@@ -200,7 +287,7 @@
     "displayTitle": "～ことはない",
     "jp": "ことはない",
     "kana": "ことはない",
-    "romaji": "",
+    "romaji": "kotohanai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -239,7 +326,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 280,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "ことはない ことはない ことはない kotohanai tidak perlu; tidak usah ことはない tidak perlu; tidak usah",
+    "soal_latihan": [
+      {
+        "id": "n2-004-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola ことはない?",
+        "jawaban": "tidak perlu; tidak usah"
+      },
+      {
+        "id": "n2-004-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "そんなに心配することはない。",
+        "jawaban": "Kamu tidak perlu terlalu khawatir."
+      },
+      {
+        "id": "n2-004-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Kamu tidak perlu terlalu khawatir.?",
+        "jawaban": "ことはない"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-005",
@@ -248,7 +364,7 @@
     "displayTitle": "～すら／さえ",
     "jp": "すら／さえ",
     "kana": "すら／さえ",
-    "romaji": "",
+    "romaji": "sura/sae",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -303,7 +419,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 365,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "すら／さえ すら／さえ すら／さえ sura/sae bahkan; sampai hal paling dasar すら／さえ bahkan; sampai hal paling dasar",
+    "soal_latihan": [
+      {
+        "id": "n2-005-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola すら／さえ?",
+        "jawaban": "bahkan; sampai hal paling dasar"
+      },
+      {
+        "id": "n2-005-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "彼は自分の名前すら書けない。",
+        "jawaban": "Dia bahkan tidak bisa menulis namanya sendiri."
+      },
+      {
+        "id": "n2-005-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Dia bahkan tidak bisa menulis namanya sendiri.?",
+        "jawaban": "すら／さえ"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-006",
@@ -312,7 +457,7 @@
     "displayTitle": "～次第",
     "jp": "次第",
     "kana": "しだい",
-    "romaji": "",
+    "romaji": "shidai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -359,7 +504,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 450,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "次第 次第 しだい shidai segera setelah; begitu 次第 segera setelah; begitu",
+    "soal_latihan": [
+      {
+        "id": "n2-006-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola 次第?",
+        "jawaban": "segera setelah; begitu"
+      },
+      {
+        "id": "n2-006-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "確認次第、ご連絡します。",
+        "jawaban": "Segera setelah terkonfirmasi, saya akan menghubungi Anda."
+      },
+      {
+        "id": "n2-006-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Segera setelah terkonfirmasi, saya akan menghubungi Anda.?",
+        "jawaban": "次第"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-007",
@@ -368,7 +542,7 @@
     "displayTitle": "～末に",
     "jp": "末に",
     "kana": "まつに",
-    "romaji": "",
+    "romaji": "matsuni",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -431,7 +605,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 535,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "末に 末に まつに matsuni setelah proses panjang, akhirnya 末に setelah proses panjang, akhirnya",
+    "soal_latihan": [
+      {
+        "id": "n2-007-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola 末に?",
+        "jawaban": "setelah proses panjang, akhirnya"
+      },
+      {
+        "id": "n2-007-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "長い議論の末に、計画を変更した。",
+        "jawaban": "Setelah diskusi panjang, akhirnya rencana diubah."
+      },
+      {
+        "id": "n2-007-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Setelah diskusi panjang, akhirnya rencana diubah.?",
+        "jawaban": "末に"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-008",
@@ -440,7 +643,7 @@
     "displayTitle": "～たいだけ",
     "jp": "たいだけ",
     "kana": "たいだけ",
-    "romaji": "",
+    "romaji": "taidake",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -483,7 +686,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 620,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "たいだけ たいだけ たいだけ taidake sebanyak/sepuas yang diinginkan たいだけ sebanyak/sepuas yang diinginkan",
+    "soal_latihan": [
+      {
+        "id": "n2-008-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola たいだけ?",
+        "jawaban": "sebanyak/sepuas yang diinginkan"
+      },
+      {
+        "id": "n2-008-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "食べたいだけ食べてください。",
+        "jawaban": "Silakan makan sepuas yang Anda inginkan."
+      },
+      {
+        "id": "n2-008-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Silakan makan sepuas yang Anda inginkan.?",
+        "jawaban": "たいだけ"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-009",
@@ -492,7 +724,7 @@
     "displayTitle": "～だけに",
     "jp": "だけに",
     "kana": "だけに",
-    "romaji": "",
+    "romaji": "dakeni",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -543,7 +775,40 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 705,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [
+      "n2-048"
+    ],
+    "kunci_pencarian": "だけに だけに だけに dakeni justru karena; sesuai besarnya alasan だけに justru karena; sesuai besarnya alasan",
+    "soal_latihan": [
+      {
+        "id": "n2-009-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola だけに?",
+        "jawaban": "justru karena; sesuai besarnya alasan"
+      },
+      {
+        "id": "n2-009-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "期待していただけに、失望も大きかった。",
+        "jawaban": "Justru karena sangat berharap, kekecewaannya besar."
+      },
+      {
+        "id": "n2-009-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Justru karena sangat berharap, kekecewaannya besar.?",
+        "jawaban": "だけに"
+      }
+    ],
+    "terverifikasi": false,
+    "reviewNeeded": true,
+    "reviewNote": "Duplikat judul だけに; bandingkan nuansa dengan rekaman sumber."
   },
   {
     "id": "n2-010",
@@ -552,7 +817,7 @@
     "displayTitle": "～だって",
     "jp": "だって",
     "kana": "だって",
-    "romaji": "",
+    "romaji": "datte",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -595,7 +860,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 790,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "だって だって だって datte bahkan; siapa pun juga だって bahkan; siapa pun juga",
+    "soal_latihan": [
+      {
+        "id": "n2-010-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola だって?",
+        "jawaban": "bahkan; siapa pun juga"
+      },
+      {
+        "id": "n2-010-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "誰だって失敗することはある。",
+        "jawaban": "Siapa pun pasti pernah gagal."
+      },
+      {
+        "id": "n2-010-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Siapa pun pasti pernah gagal.?",
+        "jawaban": "だって"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-011",
@@ -604,7 +898,7 @@
     "displayTitle": "～たら〜で",
     "jp": "たら〜で",
     "kana": "たら〜で",
-    "romaji": "",
+    "romaji": "tara~de",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -671,7 +965,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 875,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "たら〜で たら〜で たら〜で tara~de kalaupun begitu, ada konsekuensinya たら〜で kalaupun begitu, ada konsekuensinya",
+    "soal_latihan": [
+      {
+        "id": "n2-011-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola たら〜で?",
+        "jawaban": "kalaupun begitu, ada konsekuensinya"
+      },
+      {
+        "id": "n2-011-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "雨が降ったら降ったで、家で休めばいい。",
+        "jawaban": "Kalaupun hujan, kita bisa beristirahat di rumah."
+      },
+      {
+        "id": "n2-011-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Kalaupun hujan, kita bisa beristirahat di rumah.?",
+        "jawaban": "たら〜で"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-012",
@@ -680,7 +1003,7 @@
     "displayTitle": "～て以来",
     "jp": "て以来",
     "kana": "ていらい",
-    "romaji": "",
+    "romaji": "teirai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -735,7 +1058,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 960,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "て以来 て以来 ていらい teirai sejak saat itu hingga kini て以来 sejak saat itu hingga kini",
+    "soal_latihan": [
+      {
+        "id": "n2-012-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola て以来?",
+        "jawaban": "sejak saat itu hingga kini"
+      },
+      {
+        "id": "n2-012-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "日本に来て以来、病気をしていない。",
+        "jawaban": "Sejak datang ke Jepang, saya belum pernah sakit."
+      },
+      {
+        "id": "n2-012-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Sejak datang ke Jepang, saya belum pernah sakit.?",
+        "jawaban": "て以来"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-013",
@@ -744,7 +1096,7 @@
     "displayTitle": "～のではないか",
     "jp": "のではないか",
     "kana": "のではないか",
-    "romaji": "",
+    "romaji": "nodehanaika",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -791,7 +1143,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 1045,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "のではないか のではないか のではないか nodehanaika bukankah; sepertinya のではないか bukankah; sepertinya",
+    "soal_latihan": [
+      {
+        "id": "n2-013-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola のではないか?",
+        "jawaban": "bukankah; sepertinya"
+      },
+      {
+        "id": "n2-013-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "これは大切な問題なのではないか。",
+        "jawaban": "Bukankah ini masalah penting?"
+      },
+      {
+        "id": "n2-013-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Bukankah ini masalah penting??",
+        "jawaban": "のではないか"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-014",
@@ -800,7 +1181,7 @@
     "displayTitle": "～といえば",
     "jp": "といえば",
     "kana": "といえば",
-    "romaji": "",
+    "romaji": "toieba",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -851,7 +1232,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 1130,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "といえば といえば といえば toieba kalau bicara tentang といえば kalau bicara tentang",
+    "soal_latihan": [
+      {
+        "id": "n2-014-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola といえば?",
+        "jawaban": "kalau bicara tentang"
+      },
+      {
+        "id": "n2-014-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "日本料理といえば、寿司が有名だ。",
+        "jawaban": "Kalau bicara masakan Jepang, sushi terkenal."
+      },
+      {
+        "id": "n2-014-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Kalau bicara masakan Jepang, sushi terkenal.?",
+        "jawaban": "といえば"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-015",
@@ -860,7 +1270,7 @@
     "displayTitle": "～といった",
     "jp": "といった",
     "kana": "といった",
-    "romaji": "",
+    "romaji": "toitta",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -919,7 +1329,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 1215,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "といった といった といった toitta seperti; antara lain といった seperti; antara lain",
+    "soal_latihan": [
+      {
+        "id": "n2-015-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola といった?",
+        "jawaban": "seperti; antara lain"
+      },
+      {
+        "id": "n2-015-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "寿司や天ぷらといった料理が好きだ。",
+        "jawaban": "Saya suka makanan seperti sushi dan tempura."
+      },
+      {
+        "id": "n2-015-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Saya suka makanan seperti sushi dan tempura.?",
+        "jawaban": "といった"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-016",
@@ -928,7 +1367,7 @@
     "displayTitle": "～としたら／とすれば",
     "jp": "としたら／とすれば",
     "kana": "としたら／とすれば",
-    "romaji": "",
+    "romaji": "toshitara/tosureba",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -979,7 +1418,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 1300,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "としたら／とすれば としたら／とすれば としたら／とすれば toshitara/tosureba seandainya; jika diasumsikan としたら／とすれば seandainya; jika diasumsikan",
+    "soal_latihan": [
+      {
+        "id": "n2-016-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola としたら／とすれば?",
+        "jawaban": "seandainya; jika diasumsikan"
+      },
+      {
+        "id": "n2-016-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "もし生まれ変わるとしたら、鳥になりたい。",
+        "jawaban": "Seandainya terlahir kembali, saya ingin menjadi burung."
+      },
+      {
+        "id": "n2-016-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Seandainya terlahir kembali, saya ingin menjadi burung.?",
+        "jawaban": "としたら／とすれば"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-017",
@@ -988,7 +1456,7 @@
     "displayTitle": "～として／としては／としても",
     "jp": "として／としては／としても",
     "kana": "として／としては／としても",
-    "romaji": "",
+    "romaji": "toshite/toshiteha/toshitemo",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -1039,7 +1507,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 1385,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "として／としては／としても として／としては／としても として／としては／としても toshite/toshiteha/toshitemo sebagai; selaku として／としては／としても sebagai; selaku",
+    "soal_latihan": [
+      {
+        "id": "n2-017-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola として／としては／としても?",
+        "jawaban": "sebagai; selaku"
+      },
+      {
+        "id": "n2-017-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "教師として、学生を支えたい。",
+        "jawaban": "Sebagai guru, saya ingin mendukung siswa."
+      },
+      {
+        "id": "n2-017-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Sebagai guru, saya ingin mendukung siswa.?",
+        "jawaban": "として／としては／としても"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-018",
@@ -1048,7 +1545,7 @@
     "displayTitle": "～にかけては",
     "jp": "にかけては",
     "kana": "にかけては",
-    "romaji": "",
+    "romaji": "nikaketeha",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -1099,7 +1596,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 1470,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "にかけては にかけては にかけては nikaketeha dalam hal tertentu adalah yang terbaik にかけては dalam hal tertentu adalah yang terbaik",
+    "soal_latihan": [
+      {
+        "id": "n2-018-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola にかけては?",
+        "jawaban": "dalam hal tertentu adalah yang terbaik"
+      },
+      {
+        "id": "n2-018-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "料理にかけては、彼が一番上手だ。",
+        "jawaban": "Dalam hal memasak, dialah yang terbaik."
+      },
+      {
+        "id": "n2-018-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Dalam hal memasak, dialah yang terbaik.?",
+        "jawaban": "にかけては"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-019",
@@ -1108,7 +1634,7 @@
     "displayTitle": "～にすぎない",
     "jp": "にすぎない",
     "kana": "にすぎない",
-    "romaji": "",
+    "romaji": "nisuginai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -1167,7 +1693,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 1555,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "にすぎない にすぎない にすぎない nisuginai tidak lebih dari; hanya にすぎない tidak lebih dari; hanya",
+    "soal_latihan": [
+      {
+        "id": "n2-019-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola にすぎない?",
+        "jawaban": "tidak lebih dari; hanya"
+      },
+      {
+        "id": "n2-019-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "私は自分の経験を話したにすぎない。",
+        "jawaban": "Saya hanya menceritakan pengalaman saya."
+      },
+      {
+        "id": "n2-019-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Saya hanya menceritakan pengalaman saya.?",
+        "jawaban": "にすぎない"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-020",
@@ -1176,7 +1731,7 @@
     "displayTitle": "～によらず",
     "jp": "によらず",
     "kana": "によらず",
-    "romaji": "",
+    "romaji": "niyorazu",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -1219,7 +1774,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 1640,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "によらず によらず によらず niyorazu tanpa memandang; tidak berdasarkan によらず tanpa memandang; tidak berdasarkan",
+    "soal_latihan": [
+      {
+        "id": "n2-020-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola によらず?",
+        "jawaban": "tanpa memandang; tidak berdasarkan"
+      },
+      {
+        "id": "n2-020-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "年齢によらず、応募できます。",
+        "jawaban": "Anda dapat melamar tanpa memandang usia."
+      },
+      {
+        "id": "n2-020-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Anda dapat melamar tanpa memandang usia.?",
+        "jawaban": "によらず"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-021",
@@ -1228,7 +1812,7 @@
     "displayTitle": "～にわたって",
     "jp": "にわたって",
     "kana": "にわたって",
-    "romaji": "",
+    "romaji": "niwatatte",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -1283,7 +1867,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 1725,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "にわたって にわたって にわたって niwatatte sepanjang rentang; mencakup にわたって sepanjang rentang; mencakup",
+    "soal_latihan": [
+      {
+        "id": "n2-021-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola にわたって?",
+        "jawaban": "sepanjang rentang; mencakup"
+      },
+      {
+        "id": "n2-021-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "会議は三時間にわたって続いた。",
+        "jawaban": "Rapat berlangsung selama tiga jam."
+      },
+      {
+        "id": "n2-021-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Rapat berlangsung selama tiga jam.?",
+        "jawaban": "にわたって"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-022",
@@ -1292,7 +1905,7 @@
     "displayTitle": "～ものなら",
     "jp": "ものなら",
     "kana": "ものなら",
-    "romaji": "",
+    "romaji": "mononara",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -1343,7 +1956,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 1810,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "ものなら ものなら ものなら mononara seandainya bisa, walau sulit/mustahil ものなら seandainya bisa, walau sulit/mustahil",
+    "soal_latihan": [
+      {
+        "id": "n2-022-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola ものなら?",
+        "jawaban": "seandainya bisa, walau sulit/mustahil"
+      },
+      {
+        "id": "n2-022-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "戻れるものなら、学生時代に戻りたい。",
+        "jawaban": "Seandainya bisa, saya ingin kembali ke masa sekolah."
+      },
+      {
+        "id": "n2-022-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Seandainya bisa, saya ingin kembali ke masa sekolah.?",
+        "jawaban": "ものなら"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-023",
@@ -1352,7 +1994,7 @@
     "displayTitle": "～ものだ／ものではない",
     "jp": "ものだ／ものではない",
     "kana": "ものだ／ものではない",
-    "romaji": "",
+    "romaji": "monoda/monodehanai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -1395,7 +2037,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 1895,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "ものだ／ものではない ものだ／ものではない ものだ／ものではない monoda/monodehanai sudah sewajarnya; tidak pantas ものだ／ものではない sudah sewajarnya; tidak pantas",
+    "soal_latihan": [
+      {
+        "id": "n2-023-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola ものだ／ものではない?",
+        "jawaban": "sudah sewajarnya; tidak pantas"
+      },
+      {
+        "id": "n2-023-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "人に迷惑をかけるものではない。",
+        "jawaban": "Tidak pantas merepotkan orang lain."
+      },
+      {
+        "id": "n2-023-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Tidak pantas merepotkan orang lain.?",
+        "jawaban": "ものだ／ものではない"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-024",
@@ -1404,7 +2075,7 @@
     "displayTitle": "～わけだ",
     "jp": "わけだ",
     "kana": "わけだ",
-    "romaji": "",
+    "romaji": "wakeda",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -1459,7 +2130,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 1980,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "わけだ わけだ わけだ wakeda pantas saja; berarti memang わけだ pantas saja; berarti memang",
+    "soal_latihan": [
+      {
+        "id": "n2-024-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola わけだ?",
+        "jawaban": "pantas saja; berarti memang"
+      },
+      {
+        "id": "n2-024-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "十年住んでいるから、日本語が上手なわけだ。",
+        "jawaban": "Pantas bahasa Jepangnya lancar; dia sudah tinggal sepuluh tahun."
+      },
+      {
+        "id": "n2-024-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Pantas bahasa Jepangnya lancar; dia sudah tinggal sepuluh tahun.?",
+        "jawaban": "わけだ"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-025",
@@ -1468,7 +2168,7 @@
     "displayTitle": "～わけではない／わけがない",
     "jp": "わけではない／わけがない",
     "kana": "わけではない／わけがない",
-    "romaji": "",
+    "romaji": "wakedehanai/wakeganai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -1511,7 +2211,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 2065,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "わけではない／わけがない わけではない／わけがない わけではない／わけがない wakedehanai/wakeganai bukan berarti; mustahil わけではない／わけがない bukan berarti; mustahil",
+    "soal_latihan": [
+      {
+        "id": "n2-025-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola わけではない／わけがない?",
+        "jawaban": "bukan berarti; mustahil"
+      },
+      {
+        "id": "n2-025-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "仕事が嫌いなわけではない。",
+        "jawaban": "Bukan berarti saya membenci pekerjaan ini."
+      },
+      {
+        "id": "n2-025-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Bukan berarti saya membenci pekerjaan ini.?",
+        "jawaban": "わけではない／わけがない"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-026",
@@ -1520,7 +2249,7 @@
     "displayTitle": "～あまりに／あまりの",
     "jp": "あまりに／あまりの",
     "kana": "あまりに／あまりの",
-    "romaji": "",
+    "romaji": "amarini/amarino",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -1577,7 +2306,36 @@
       }
     ],
     "reviewNeeded": true,
-    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required."
+    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required.",
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 2150,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "あまりに／あまりの あまりに／あまりの あまりに／あまりの amarini/amarino terlalu; karena terlalu ... sehingga あまりに／あまりの terlalu; karena terlalu ... sehingga",
+    "soal_latihan": [
+      {
+        "id": "n2-026-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola あまりに／あまりの?",
+        "jawaban": "terlalu; karena terlalu ... sehingga"
+      },
+      {
+        "id": "n2-026-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "あまりに忙しくて、昼食を忘れた。",
+        "jawaban": "Karena terlalu sibuk, saya lupa makan siang."
+      },
+      {
+        "id": "n2-026-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Karena terlalu sibuk, saya lupa makan siang.?",
+        "jawaban": "あまりに／あまりの"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-027",
@@ -1586,7 +2344,7 @@
     "displayTitle": "～以上は",
     "jp": "以上は",
     "kana": "いじょうは",
-    "romaji": "",
+    "romaji": "ijouha",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -1637,7 +2395,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 2235,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "以上は 以上は いじょうは ijouha karena sudah; selama 以上は karena sudah; selama",
+    "soal_latihan": [
+      {
+        "id": "n2-027-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola 以上は?",
+        "jawaban": "karena sudah; selama"
+      },
+      {
+        "id": "n2-027-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "約束した以上は、守るべきだ。",
+        "jawaban": "Karena sudah berjanji, seharusnya ditepati."
+      },
+      {
+        "id": "n2-027-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Karena sudah berjanji, seharusnya ditepati.?",
+        "jawaban": "以上は"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-028",
@@ -1646,7 +2433,7 @@
     "displayTitle": "～上に",
     "jp": "上に",
     "kana": "うえに",
-    "romaji": "",
+    "romaji": "ueni",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -1713,7 +2500,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 2320,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "上に 上に うえに ueni selain itu; bahkan 上に selain itu; bahkan",
+    "soal_latihan": [
+      {
+        "id": "n2-028-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola 上に?",
+        "jawaban": "selain itu; bahkan"
+      },
+      {
+        "id": "n2-028-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "この店は安い上に、駅から近い。",
+        "jawaban": "Toko ini murah dan selain itu dekat stasiun."
+      },
+      {
+        "id": "n2-028-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Toko ini murah dan selain itu dekat stasiun.?",
+        "jawaban": "上に"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-029",
@@ -1722,7 +2538,7 @@
     "displayTitle": "～おきに",
     "jp": "おきに",
     "kana": "おきに",
-    "romaji": "",
+    "romaji": "okini",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -1773,7 +2589,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 2405,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "おきに おきに おきに okini setiap interval おきに setiap interval",
+    "soal_latihan": [
+      {
+        "id": "n2-029-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola おきに?",
+        "jawaban": "setiap interval"
+      },
+      {
+        "id": "n2-029-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "二駅おきに電車が止まる。",
+        "jawaban": "Kereta berhenti setiap dua stasiun."
+      },
+      {
+        "id": "n2-029-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Kereta berhenti setiap dua stasiun.?",
+        "jawaban": "おきに"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-030",
@@ -1782,7 +2627,7 @@
     "displayTitle": "～がたい",
     "jp": "がたい",
     "kana": "がたい",
-    "romaji": "",
+    "romaji": "gatai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -1829,7 +2674,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 2490,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "がたい がたい がたい gatai sulit untuk dilakukan がたい sulit untuk dilakukan",
+    "soal_latihan": [
+      {
+        "id": "n2-030-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola がたい?",
+        "jawaban": "sulit untuk dilakukan"
+      },
+      {
+        "id": "n2-030-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "彼の説明は理解しがたい。",
+        "jawaban": "Penjelasannya sulit dipahami."
+      },
+      {
+        "id": "n2-030-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Penjelasannya sulit dipahami.?",
+        "jawaban": "がたい"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-031",
@@ -1838,7 +2712,7 @@
     "displayTitle": "～がちだ",
     "jp": "がちだ",
     "kana": "がちだ",
-    "romaji": "",
+    "romaji": "gachida",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -1889,7 +2763,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 2575,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "がちだ がちだ がちだ gachida cenderung; mudah menjadi がちだ cenderung; mudah menjadi",
+    "soal_latihan": [
+      {
+        "id": "n2-031-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola がちだ?",
+        "jawaban": "cenderung; mudah menjadi"
+      },
+      {
+        "id": "n2-031-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "忙しいと、食事を忘れがちだ。",
+        "jawaban": "Saat sibuk, saya cenderung lupa makan."
+      },
+      {
+        "id": "n2-031-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Saat sibuk, saya cenderung lupa makan.?",
+        "jawaban": "がちだ"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-032",
@@ -1898,7 +2801,7 @@
     "displayTitle": "～かと思うと",
     "jp": "かと思うと",
     "kana": "かとおもうと",
-    "romaji": "",
+    "romaji": "katoomouto",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -1953,7 +2856,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 2660,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "かと思うと かと思うと かとおもうと katoomouto baru saja ... ternyata かと思うと baru saja ... ternyata",
+    "soal_latihan": [
+      {
+        "id": "n2-032-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola かと思うと?",
+        "jawaban": "baru saja ... ternyata"
+      },
+      {
+        "id": "n2-032-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "雨がやんだかと思うと、また降り始めた。",
+        "jawaban": "Baru saja hujan berhenti, ternyata mulai turun lagi."
+      },
+      {
+        "id": "n2-032-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Baru saja hujan berhenti, ternyata mulai turun lagi.?",
+        "jawaban": "かと思うと"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-033",
@@ -1962,7 +2894,7 @@
     "displayTitle": "～からすると／からすれば",
     "jp": "からすると／からすれば",
     "kana": "からすると／からすれば",
-    "romaji": "",
+    "romaji": "karasuruto/karasureba",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2009,7 +2941,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 2745,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "からすると／からすれば からすると／からすれば からすると／からすれば karasuruto/karasureba dilihat dari; menurut からすると／からすれば dilihat dari; menurut",
+    "soal_latihan": [
+      {
+        "id": "n2-033-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola からすると／からすれば?",
+        "jawaban": "dilihat dari; menurut"
+      },
+      {
+        "id": "n2-033-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "彼の経験からすると、成功するだろう。",
+        "jawaban": "Dilihat dari pengalamannya, dia mungkin berhasil."
+      },
+      {
+        "id": "n2-033-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Dilihat dari pengalamannya, dia mungkin berhasil.?",
+        "jawaban": "からすると／からすれば"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-034",
@@ -2018,7 +2979,7 @@
     "displayTitle": "～からして",
     "jp": "からして",
     "kana": "からして",
-    "romaji": "",
+    "romaji": "karashite",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2065,7 +3026,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 2830,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "からして からして からして karashite bahkan dari; dilihat dari からして bahkan dari; dilihat dari",
+    "soal_latihan": [
+      {
+        "id": "n2-034-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola からして?",
+        "jawaban": "bahkan dari; dilihat dari"
+      },
+      {
+        "id": "n2-034-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "彼は話し方からして親切そうだ。",
+        "jawaban": "Dilihat dari cara bicaranya saja, dia tampak baik."
+      },
+      {
+        "id": "n2-034-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Dilihat dari cara bicaranya saja, dia tampak baik.?",
+        "jawaban": "からして"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-035",
@@ -2074,7 +3064,7 @@
     "displayTitle": "～からには",
     "jp": "からには",
     "kana": "からには",
-    "romaji": "",
+    "romaji": "karaniha",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2125,7 +3115,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 2915,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "からには からには からには karaniha karena sudah; selama からには karena sudah; selama",
+    "soal_latihan": [
+      {
+        "id": "n2-035-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola からには?",
+        "jawaban": "karena sudah; selama"
+      },
+      {
+        "id": "n2-035-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "参加するからには、最後まで頑張る。",
+        "jawaban": "Karena sudah ikut, saya akan berusaha sampai akhir."
+      },
+      {
+        "id": "n2-035-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Karena sudah ikut, saya akan berusaha sampai akhir.?",
+        "jawaban": "からには"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-036",
@@ -2134,7 +3153,7 @@
     "displayTitle": "～きり",
     "jp": "きり",
     "kana": "きり",
-    "romaji": "",
+    "romaji": "kiri",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2181,7 +3200,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 3000,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "きり きり きり kiri sejak ... dan tidak lagi きり sejak ... dan tidak lagi",
+    "soal_latihan": [
+      {
+        "id": "n2-036-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola きり?",
+        "jawaban": "sejak ... dan tidak lagi"
+      },
+      {
+        "id": "n2-036-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "彼は出かけたきり、戻ってこない。",
+        "jawaban": "Sejak pergi, dia tidak kembali lagi."
+      },
+      {
+        "id": "n2-036-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Sejak pergi, dia tidak kembali lagi.?",
+        "jawaban": "きり"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-037",
@@ -2190,7 +3238,7 @@
     "displayTitle": "～くせに",
     "jp": "くせに",
     "kana": "くせに",
-    "romaji": "",
+    "romaji": "kuseni",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2233,7 +3281,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 3085,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "くせに くせに くせに kuseni padahal; meskipun くせに padahal; meskipun",
+    "soal_latihan": [
+      {
+        "id": "n2-037-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola くせに?",
+        "jawaban": "padahal; meskipun"
+      },
+      {
+        "id": "n2-037-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "知っているくせに、教えてくれない。",
+        "jawaban": "Padahal tahu, dia tidak mau memberi tahu."
+      },
+      {
+        "id": "n2-037-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Padahal tahu, dia tidak mau memberi tahu.?",
+        "jawaban": "くせに"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-038",
@@ -2242,7 +3319,7 @@
     "displayTitle": "～ことから",
     "jp": "ことから",
     "kana": "ことから",
-    "romaji": "",
+    "romaji": "kotokara",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2301,7 +3378,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 3170,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "ことから ことから ことから kotokara dari fakta bahwa; karena ことから dari fakta bahwa; karena",
+    "soal_latihan": [
+      {
+        "id": "n2-038-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola ことから?",
+        "jawaban": "dari fakta bahwa; karena"
+      },
+      {
+        "id": "n2-038-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "駅に近いことから、この店を選んだ。",
+        "jawaban": "Saya memilih toko ini karena dekat stasiun."
+      },
+      {
+        "id": "n2-038-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Saya memilih toko ini karena dekat stasiun.?",
+        "jawaban": "ことから"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-039",
@@ -2310,7 +3416,7 @@
     "displayTitle": "～ことに",
     "jp": "ことに",
     "kana": "ことに",
-    "romaji": "",
+    "romaji": "kotoni",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2365,7 +3471,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 3255,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "ことに ことに ことに kotoni yang ... sekali; dengan perasaan ことに yang ... sekali; dengan perasaan",
+    "soal_latihan": [
+      {
+        "id": "n2-039-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola ことに?",
+        "jawaban": "yang ... sekali; dengan perasaan"
+      },
+      {
+        "id": "n2-039-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "驚いたことに、彼は一人で完成させた。",
+        "jawaban": "Yang mengejutkan, dia menyelesaikannya sendiri."
+      },
+      {
+        "id": "n2-039-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Yang mengejutkan, dia menyelesaikannya sendiri.?",
+        "jawaban": "ことに"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-040",
@@ -2374,7 +3509,7 @@
     "displayTitle": "～ことなく",
     "jp": "ことなく",
     "kana": "ことなく",
-    "romaji": "",
+    "romaji": "kotonaku",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2429,7 +3564,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 3340,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "ことなく ことなく ことなく kotonaku tanpa melakukan ことなく tanpa melakukan",
+    "soal_latihan": [
+      {
+        "id": "n2-040-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola ことなく?",
+        "jawaban": "tanpa melakukan"
+      },
+      {
+        "id": "n2-040-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "彼は一度も休むことなく働いた。",
+        "jawaban": "Dia bekerja tanpa beristirahat satu kali pun."
+      },
+      {
+        "id": "n2-040-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Dia bekerja tanpa beristirahat satu kali pun.?",
+        "jawaban": "ことなく"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-041",
@@ -2438,7 +3602,7 @@
     "displayTitle": "～ことにはならない",
     "jp": "ことにはならない",
     "kana": "ことにはならない",
-    "romaji": "",
+    "romaji": "kotonihanaranai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2483,7 +3647,36 @@
       }
     ],
     "reviewNeeded": true,
-    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required."
+    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required.",
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 3425,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "ことにはならない ことにはならない ことにはならない kotonihanaranai tidak berarti bahwa; tidak bisa dianggap ことにはならない tidak berarti bahwa; tidak bisa dianggap",
+    "soal_latihan": [
+      {
+        "id": "n2-041-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola ことにはならない?",
+        "jawaban": "tidak berarti bahwa; tidak bisa dianggap"
+      },
+      {
+        "id": "n2-041-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "謝ったからといって、許したことにはならない。",
+        "jawaban": "Meminta maaf bukan berarti sudah dimaafkan."
+      },
+      {
+        "id": "n2-041-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Meminta maaf bukan berarti sudah dimaafkan.?",
+        "jawaban": "ことにはならない"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-042",
@@ -2492,7 +3685,7 @@
     "displayTitle": "～際に",
     "jp": "際に",
     "kana": "さいに",
-    "romaji": "",
+    "romaji": "saini",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2555,7 +3748,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 3510,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "際に 際に さいに saini ketika; pada kesempatan 際に ketika; pada kesempatan",
+    "soal_latihan": [
+      {
+        "id": "n2-042-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola 際に?",
+        "jawaban": "ketika; pada kesempatan"
+      },
+      {
+        "id": "n2-042-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "ご利用の際には、規則をお読みください。",
+        "jawaban": "Saat menggunakan layanan, bacalah peraturan."
+      },
+      {
+        "id": "n2-042-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Saat menggunakan layanan, bacalah peraturan.?",
+        "jawaban": "際に"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-043",
@@ -2564,7 +3786,7 @@
     "displayTitle": "～最中に",
     "jp": "最中に",
     "kana": "さいちゅうに",
-    "romaji": "",
+    "romaji": "saichuuni",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2623,7 +3845,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 3595,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "最中に 最中に さいちゅうに saichuuni di tengah-tengah 最中に di tengah-tengah",
+    "soal_latihan": [
+      {
+        "id": "n2-043-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola 最中に?",
+        "jawaban": "di tengah-tengah"
+      },
+      {
+        "id": "n2-043-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "会議の最中に、電話が鳴った。",
+        "jawaban": "Di tengah rapat, telepon berdering."
+      },
+      {
+        "id": "n2-043-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Di tengah rapat, telepon berdering.?",
+        "jawaban": "最中に"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-044",
@@ -2632,7 +3883,7 @@
     "displayTitle": "～次第で",
     "jp": "次第で",
     "kana": "しだいで",
-    "romaji": "",
+    "romaji": "shidaide",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2687,7 +3938,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 3680,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "次第で 次第で しだいで shidaide tergantung pada 次第で tergantung pada",
+    "soal_latihan": [
+      {
+        "id": "n2-044-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola 次第で?",
+        "jawaban": "tergantung pada"
+      },
+      {
+        "id": "n2-044-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "結果は努力次第で変わる。",
+        "jawaban": "Hasil berubah tergantung usaha."
+      },
+      {
+        "id": "n2-044-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Hasil berubah tergantung usaha.?",
+        "jawaban": "次第で"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-045",
@@ -2696,7 +3976,7 @@
     "displayTitle": "～ずにはいられない",
     "jp": "ずにはいられない",
     "kana": "ずにはいられない",
-    "romaji": "",
+    "romaji": "zunihairarenai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2751,7 +4031,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 3765,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "ずにはいられない ずにはいられない ずにはいられない zunihairarenai tidak bisa tidak; tak tahan untuk tidak ずにはいられない tidak bisa tidak; tak tahan untuk tidak",
+    "soal_latihan": [
+      {
+        "id": "n2-045-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola ずにはいられない?",
+        "jawaban": "tidak bisa tidak; tak tahan untuk tidak"
+      },
+      {
+        "id": "n2-045-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "その話を聞いて、笑わずにはいられなかった。",
+        "jawaban": "Setelah mendengar cerita itu, saya tidak bisa menahan tawa."
+      },
+      {
+        "id": "n2-045-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Setelah mendengar cerita itu, saya tidak bisa menahan tawa.?",
+        "jawaban": "ずにはいられない"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-046",
@@ -2760,7 +4069,7 @@
     "displayTitle": "～せいで",
     "jp": "せいで",
     "kana": "せいで",
-    "romaji": "",
+    "romaji": "seide",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2811,7 +4120,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 3850,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "せいで せいで せいで seide gara-gara; akibat buruk せいで gara-gara; akibat buruk",
+    "soal_latihan": [
+      {
+        "id": "n2-046-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola せいで?",
+        "jawaban": "gara-gara; akibat buruk"
+      },
+      {
+        "id": "n2-046-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "雨のせいで、試合が中止になった。",
+        "jawaban": "Gara-gara hujan, pertandingan dibatalkan."
+      },
+      {
+        "id": "n2-046-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Gara-gara hujan, pertandingan dibatalkan.?",
+        "jawaban": "せいで"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-047",
@@ -2820,7 +4158,7 @@
     "displayTitle": "～だけあって",
     "jp": "だけあって",
     "kana": "だけあって",
-    "romaji": "",
+    "romaji": "dakeatte",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2871,7 +4209,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 3935,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "だけあって だけあって だけあって dakeatte sesuai reputasi/harapan だけあって sesuai reputasi/harapan",
+    "soal_latihan": [
+      {
+        "id": "n2-047-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola だけあって?",
+        "jawaban": "sesuai reputasi/harapan"
+      },
+      {
+        "id": "n2-047-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "有名な店だけあって、料理がすばらしい。",
+        "jawaban": "Sesuai reputasinya, masakan restoran terkenal itu luar biasa."
+      },
+      {
+        "id": "n2-047-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Sesuai reputasinya, masakan restoran terkenal itu luar biasa.?",
+        "jawaban": "だけあって"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-048",
@@ -2880,7 +4247,7 @@
     "displayTitle": "～だけに",
     "jp": "だけに",
     "kana": "だけに",
-    "romaji": "",
+    "romaji": "dakeni",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2939,7 +4306,40 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 4020,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [
+      "n2-009"
+    ],
+    "kunci_pencarian": "だけに だけに だけに dakeni justru karena; sesuai harapan だけに justru karena; sesuai harapan",
+    "soal_latihan": [
+      {
+        "id": "n2-048-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola だけに?",
+        "jawaban": "justru karena; sesuai harapan"
+      },
+      {
+        "id": "n2-048-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "経験が豊富なだけに、判断が速い。",
+        "jawaban": "Justru karena berpengalaman, penilaiannya cepat."
+      },
+      {
+        "id": "n2-048-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Justru karena berpengalaman, penilaiannya cepat.?",
+        "jawaban": "だけに"
+      }
+    ],
+    "terverifikasi": false,
+    "reviewNeeded": true,
+    "reviewNote": "Duplikat judul だけに; bandingkan nuansa dengan rekaman sumber."
   },
   {
     "id": "n2-049",
@@ -2948,7 +4348,7 @@
     "displayTitle": "～だけの",
     "jp": "だけの",
     "kana": "だけの",
-    "romaji": "",
+    "romaji": "dakeno",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -2999,7 +4399,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 4105,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "だけの だけの だけの dakeno sepadan dengan; sebanyak yang だけの sepadan dengan; sebanyak yang",
+    "soal_latihan": [
+      {
+        "id": "n2-049-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola だけの?",
+        "jawaban": "sepadan dengan; sebanyak yang"
+      },
+      {
+        "id": "n2-049-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "必要なだけのお金を持っていく。",
+        "jawaban": "Saya membawa uang sebanyak yang diperlukan."
+      },
+      {
+        "id": "n2-049-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Saya membawa uang sebanyak yang diperlukan.?",
+        "jawaban": "だけの"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-050",
@@ -3008,7 +4437,7 @@
     "displayTitle": "～たとえ〜ても",
     "jp": "たとえ〜ても",
     "kana": "たとえ〜ても",
-    "romaji": "",
+    "romaji": "tatoe~temo",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3055,7 +4484,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 4190,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "たとえ〜ても たとえ〜ても たとえ〜ても tatoe~temo meskipun seandainya たとえ〜ても meskipun seandainya",
+    "soal_latihan": [
+      {
+        "id": "n2-050-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola たとえ〜ても?",
+        "jawaban": "meskipun seandainya"
+      },
+      {
+        "id": "n2-050-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "たとえ失敗しても、挑戦したい。",
+        "jawaban": "Meskipun gagal, saya ingin mencoba."
+      },
+      {
+        "id": "n2-050-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Meskipun gagal, saya ingin mencoba.?",
+        "jawaban": "たとえ〜ても"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-051",
@@ -3064,7 +4522,7 @@
     "displayTitle": "～たびに",
     "jp": "たびに",
     "kana": "たびに",
-    "romaji": "",
+    "romaji": "tabini",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3127,7 +4585,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 4275,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "たびに たびに たびに tabini setiap kali たびに setiap kali",
+    "soal_latihan": [
+      {
+        "id": "n2-051-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola たびに?",
+        "jawaban": "setiap kali"
+      },
+      {
+        "id": "n2-051-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "この写真を見るたびに、旅を思い出す。",
+        "jawaban": "Setiap melihat foto ini, saya teringat perjalanan."
+      },
+      {
+        "id": "n2-051-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Setiap melihat foto ini, saya teringat perjalanan.?",
+        "jawaban": "たびに"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-052",
@@ -3136,7 +4623,7 @@
     "displayTitle": "～だらけ",
     "jp": "だらけ",
     "kana": "だらけ",
-    "romaji": "",
+    "romaji": "darake",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3175,7 +4662,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 4360,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "だらけ だらけ だらけ darake penuh dengan; berlumuran だらけ penuh dengan; berlumuran",
+    "soal_latihan": [
+      {
+        "id": "n2-052-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola だらけ?",
+        "jawaban": "penuh dengan; berlumuran"
+      },
+      {
+        "id": "n2-052-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "シャツが泥だらけになった。",
+        "jawaban": "Baju itu menjadi penuh lumpur."
+      },
+      {
+        "id": "n2-052-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Baju itu menjadi penuh lumpur.?",
+        "jawaban": "だらけ"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-053",
@@ -3184,7 +4700,7 @@
     "displayTitle": "～つつ／つつある",
     "jp": "つつ／つつある",
     "kana": "つつ／つつある",
-    "romaji": "",
+    "romaji": "tsutsu/tsutsuaru",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3235,7 +4751,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 4445,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "つつ／つつある つつ／つつある つつ／つつある tsutsu/tsutsuaru sambil; sedang dalam proses つつ／つつある sambil; sedang dalam proses",
+    "soal_latihan": [
+      {
+        "id": "n2-053-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola つつ／つつある?",
+        "jawaban": "sambil; sedang dalam proses"
+      },
+      {
+        "id": "n2-053-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "町は少しずつ変わりつつある。",
+        "jawaban": "Kota itu sedang berubah sedikit demi sedikit."
+      },
+      {
+        "id": "n2-053-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Kota itu sedang berubah sedikit demi sedikit.?",
+        "jawaban": "つつ／つつある"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-054",
@@ -3244,7 +4789,7 @@
     "displayTitle": "～てたまらない",
     "jp": "てたまらない",
     "kana": "てたまらない",
-    "romaji": "",
+    "romaji": "tetamaranai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3295,7 +4840,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 4530,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "てたまらない てたまらない てたまらない tetamaranai sangat ... sampai tak tertahankan てたまらない sangat ... sampai tak tertahankan",
+    "soal_latihan": [
+      {
+        "id": "n2-054-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola てたまらない?",
+        "jawaban": "sangat ... sampai tak tertahankan"
+      },
+      {
+        "id": "n2-054-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "試験の結果が気になってたまらない。",
+        "jawaban": "Saya sangat penasaran dengan hasil ujian."
+      },
+      {
+        "id": "n2-054-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Saya sangat penasaran dengan hasil ujian.?",
+        "jawaban": "てたまらない"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-055",
@@ -3304,7 +4878,7 @@
     "displayTitle": "～てはならない",
     "jp": "てはならない",
     "kana": "てはならない",
-    "romaji": "",
+    "romaji": "tehanaranai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3353,7 +4927,36 @@
       }
     ],
     "reviewNeeded": true,
-    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required."
+    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required.",
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 4615,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "てはならない てはならない てはならない tehanaranai tidak boleh てはならない tidak boleh",
+    "soal_latihan": [
+      {
+        "id": "n2-055-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola てはならない?",
+        "jawaban": "tidak boleh"
+      },
+      {
+        "id": "n2-055-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "ここで写真を撮ってはならない。",
+        "jawaban": "Tidak boleh mengambil foto di sini."
+      },
+      {
+        "id": "n2-055-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Tidak boleh mengambil foto di sini.?",
+        "jawaban": "てはならない"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-056",
@@ -3362,7 +4965,7 @@
     "displayTitle": "～てもかまわない",
     "jp": "てもかまわない",
     "kana": "てもかまわない",
-    "romaji": "",
+    "romaji": "temokamawanai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3401,7 +5004,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 4700,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "てもかまわない てもかまわない てもかまわない temokamawanai tidak apa-apa jika てもかまわない tidak apa-apa jika",
+    "soal_latihan": [
+      {
+        "id": "n2-056-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola てもかまわない?",
+        "jawaban": "tidak apa-apa jika"
+      },
+      {
+        "id": "n2-056-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "明日来てもかまいません。",
+        "jawaban": "Tidak apa-apa jika datang besok."
+      },
+      {
+        "id": "n2-056-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Tidak apa-apa jika datang besok.?",
+        "jawaban": "てもかまわない"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-057",
@@ -3410,7 +5042,7 @@
     "displayTitle": "～ても仕方がない",
     "jp": "ても仕方がない",
     "kana": "てもしかたがない",
-    "romaji": "",
+    "romaji": "temoshikataganai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3461,7 +5093,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 4785,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "ても仕方がない ても仕方がない てもしかたがない temoshikataganai tidak ada gunanya; tak terhindarkan ても仕方がない tidak ada gunanya; tak terhindarkan",
+    "soal_latihan": [
+      {
+        "id": "n2-057-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola ても仕方がない?",
+        "jawaban": "tidak ada gunanya; tak terhindarkan"
+      },
+      {
+        "id": "n2-057-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "終わったことを悔やんでも仕方がない。",
+        "jawaban": "Tidak ada gunanya menyesali hal yang sudah berlalu."
+      },
+      {
+        "id": "n2-057-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Tidak ada gunanya menyesali hal yang sudah berlalu.?",
+        "jawaban": "ても仕方がない"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-058",
@@ -3470,7 +5131,7 @@
     "displayTitle": "～ということだ",
     "jp": "ということだ",
     "kana": "ということだ",
-    "romaji": "",
+    "romaji": "toiukotoda",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3513,7 +5174,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 4870,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "ということだ ということだ ということだ toiukotoda berarti; kabarnya ということだ berarti; kabarnya",
+    "soal_latihan": [
+      {
+        "id": "n2-058-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola ということだ?",
+        "jawaban": "berarti; kabarnya"
+      },
+      {
+        "id": "n2-058-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "来月から値上げするということだ。",
+        "jawaban": "Kabarnya harga akan naik mulai bulan depan."
+      },
+      {
+        "id": "n2-058-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Kabarnya harga akan naik mulai bulan depan.?",
+        "jawaban": "ということだ"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-059",
@@ -3522,7 +5212,7 @@
     "displayTitle": "～というものだ",
     "jp": "というものだ",
     "kana": "というものだ",
-    "romaji": "",
+    "romaji": "toiumonoda",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3565,7 +5255,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 4955,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "というものだ というものだ というものだ toiumonoda memang begitulah; itulah yang disebut というものだ memang begitulah; itulah yang disebut",
+    "soal_latihan": [
+      {
+        "id": "n2-059-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola というものだ?",
+        "jawaban": "memang begitulah; itulah yang disebut"
+      },
+      {
+        "id": "n2-059-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "努力してこそ成功というものだ。",
+        "jawaban": "Justru usaha itulah yang disebut keberhasilan."
+      },
+      {
+        "id": "n2-059-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Justru usaha itulah yang disebut keberhasilan.?",
+        "jawaban": "というものだ"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-060",
@@ -3574,7 +5293,7 @@
     "displayTitle": "～というより",
     "jp": "というより",
     "kana": "というより",
-    "romaji": "",
+    "romaji": "toiuyori",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3621,7 +5340,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 5040,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "というより というより というより toiuyori daripada mengatakan ... lebih tepat ... というより daripada mengatakan ... lebih tepat ...",
+    "soal_latihan": [
+      {
+        "id": "n2-060-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola というより?",
+        "jawaban": "daripada mengatakan ... lebih tepat ..."
+      },
+      {
+        "id": "n2-060-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "静かというより、寂しい町だ。",
+        "jawaban": "Daripada tenang, kota ini lebih tepat disebut sepi."
+      },
+      {
+        "id": "n2-060-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Daripada tenang, kota ini lebih tepat disebut sepi.?",
+        "jawaban": "というより"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-061",
@@ -3630,7 +5378,7 @@
     "displayTitle": "～とともに",
     "jp": "とともに",
     "kana": "とともに",
-    "romaji": "",
+    "romaji": "totomoni",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3681,7 +5429,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 5125,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "とともに とともに とともに totomoni bersamaan dengan; bersama とともに bersamaan dengan; bersama",
+    "soal_latihan": [
+      {
+        "id": "n2-061-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola とともに?",
+        "jawaban": "bersamaan dengan; bersama"
+      },
+      {
+        "id": "n2-061-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "年齢とともに、考え方も変わる。",
+        "jawaban": "Seiring bertambahnya usia, cara berpikir juga berubah."
+      },
+      {
+        "id": "n2-061-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Seiring bertambahnya usia, cara berpikir juga berubah.?",
+        "jawaban": "とともに"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-062",
@@ -3690,7 +5467,7 @@
     "displayTitle": "～ないことには",
     "jp": "ないことには",
     "kana": "ないことには",
-    "romaji": "",
+    "romaji": "naikotoniha",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3737,7 +5514,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 5210,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "ないことには ないことには ないことには naikotoniha kalau tidak ... maka tidak ないことには kalau tidak ... maka tidak",
+    "soal_latihan": [
+      {
+        "id": "n2-062-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola ないことには?",
+        "jawaban": "kalau tidak ... maka tidak"
+      },
+      {
+        "id": "n2-062-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "実際に見ないことには、判断できない。",
+        "jawaban": "Kalau tidak melihat langsung, tidak bisa menilai."
+      },
+      {
+        "id": "n2-062-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Kalau tidak melihat langsung, tidak bisa menilai.?",
+        "jawaban": "ないことには"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-063",
@@ -3746,7 +5552,7 @@
     "displayTitle": "～ないではいられない",
     "jp": "ないではいられない",
     "kana": "ないではいられない",
-    "romaji": "",
+    "romaji": "naidehairarenai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3801,7 +5607,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 5295,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "ないではいられない ないではいられない ないではいられない naidehairarenai tidak bisa menahan diri untuk tidak ないではいられない tidak bisa menahan diri untuk tidak",
+    "soal_latihan": [
+      {
+        "id": "n2-063-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola ないではいられない?",
+        "jawaban": "tidak bisa menahan diri untuk tidak"
+      },
+      {
+        "id": "n2-063-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "その映画を見ると、泣かないではいられない。",
+        "jawaban": "Saat menonton film itu, saya tidak bisa menahan tangis."
+      },
+      {
+        "id": "n2-063-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Saat menonton film itu, saya tidak bisa menahan tangis.?",
+        "jawaban": "ないではいられない"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-064",
@@ -3810,7 +5645,7 @@
     "displayTitle": "～など",
     "jp": "など",
     "kana": "など",
-    "romaji": "",
+    "romaji": "nado",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3861,7 +5696,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 5380,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "など など など nado seperti; dan sebagainya など seperti; dan sebagainya",
+    "soal_latihan": [
+      {
+        "id": "n2-064-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola など?",
+        "jawaban": "seperti; dan sebagainya"
+      },
+      {
+        "id": "n2-064-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "本や雑誌などを読んでいる。",
+        "jawaban": "Saya membaca buku, majalah, dan sebagainya."
+      },
+      {
+        "id": "n2-064-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Saya membaca buku, majalah, dan sebagainya.?",
+        "jawaban": "など"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-065",
@@ -3870,7 +5734,7 @@
     "displayTitle": "～ならでは",
     "jp": "ならでは",
     "kana": "ならでは",
-    "romaji": "",
+    "romaji": "naradeha",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3917,7 +5781,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 5465,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "ならでは ならでは ならでは naradeha hanya khas ならでは hanya khas",
+    "soal_latihan": [
+      {
+        "id": "n2-065-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola ならでは?",
+        "jawaban": "hanya khas"
+      },
+      {
+        "id": "n2-065-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "これは京都ならではの景色だ。",
+        "jawaban": "Ini pemandangan khas Kyoto."
+      },
+      {
+        "id": "n2-065-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Ini pemandangan khas Kyoto.?",
+        "jawaban": "ならでは"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-066",
@@ -3926,7 +5819,7 @@
     "displayTitle": "～にあたって",
     "jp": "にあたって",
     "kana": "にあたって",
-    "romaji": "",
+    "romaji": "niatatte",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -3977,7 +5870,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 5550,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "にあたって にあたって にあたって niatatte pada saat akan; dalam rangka にあたって pada saat akan; dalam rangka",
+    "soal_latihan": [
+      {
+        "id": "n2-066-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola にあたって?",
+        "jawaban": "pada saat akan; dalam rangka"
+      },
+      {
+        "id": "n2-066-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "入学にあたって、書類を提出する。",
+        "jawaban": "Saat masuk sekolah, saya menyerahkan dokumen."
+      },
+      {
+        "id": "n2-066-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Saat masuk sekolah, saya menyerahkan dokumen.?",
+        "jawaban": "にあたって"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-067",
@@ -3986,7 +5908,7 @@
     "displayTitle": "～において",
     "jp": "において",
     "kana": "において",
-    "romaji": "",
+    "romaji": "nioite",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -4037,7 +5959,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 5635,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "において において において nioite di; dalam (formal) において di; dalam (formal)",
+    "soal_latihan": [
+      {
+        "id": "n2-067-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola において?",
+        "jawaban": "di; dalam (formal)"
+      },
+      {
+        "id": "n2-067-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "現代社会において、情報は重要だ。",
+        "jawaban": "Dalam masyarakat modern, informasi penting."
+      },
+      {
+        "id": "n2-067-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Dalam masyarakat modern, informasi penting.?",
+        "jawaban": "において"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-068",
@@ -4046,7 +5997,7 @@
     "displayTitle": "～に先立って",
     "jp": "に先立って",
     "kana": "にさきだって",
-    "romaji": "",
+    "romaji": "nisakidatsute",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -4105,7 +6056,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 5720,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "に先立って に先立って にさきだって nisakidatsute sebelum; mendahului に先立って sebelum; mendahului",
+    "soal_latihan": [
+      {
+        "id": "n2-068-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola に先立って?",
+        "jawaban": "sebelum; mendahului"
+      },
+      {
+        "id": "n2-068-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "式典に先立って、説明会を開く。",
+        "jawaban": "Sebelum upacara, diadakan pengarahan."
+      },
+      {
+        "id": "n2-068-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Sebelum upacara, diadakan pengarahan.?",
+        "jawaban": "に先立って"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-069",
@@ -4114,7 +6094,7 @@
     "displayTitle": "～に沿って",
     "jp": "に沿って",
     "kana": "にそって",
-    "romaji": "",
+    "romaji": "nisotte",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -4169,7 +6149,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 5805,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "に沿って に沿って にそって nisotte sesuai dengan; sepanjang に沿って sesuai dengan; sepanjang",
+    "soal_latihan": [
+      {
+        "id": "n2-069-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola に沿って?",
+        "jawaban": "sesuai dengan; sepanjang"
+      },
+      {
+        "id": "n2-069-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "計画に沿って作業を進める。",
+        "jawaban": "Kami melanjutkan pekerjaan sesuai rencana."
+      },
+      {
+        "id": "n2-069-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Kami melanjutkan pekerjaan sesuai rencana.?",
+        "jawaban": "に沿って"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-070",
@@ -4178,7 +6187,7 @@
     "displayTitle": "～に対して",
     "jp": "に対して",
     "kana": "にたいして",
-    "romaji": "",
+    "romaji": "nitaishite",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -4237,7 +6246,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 5890,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "に対して に対して にたいして nitaishite terhadap; sedangkan に対して terhadap; sedangkan",
+    "soal_latihan": [
+      {
+        "id": "n2-070-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola に対して?",
+        "jawaban": "terhadap; sedangkan"
+      },
+      {
+        "id": "n2-070-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "質問に対して、丁寧に答えた。",
+        "jawaban": "Saya menjawab pertanyaan itu dengan sopan."
+      },
+      {
+        "id": "n2-070-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Saya menjawab pertanyaan itu dengan sopan.?",
+        "jawaban": "に対して"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-071",
@@ -4246,7 +6284,7 @@
     "displayTitle": "～につれて",
     "jp": "につれて",
     "kana": "につれて",
-    "romaji": "",
+    "romaji": "nitsurete",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -4289,7 +6327,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 5975,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "につれて につれて につれて nitsurete seiring dengan につれて seiring dengan",
+    "soal_latihan": [
+      {
+        "id": "n2-071-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola につれて?",
+        "jawaban": "seiring dengan"
+      },
+      {
+        "id": "n2-071-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "春になるにつれて、暖かくなる。",
+        "jawaban": "Seiring datangnya musim semi, cuaca menghangat."
+      },
+      {
+        "id": "n2-071-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Seiring datangnya musim semi, cuaca menghangat.?",
+        "jawaban": "につれて"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-072",
@@ -4298,7 +6365,7 @@
     "displayTitle": "～に伴って",
     "jp": "に伴って",
     "kana": "にともなって",
-    "romaji": "",
+    "romaji": "nitomonatsute",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -4367,7 +6434,36 @@
       }
     ],
     "reviewNeeded": true,
-    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required."
+    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required.",
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 6060,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "に伴って に伴って にともなって nitomonatsute seiring dengan; disertai に伴って seiring dengan; disertai",
+    "soal_latihan": [
+      {
+        "id": "n2-072-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola に伴って?",
+        "jawaban": "seiring dengan; disertai"
+      },
+      {
+        "id": "n2-072-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "人口の増加に伴って、問題も増えた。",
+        "jawaban": "Seiring pertumbuhan penduduk, masalah juga bertambah."
+      },
+      {
+        "id": "n2-072-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Seiring pertumbuhan penduduk, masalah juga bertambah.?",
+        "jawaban": "に伴って"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-073",
@@ -4376,7 +6472,7 @@
     "displayTitle": "～にほかならない",
     "jp": "にほかならない",
     "kana": "にほかならない",
-    "romaji": "",
+    "romaji": "nihokanaranai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -4427,7 +6523,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 6145,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "にほかならない にほかならない にほかならない nihokanaranai tidak lain adalah にほかならない tidak lain adalah",
+    "soal_latihan": [
+      {
+        "id": "n2-073-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola にほかならない?",
+        "jawaban": "tidak lain adalah"
+      },
+      {
+        "id": "n2-073-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "成功は努力の結果にほかならない。",
+        "jawaban": "Keberhasilan tidak lain adalah hasil usaha."
+      },
+      {
+        "id": "n2-073-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Keberhasilan tidak lain adalah hasil usaha.?",
+        "jawaban": "にほかならない"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-074",
@@ -4436,7 +6561,7 @@
     "displayTitle": "～のもとで",
     "jp": "のもとで",
     "kana": "のもとで",
-    "romaji": "",
+    "romaji": "nomotode",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -4487,7 +6612,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 6230,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "のもとで のもとで のもとで nomotode di bawah; dalam naungan のもとで di bawah; dalam naungan",
+    "soal_latihan": [
+      {
+        "id": "n2-074-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola のもとで?",
+        "jawaban": "di bawah; dalam naungan"
+      },
+      {
+        "id": "n2-074-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "先生の指導のもとで研究した。",
+        "jawaban": "Saya meneliti di bawah bimbingan guru."
+      },
+      {
+        "id": "n2-074-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Saya meneliti di bawah bimbingan guru.?",
+        "jawaban": "のもとで"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-075",
@@ -4496,7 +6650,7 @@
     "displayTitle": "～はもとより",
     "jp": "はもとより",
     "kana": "はもとより",
-    "romaji": "",
+    "romaji": "hamotoyori",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -4551,7 +6705,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 6315,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "はもとより はもとより はもとより hamotoyori apalagi; belum lagi はもとより apalagi; belum lagi",
+    "soal_latihan": [
+      {
+        "id": "n2-075-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola はもとより?",
+        "jawaban": "apalagi; belum lagi"
+      },
+      {
+        "id": "n2-075-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "彼は英語はもとより、中国語も話せる。",
+        "jawaban": "Dia bisa berbahasa Inggris, bahkan bahasa Mandarin juga."
+      },
+      {
+        "id": "n2-075-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Dia bisa berbahasa Inggris, bahkan bahasa Mandarin juga.?",
+        "jawaban": "はもとより"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-076",
@@ -4560,7 +6743,7 @@
     "displayTitle": "～反面",
     "jp": "反面",
     "kana": "はんめん",
-    "romaji": "",
+    "romaji": "hanmen",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -4619,7 +6802,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 6400,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "反面 反面 はんめん hanmen di sisi lain 反面 di sisi lain",
+    "soal_latihan": [
+      {
+        "id": "n2-076-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola 反面?",
+        "jawaban": "di sisi lain"
+      },
+      {
+        "id": "n2-076-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "便利な反面、費用が高い。",
+        "jawaban": "Di sisi lain, meski praktis, biayanya mahal."
+      },
+      {
+        "id": "n2-076-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Di sisi lain, meski praktis, biayanya mahal.?",
+        "jawaban": "反面"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-077",
@@ -4628,7 +6840,7 @@
     "displayTitle": "～まい",
     "jp": "まい",
     "kana": "まい",
-    "romaji": "",
+    "romaji": "mai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -4675,7 +6887,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 6485,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "まい まい まい mai tidak akan; mungkin tidak まい tidak akan; mungkin tidak",
+    "soal_latihan": [
+      {
+        "id": "n2-077-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola まい?",
+        "jawaban": "tidak akan; mungkin tidak"
+      },
+      {
+        "id": "n2-077-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "二度と同じ失敗はするまい。",
+        "jawaban": "Saya tidak akan mengulangi kesalahan yang sama."
+      },
+      {
+        "id": "n2-077-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Saya tidak akan mengulangi kesalahan yang sama.?",
+        "jawaban": "まい"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-078",
@@ -4684,7 +6925,7 @@
     "displayTitle": "～まるで",
     "jp": "まるで",
     "kana": "まるで",
-    "romaji": "",
+    "romaji": "marude",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -4733,7 +6974,36 @@
       }
     ],
     "reviewNeeded": true,
-    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required."
+    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required.",
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 6570,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "まるで まるで まるで marude seolah-olah; benar-benar seperti まるで seolah-olah; benar-benar seperti",
+    "soal_latihan": [
+      {
+        "id": "n2-078-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola まるで?",
+        "jawaban": "seolah-olah; benar-benar seperti"
+      },
+      {
+        "id": "n2-078-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "彼の話はまるで夢のようだ。",
+        "jawaban": "Ceritanya benar-benar seperti mimpi."
+      },
+      {
+        "id": "n2-078-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Ceritanya benar-benar seperti mimpi.?",
+        "jawaban": "まるで"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-079",
@@ -4742,7 +7012,7 @@
     "displayTitle": "～むしろ",
     "jp": "むしろ",
     "kana": "むしろ",
-    "romaji": "",
+    "romaji": "mushiro",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -4789,7 +7059,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 6655,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "むしろ むしろ むしろ mushiro malah; lebih tepatnya むしろ malah; lebih tepatnya",
+    "soal_latihan": [
+      {
+        "id": "n2-079-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola むしろ?",
+        "jawaban": "malah; lebih tepatnya"
+      },
+      {
+        "id": "n2-079-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "彼は怒るより、むしろ笑った。",
+        "jawaban": "Daripada marah, dia malah tertawa."
+      },
+      {
+        "id": "n2-079-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Daripada marah, dia malah tertawa.?",
+        "jawaban": "むしろ"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-080",
@@ -4798,7 +7097,7 @@
     "displayTitle": "～もかまわず",
     "jp": "もかまわず",
     "kana": "もかまわず",
-    "romaji": "",
+    "romaji": "mokamawazu",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -4853,7 +7152,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 6740,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "もかまわず もかまわず もかまわず mokamawazu tanpa memedulikan もかまわず tanpa memedulikan",
+    "soal_latihan": [
+      {
+        "id": "n2-080-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola もかまわず?",
+        "jawaban": "tanpa memedulikan"
+      },
+      {
+        "id": "n2-080-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "彼は周囲の目もかまわず歌った。",
+        "jawaban": "Dia bernyanyi tanpa memedulikan pandangan sekitar."
+      },
+      {
+        "id": "n2-080-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Dia bernyanyi tanpa memedulikan pandangan sekitar.?",
+        "jawaban": "もかまわず"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-081",
@@ -4862,7 +7190,7 @@
     "displayTitle": "～もとより",
     "jp": "もとより",
     "kana": "もとより",
-    "romaji": "",
+    "romaji": "motoyori",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -4905,7 +7233,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 6825,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "もとより もとより もとより motoyori tentu saja; sejak awal もとより tentu saja; sejak awal",
+    "soal_latihan": [
+      {
+        "id": "n2-081-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola もとより?",
+        "jawaban": "tentu saja; sejak awal"
+      },
+      {
+        "id": "n2-081-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "彼はもとより参加するつもりだった。",
+        "jawaban": "Sejak awal dia memang berniat ikut."
+      },
+      {
+        "id": "n2-081-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Sejak awal dia memang berniat ikut.?",
+        "jawaban": "もとより"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-082",
@@ -4914,7 +7271,7 @@
     "displayTitle": "～ようがない",
     "jp": "ようがない",
     "kana": "ようがない",
-    "romaji": "",
+    "romaji": "youganai",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -4957,7 +7314,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 6910,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "ようがない ようがない ようがない youganai tidak ada cara untuk ようがない tidak ada cara untuk",
+    "soal_latihan": [
+      {
+        "id": "n2-082-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola ようがない?",
+        "jawaban": "tidak ada cara untuk"
+      },
+      {
+        "id": "n2-082-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "連絡先がなく、探しようがない。",
+        "jawaban": "Karena tidak ada kontak, tidak ada cara mencarinya."
+      },
+      {
+        "id": "n2-082-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Karena tidak ada kontak, tidak ada cara mencarinya.?",
+        "jawaban": "ようがない"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-083",
@@ -4966,7 +7352,7 @@
     "displayTitle": "～ようでは",
     "jp": "ようでは",
     "kana": "ようでは",
-    "romaji": "",
+    "romaji": "youdeha",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -5013,7 +7399,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 6995,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "ようでは ようでは ようでは youdeha kalau sampai ... (buruk) ようでは kalau sampai ... (buruk)",
+    "soal_latihan": [
+      {
+        "id": "n2-083-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola ようでは?",
+        "jawaban": "kalau sampai ... (buruk)"
+      },
+      {
+        "id": "n2-083-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "そんな態度では、信頼されようがない。",
+        "jawaban": "Kalau bersikap begitu, mustahil dipercaya."
+      },
+      {
+        "id": "n2-083-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Kalau bersikap begitu, mustahil dipercaya.?",
+        "jawaban": "ようでは"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-084",
@@ -5022,7 +7437,7 @@
     "displayTitle": "～ように",
     "jp": "ように",
     "kana": "ように",
-    "romaji": "",
+    "romaji": "youni",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -5057,7 +7472,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 7080,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "ように ように ように youni agar; seperti ように agar; seperti",
+    "soal_latihan": [
+      {
+        "id": "n2-084-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola ように?",
+        "jawaban": "agar; seperti"
+      },
+      {
+        "id": "n2-084-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "忘れないように、メモしてください。",
+        "jawaban": "Tolong catat agar tidak lupa."
+      },
+      {
+        "id": "n2-084-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Tolong catat agar tidak lupa.?",
+        "jawaban": "ように"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-085",
@@ -5066,7 +7510,7 @@
     "displayTitle": "～わりに",
     "jp": "わりに",
     "kana": "わりに",
-    "romaji": "",
+    "romaji": "warini",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -5113,7 +7557,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 7165,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "わりに わりに わりに warini walaupun; dibandingkan dengan わりに walaupun; dibandingkan dengan",
+    "soal_latihan": [
+      {
+        "id": "n2-085-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola わりに?",
+        "jawaban": "walaupun; dibandingkan dengan"
+      },
+      {
+        "id": "n2-085-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "この料理は安いわりに、おいしい。",
+        "jawaban": "Makanan ini enak walaupun murah."
+      },
+      {
+        "id": "n2-085-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Makanan ini enak walaupun murah.?",
+        "jawaban": "わりに"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-086",
@@ -5122,7 +7595,7 @@
     "displayTitle": "～をめぐって",
     "jp": "をめぐって",
     "kana": "をめぐって",
-    "romaji": "",
+    "romaji": "womegutte",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -5173,7 +7646,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 7250,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "をめぐって をめぐって をめぐって womegutte seputar; mengenai perselisihan をめぐって seputar; mengenai perselisihan",
+    "soal_latihan": [
+      {
+        "id": "n2-086-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola をめぐって?",
+        "jawaban": "seputar; mengenai perselisihan"
+      },
+      {
+        "id": "n2-086-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "計画をめぐって、意見が分かれた。",
+        "jawaban": "Pendapat terbagi mengenai rencana itu."
+      },
+      {
+        "id": "n2-086-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Pendapat terbagi mengenai rencana itu.?",
+        "jawaban": "をめぐって"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-087",
@@ -5182,7 +7684,7 @@
     "displayTitle": "～を問わず",
     "jp": "を問わず",
     "kana": "をとわず",
-    "romaji": "",
+    "romaji": "wotowazu",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -5241,7 +7743,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 7335,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "を問わず を問わず をとわず wotowazu tanpa memandang を問わず tanpa memandang",
+    "soal_latihan": [
+      {
+        "id": "n2-087-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola を問わず?",
+        "jawaban": "tanpa memandang"
+      },
+      {
+        "id": "n2-087-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "経験の有無を問わず応募できる。",
+        "jawaban": "Siapa pun dapat melamar tanpa memandang pengalaman."
+      },
+      {
+        "id": "n2-087-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Siapa pun dapat melamar tanpa memandang pengalaman.?",
+        "jawaban": "を問わず"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-088",
@@ -5250,7 +7781,7 @@
     "displayTitle": "～を通じて",
     "jp": "を通じて",
     "kana": "をつうじて",
-    "romaji": "",
+    "romaji": "wotsuujite",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -5317,7 +7848,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 7420,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "を通じて を通じて をつうじて wotsuujite melalui; sepanjang を通じて melalui; sepanjang",
+    "soal_latihan": [
+      {
+        "id": "n2-088-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola を通じて?",
+        "jawaban": "melalui; sepanjang"
+      },
+      {
+        "id": "n2-088-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "一年を通じて、多くの観光客が訪れる。",
+        "jawaban": "Sepanjang tahun, banyak turis berkunjung."
+      },
+      {
+        "id": "n2-088-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Sepanjang tahun, banyak turis berkunjung.?",
+        "jawaban": "を通じて"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-089",
@@ -5326,7 +7886,7 @@
     "displayTitle": "～をはじめ",
     "jp": "をはじめ",
     "kana": "をはじめ",
-    "romaji": "",
+    "romaji": "wohajime",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -5385,7 +7945,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 7505,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "をはじめ をはじめ をはじめ wohajime mulai dari; termasuk をはじめ mulai dari; termasuk",
+    "soal_latihan": [
+      {
+        "id": "n2-089-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola をはじめ?",
+        "jawaban": "mulai dari; termasuk"
+      },
+      {
+        "id": "n2-089-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "東京をはじめ、多くの都市で開催される。",
+        "jawaban": "Acara ini diadakan di banyak kota, termasuk Tokyo."
+      },
+      {
+        "id": "n2-089-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Acara ini diadakan di banyak kota, termasuk Tokyo.?",
+        "jawaban": "をはじめ"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-090",
@@ -5394,7 +7983,7 @@
     "displayTitle": "～をもとに",
     "jp": "をもとに",
     "kana": "をもとに",
-    "romaji": "",
+    "romaji": "womotoni",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -5445,7 +8034,36 @@
           ]
         ]
       }
-    ]
+    ],
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 7590,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "をもとに をもとに をもとに womotoni berdasarkan pada をもとに berdasarkan pada",
+    "soal_latihan": [
+      {
+        "id": "n2-090-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola をもとに?",
+        "jawaban": "berdasarkan pada"
+      },
+      {
+        "id": "n2-090-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "調査結果をもとに、報告書を作成した。",
+        "jawaban": "Saya membuat laporan berdasarkan hasil survei."
+      },
+      {
+        "id": "n2-090-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Saya membuat laporan berdasarkan hasil survei.?",
+        "jawaban": "をもとに"
+      }
+    ],
+    "terverifikasi": false
   },
   {
     "id": "n2-091",
@@ -5454,7 +8072,7 @@
     "displayTitle": "～に応じて",
     "jp": "に応じて",
     "kana": "におうじて",
-    "romaji": "",
+    "romaji": "nioujite",
     "level": "N2",
     "available": true,
     "statusText": "Tersedia",
@@ -5515,6 +8133,35 @@
       }
     ],
     "reviewNeeded": true,
-    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required."
+    "reviewNote": "ASR spelling normalized to standard JLPT grammar; verify audio wording if source fidelity is required.",
+    "sumber": {
+      "video_id": "VcaLbwTMS9M",
+      "mulai": 7675,
+      "selesai": null
+    },
+    "catatan": "",
+    "mirip": [],
+    "kunci_pencarian": "に応じて に応じて におうじて nioujite sesuai dengan; bergantung pada に応じて sesuai dengan; bergantung pada",
+    "soal_latihan": [
+      {
+        "id": "n2-091-arti",
+        "tipe": "arti",
+        "pertanyaan": "Apa arti pola に応じて?",
+        "jawaban": "sesuai dengan; bergantung pada"
+      },
+      {
+        "id": "n2-091-contoh",
+        "tipe": "contoh",
+        "pertanyaan": "能力に応じて、仕事を任せる。",
+        "jawaban": "Pekerjaan diberikan sesuai kemampuan."
+      },
+      {
+        "id": "n2-091-pola",
+        "tipe": "pola",
+        "pertanyaan": "Pola apa yang digunakan pada contoh: Pekerjaan diberikan sesuai kemampuan.?",
+        "jawaban": "に応じて"
+      }
+    ],
+    "terverifikasi": false
   }
 ]

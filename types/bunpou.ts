@@ -11,6 +11,19 @@ export interface VideoTimestamp {
   youtubeUrl: string;
 }
 
+export interface VideoSource {
+  video_id: string;
+  mulai: number | null;
+  selesai: number | null;
+}
+
+export interface PracticeQuestion {
+  id: string;
+  tipe: string;
+  pertanyaan: string;
+  jawaban: string;
+}
+
 export interface PatternComparison {
   similarPattern: string;
   difference: string;
@@ -35,6 +48,14 @@ export interface BunpouPattern {
   tags: string[];
   keywords: string;
   examples: ExampleSentence[];
+  category: string;
+  formality: string;
+  catatan: string;
+  mirip: string[];
+  kunci_pencarian: string;
+  soal_latihan: PracticeQuestion[];
+  terverifikasi: boolean;
+  sumber: VideoSource;
 }
 
 export type StudyStatus = 'unstudied' | 'learning' | 'mastered';

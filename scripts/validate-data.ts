@@ -34,6 +34,31 @@ function validate(): void {
 
     if (item.available === true) {
       activeCount++;
+      for (const field of ["category", "formality", "kunci_pencarian"]) {
+        if (typeof item[field] !== "string" || item[field].trim() === "") {
+          throw new Error(`Active item ${item.id} has empty ${field}`);
+        }
+      }
+      if (!Array.isArray(item.mirip) || !Array.isArray(item.soal_latihan) || item.soal_latihan.length < 3) {
+        throw new Error(`Active item ${item.id} needs mirip[] and at least 3 soal_latihan`);
+      }
+      if (typeof item.terverifikasi !== "boolean") {
+        throw new Error(`Active item ${item.id} needs boolean terverifikasi`);
+      }
+      if (!item.sumber || item.sumber.video_id !== "VcaLbwTMS9M") {
+        throw new Error(`Active item ${item.id} has invalid sumber.video_id`);
+      }
+      if (item.sumber.mulai !== null && (!Number.isFinite(item.sumber.mulai) || item.sumber.mulai < 0)) {
+        throw new Error(`Active item ${item.id} has invalid sumber.mulai`);
+      }
+      if (item.sumber.selesai !== null && (!Number.isFinite(item.sumber.selesai) || item.sumber.selesai < 0 || (item.sumber.mulai !== null && item.sumber.selesai <= item.sumber.mulai))) {
+        throw new Error(`Active item ${item.id} has invalid sumber.selesai`);
+      }
+      for (const similarId of item.mirip) {
+        if (!ids.has(similarId) && !data.some((candidate: any) => candidate.id === similarId)) {
+          throw new Error(`Active item ${item.id} references unknown mirip id ${similarId}`);
+        }
+      }
       if (!item.title || item.title.trim() === "") {
         throw new Error(`Active item ${item.id} has empty title`);
       }
