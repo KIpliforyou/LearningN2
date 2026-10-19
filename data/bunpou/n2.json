@@ -29,8 +29,33 @@
       {
         "id": "Harga terus naik tanpa henti.",
         "jp": "物価は上がる一方だ。",
-        "furiganaHtml": "<ruby>物価<rt>ぶっか</rt></ruby>は<ruby>上が<rt>あが</rt></ruby>る<ruby>一方<rt>いっぽう</rt></ruby>だ。",
-        "translation": "Harga terus naik tanpa henti."
+        "translation": "Harga terus naik tanpa henti.",
+        "rubySegments": [
+          [
+            "物価",
+            "ぶっか"
+          ],
+          [
+            "は",
+            null
+          ],
+          [
+            "上が",
+            "あが"
+          ],
+          [
+            "る",
+            null
+          ],
+          [
+            "一方",
+            "いっぽう"
+          ],
+          [
+            "だ。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -64,8 +89,41 @@
       {
         "id": "Setiap pagi, saya terus berolahraga tanpa pernah melewatkannya.",
         "jp": "毎朝、運動を欠かさず続けている。",
-        "furiganaHtml": "<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>運動<rt>うんどう</rt></ruby>を<ruby>欠か<rt>かか</rt></ruby>さず<ruby>続け<rt>つづけ</rt></ruby>ている。",
-        "translation": "Setiap pagi, saya terus berolahraga tanpa pernah melewatkannya."
+        "translation": "Setiap pagi, saya terus berolahraga tanpa pernah melewatkannya.",
+        "rubySegments": [
+          [
+            "毎朝",
+            "まいあさ"
+          ],
+          [
+            "、",
+            null
+          ],
+          [
+            "運動",
+            "うんどう"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "欠か",
+            "かか"
+          ],
+          [
+            "さず",
+            null
+          ],
+          [
+            "続け",
+            "つづけ"
+          ],
+          [
+            "ている。",
+            null
+          ]
+        ]
       }
     ],
     "reviewNeeded": true,
@@ -101,8 +159,37 @@
       {
         "id": "Saya akan menjawab setelah mempertimbangkannya baik-baik.",
         "jp": "よく考えた上で、返事をします。",
-        "furiganaHtml": "よく<ruby>考え<rt>かんがえ</rt></ruby>た<ruby>上で<rt>うえで</rt></ruby>、<ruby>返事<rt>へんじ</rt></ruby>をします。",
-        "translation": "Saya akan menjawab setelah mempertimbangkannya baik-baik."
+        "translation": "Saya akan menjawab setelah mempertimbangkannya baik-baik.",
+        "rubySegments": [
+          [
+            "よく",
+            null
+          ],
+          [
+            "考え",
+            "かんがえ"
+          ],
+          [
+            "た",
+            null
+          ],
+          [
+            "上で",
+            "うえで"
+          ],
+          [
+            "、",
+            null
+          ],
+          [
+            "返事",
+            "へんじ"
+          ],
+          [
+            "をします。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -136,8 +223,21 @@
       {
         "id": "Kamu tidak perlu terlalu khawatir.",
         "jp": "そんなに心配することはない。",
-        "furiganaHtml": "そんなに<ruby>心配<rt>しんぱい</rt></ruby>することはない。",
-        "translation": "Kamu tidak perlu terlalu khawatir."
+        "translation": "Kamu tidak perlu terlalu khawatir.",
+        "rubySegments": [
+          [
+            "そんなに",
+            null
+          ],
+          [
+            "心配",
+            "しんぱい"
+          ],
+          [
+            "することはない。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -171,8 +271,37 @@
       {
         "id": "Dia bahkan tidak bisa menulis namanya sendiri.",
         "jp": "彼は自分の名前すら書けない。",
-        "furiganaHtml": "<ruby>彼は<rt>かれは</rt></ruby><ruby>自分<rt>じぶん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>すら<ruby>書け<rt>かけ</rt></ruby>ない。",
-        "translation": "Dia bahkan tidak bisa menulis namanya sendiri."
+        "translation": "Dia bahkan tidak bisa menulis namanya sendiri.",
+        "rubySegments": [
+          [
+            "彼は",
+            "かれは"
+          ],
+          [
+            "自分",
+            "じぶん"
+          ],
+          [
+            "の",
+            null
+          ],
+          [
+            "名前",
+            "なまえ"
+          ],
+          [
+            "すら",
+            null
+          ],
+          [
+            "書け",
+            "かけ"
+          ],
+          [
+            "ない。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -206,8 +335,29 @@
       {
         "id": "Segera setelah terkonfirmasi, saya akan menghubungi Anda.",
         "jp": "確認次第、ご連絡します。",
-        "furiganaHtml": "<ruby>確認<rt>かくにん</rt></ruby><ruby>次第<rt>しだい</rt></ruby>、ご<ruby>連絡<rt>れんらく</rt></ruby>します。",
-        "translation": "Segera setelah terkonfirmasi, saya akan menghubungi Anda."
+        "translation": "Segera setelah terkonfirmasi, saya akan menghubungi Anda.",
+        "rubySegments": [
+          [
+            "確認",
+            "かくにん"
+          ],
+          [
+            "次第",
+            "しだい"
+          ],
+          [
+            "、ご",
+            null
+          ],
+          [
+            "連絡",
+            "れんらく"
+          ],
+          [
+            "します。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -241,8 +391,45 @@
       {
         "id": "Setelah diskusi panjang, akhirnya rencana diubah.",
         "jp": "長い議論の末に、計画を変更した。",
-        "furiganaHtml": "<ruby>長い<rt>ながい</rt></ruby><ruby>議論<rt>ぎろん</rt></ruby>の<ruby>末<rt>まつ</rt></ruby>に、<ruby>計画<rt>けいかく</rt></ruby>を<ruby>変更<rt>へんこう</rt></ruby>した。",
-        "translation": "Setelah diskusi panjang, akhirnya rencana diubah."
+        "translation": "Setelah diskusi panjang, akhirnya rencana diubah.",
+        "rubySegments": [
+          [
+            "長い",
+            "ながい"
+          ],
+          [
+            "議論",
+            "ぎろん"
+          ],
+          [
+            "の",
+            null
+          ],
+          [
+            "末",
+            "まつ"
+          ],
+          [
+            "に、",
+            null
+          ],
+          [
+            "計画",
+            "けいかく"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "変更",
+            "へんこう"
+          ],
+          [
+            "した。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -276,8 +463,25 @@
       {
         "id": "Silakan makan sepuas yang Anda inginkan.",
         "jp": "食べたいだけ食べてください。",
-        "furiganaHtml": "<ruby>食べた<rt>たべた</rt></ruby>いだけ<ruby>食べて<rt>たべて</rt></ruby>ください。",
-        "translation": "Silakan makan sepuas yang Anda inginkan."
+        "translation": "Silakan makan sepuas yang Anda inginkan.",
+        "rubySegments": [
+          [
+            "食べた",
+            "たべた"
+          ],
+          [
+            "いだけ",
+            null
+          ],
+          [
+            "食べて",
+            "たべて"
+          ],
+          [
+            "ください。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -311,8 +515,33 @@
       {
         "id": "Justru karena sangat berharap, kekecewaannya besar.",
         "jp": "期待していただけに、失望も大きかった。",
-        "furiganaHtml": "<ruby>期待し<rt>きたいし</rt></ruby>ていただけに、<ruby>失望<rt>しつぼう</rt></ruby>も<ruby>大きか<rt>おーきか</rt></ruby>った。",
-        "translation": "Justru karena sangat berharap, kekecewaannya besar."
+        "translation": "Justru karena sangat berharap, kekecewaannya besar.",
+        "rubySegments": [
+          [
+            "期待し",
+            "きたいし"
+          ],
+          [
+            "ていただけに、",
+            null
+          ],
+          [
+            "失望",
+            "しつぼう"
+          ],
+          [
+            "も",
+            null
+          ],
+          [
+            "大きか",
+            "おーきか"
+          ],
+          [
+            "った。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -346,8 +575,25 @@
       {
         "id": "Siapa pun pasti pernah gagal.",
         "jp": "誰だって失敗することはある。",
-        "furiganaHtml": "<ruby>誰<rt>だれ</rt></ruby>だって<ruby>失敗<rt>しっぱい</rt></ruby>することはある。",
-        "translation": "Siapa pun pasti pernah gagal."
+        "translation": "Siapa pun pasti pernah gagal.",
+        "rubySegments": [
+          [
+            "誰",
+            "だれ"
+          ],
+          [
+            "だって",
+            null
+          ],
+          [
+            "失敗",
+            "しっぱい"
+          ],
+          [
+            "することはある。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -381,8 +627,49 @@
       {
         "id": "Kalaupun hujan, kita bisa beristirahat di rumah.",
         "jp": "雨が降ったら降ったで、家で休めばいい。",
-        "furiganaHtml": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>たら<ruby>降っ<rt>ふっ</rt></ruby>たで、<ruby>家<rt>いえ</rt></ruby>で<ruby>休め<rt>やすめ</rt></ruby>ばいい。",
-        "translation": "Kalaupun hujan, kita bisa beristirahat di rumah."
+        "translation": "Kalaupun hujan, kita bisa beristirahat di rumah.",
+        "rubySegments": [
+          [
+            "雨",
+            "あめ"
+          ],
+          [
+            "が",
+            null
+          ],
+          [
+            "降っ",
+            "ふっ"
+          ],
+          [
+            "たら",
+            null
+          ],
+          [
+            "降っ",
+            "ふっ"
+          ],
+          [
+            "たで、",
+            null
+          ],
+          [
+            "家",
+            "いえ"
+          ],
+          [
+            "で",
+            null
+          ],
+          [
+            "休め",
+            "やすめ"
+          ],
+          [
+            "ばいい。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -416,8 +703,37 @@
       {
         "id": "Sejak datang ke Jepang, saya belum pernah sakit.",
         "jp": "日本に来て以来、病気をしていない。",
-        "furiganaHtml": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来て<rt>きて</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、<ruby>病気<rt>びょうき</rt></ruby>をしていない。",
-        "translation": "Sejak datang ke Jepang, saya belum pernah sakit."
+        "translation": "Sejak datang ke Jepang, saya belum pernah sakit.",
+        "rubySegments": [
+          [
+            "日本",
+            "にっぽん"
+          ],
+          [
+            "に",
+            null
+          ],
+          [
+            "来て",
+            "きて"
+          ],
+          [
+            "以来",
+            "いらい"
+          ],
+          [
+            "、",
+            null
+          ],
+          [
+            "病気",
+            "びょうき"
+          ],
+          [
+            "をしていない。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -451,8 +767,29 @@
       {
         "id": "Bukankah ini masalah penting?",
         "jp": "これは大切な問題なのではないか。",
-        "furiganaHtml": "これは<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>問題<rt>もんだい</rt></ruby>なのではないか。",
-        "translation": "Bukankah ini masalah penting?"
+        "translation": "Bukankah ini masalah penting?",
+        "rubySegments": [
+          [
+            "これは",
+            null
+          ],
+          [
+            "大切",
+            "たいせつ"
+          ],
+          [
+            "な",
+            null
+          ],
+          [
+            "問題",
+            "もんだい"
+          ],
+          [
+            "なのではないか。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -486,8 +823,33 @@
       {
         "id": "Kalau bicara masakan Jepang, sushi terkenal.",
         "jp": "日本料理といえば、寿司が有名だ。",
-        "furiganaHtml": "<ruby>日本料理<rt>にほんりょうり</rt></ruby>といえば、<ruby>寿司<rt>すし</rt></ruby>が<ruby>有名<rt>ゆうめい</rt></ruby>だ。",
-        "translation": "Kalau bicara masakan Jepang, sushi terkenal."
+        "translation": "Kalau bicara masakan Jepang, sushi terkenal.",
+        "rubySegments": [
+          [
+            "日本料理",
+            "にほんりょうり"
+          ],
+          [
+            "といえば、",
+            null
+          ],
+          [
+            "寿司",
+            "すし"
+          ],
+          [
+            "が",
+            null
+          ],
+          [
+            "有名",
+            "ゆうめい"
+          ],
+          [
+            "だ。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -521,8 +883,41 @@
       {
         "id": "Saya suka makanan seperti sushi dan tempura.",
         "jp": "寿司や天ぷらといった料理が好きだ。",
-        "furiganaHtml": "<ruby>寿司<rt>すし</rt></ruby>や<ruby>天ぷら<rt>てんぷら</rt></ruby>といった<ruby>料理<rt>りょうり</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>だ。",
-        "translation": "Saya suka makanan seperti sushi dan tempura."
+        "translation": "Saya suka makanan seperti sushi dan tempura.",
+        "rubySegments": [
+          [
+            "寿司",
+            "すし"
+          ],
+          [
+            "や",
+            null
+          ],
+          [
+            "天ぷら",
+            "てんぷら"
+          ],
+          [
+            "といった",
+            null
+          ],
+          [
+            "料理",
+            "りょうり"
+          ],
+          [
+            "が",
+            null
+          ],
+          [
+            "好き",
+            "すき"
+          ],
+          [
+            "だ。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -556,8 +951,33 @@
       {
         "id": "Seandainya terlahir kembali, saya ingin menjadi burung.",
         "jp": "もし生まれ変わるとしたら、鳥になりたい。",
-        "furiganaHtml": "もし<ruby>生まれ<rt>うまれ</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>るとしたら、<ruby>鳥<rt>とり</rt></ruby>になりたい。",
-        "translation": "Seandainya terlahir kembali, saya ingin menjadi burung."
+        "translation": "Seandainya terlahir kembali, saya ingin menjadi burung.",
+        "rubySegments": [
+          [
+            "もし",
+            null
+          ],
+          [
+            "生まれ",
+            "うまれ"
+          ],
+          [
+            "変わ",
+            "かわ"
+          ],
+          [
+            "るとしたら、",
+            null
+          ],
+          [
+            "鳥",
+            "とり"
+          ],
+          [
+            "になりたい。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -591,8 +1011,33 @@
       {
         "id": "Sebagai guru, saya ingin mendukung siswa.",
         "jp": "教師として、学生を支えたい。",
-        "furiganaHtml": "<ruby>教師<rt>きょうし</rt></ruby>として、<ruby>学生<rt>がくせい</rt></ruby>を<ruby>支え<rt>ささえ</rt></ruby>たい。",
-        "translation": "Sebagai guru, saya ingin mendukung siswa."
+        "translation": "Sebagai guru, saya ingin mendukung siswa.",
+        "rubySegments": [
+          [
+            "教師",
+            "きょうし"
+          ],
+          [
+            "として、",
+            null
+          ],
+          [
+            "学生",
+            "がくせい"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "支え",
+            "ささえ"
+          ],
+          [
+            "たい。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -626,8 +1071,33 @@
       {
         "id": "Dalam hal memasak, dialah yang terbaik.",
         "jp": "料理にかけては、彼が一番上手だ。",
-        "furiganaHtml": "<ruby>料理<rt>りょうり</rt></ruby>にかけては、<ruby>彼<rt>かれ</rt></ruby>が<ruby>一番上手<rt>いちばんじょうず</rt></ruby>だ。",
-        "translation": "Dalam hal memasak, dialah yang terbaik."
+        "translation": "Dalam hal memasak, dialah yang terbaik.",
+        "rubySegments": [
+          [
+            "料理",
+            "りょうり"
+          ],
+          [
+            "にかけては、",
+            null
+          ],
+          [
+            "彼",
+            "かれ"
+          ],
+          [
+            "が",
+            null
+          ],
+          [
+            "一番上手",
+            "いちばんじょうず"
+          ],
+          [
+            "だ。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -661,8 +1131,41 @@
       {
         "id": "Saya hanya menceritakan pengalaman saya.",
         "jp": "私は自分の経験を話したにすぎない。",
-        "furiganaHtml": "<ruby>私<rt>わたし</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>経験<rt>けいけん</rt></ruby>を<ruby>話し<rt>はなし</rt></ruby>たにすぎない。",
-        "translation": "Saya hanya menceritakan pengalaman saya."
+        "translation": "Saya hanya menceritakan pengalaman saya.",
+        "rubySegments": [
+          [
+            "私",
+            "わたし"
+          ],
+          [
+            "は",
+            null
+          ],
+          [
+            "自分",
+            "じぶん"
+          ],
+          [
+            "の",
+            null
+          ],
+          [
+            "経験",
+            "けいけん"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "話し",
+            "はなし"
+          ],
+          [
+            "たにすぎない。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -696,8 +1199,25 @@
       {
         "id": "Anda dapat melamar tanpa memandang usia.",
         "jp": "年齢によらず、応募できます。",
-        "furiganaHtml": "<ruby>年齢<rt>ねんれい</rt></ruby>によらず、<ruby>応募<rt>おうぼ</rt></ruby>できます。",
-        "translation": "Anda dapat melamar tanpa memandang usia."
+        "translation": "Anda dapat melamar tanpa memandang usia.",
+        "rubySegments": [
+          [
+            "年齢",
+            "ねんれい"
+          ],
+          [
+            "によらず、",
+            null
+          ],
+          [
+            "応募",
+            "おうぼ"
+          ],
+          [
+            "できます。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -731,8 +1251,37 @@
       {
         "id": "Rapat berlangsung selama tiga jam.",
         "jp": "会議は三時間にわたって続いた。",
-        "furiganaHtml": "<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>三時<rt>さんじ</rt></ruby><ruby>間に<rt>まに</rt></ruby>わたって<ruby>続い<rt>つづい</rt></ruby>た。",
-        "translation": "Rapat berlangsung selama tiga jam."
+        "translation": "Rapat berlangsung selama tiga jam.",
+        "rubySegments": [
+          [
+            "会議",
+            "かいぎ"
+          ],
+          [
+            "は",
+            null
+          ],
+          [
+            "三時",
+            "さんじ"
+          ],
+          [
+            "間に",
+            "まに"
+          ],
+          [
+            "わたって",
+            null
+          ],
+          [
+            "続い",
+            "つづい"
+          ],
+          [
+            "た。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -766,8 +1315,33 @@
       {
         "id": "Seandainya bisa, saya ingin kembali ke masa sekolah.",
         "jp": "戻れるものなら、学生時代に戻りたい。",
-        "furiganaHtml": "<ruby>戻れ<rt>もどれ</rt></ruby>るものなら、<ruby>学生時代<rt>がくせいじだい</rt></ruby>に<ruby>戻り<rt>もどり</rt></ruby>たい。",
-        "translation": "Seandainya bisa, saya ingin kembali ke masa sekolah."
+        "translation": "Seandainya bisa, saya ingin kembali ke masa sekolah.",
+        "rubySegments": [
+          [
+            "戻れ",
+            "もどれ"
+          ],
+          [
+            "るものなら、",
+            null
+          ],
+          [
+            "学生時代",
+            "がくせいじだい"
+          ],
+          [
+            "に",
+            null
+          ],
+          [
+            "戻り",
+            "もどり"
+          ],
+          [
+            "たい。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -801,8 +1375,25 @@
       {
         "id": "Tidak pantas merepotkan orang lain.",
         "jp": "人に迷惑をかけるものではない。",
-        "furiganaHtml": "<ruby>人<rt>にん</rt></ruby>に<ruby>迷惑<rt>めいわく</rt></ruby>をかけるものではない。",
-        "translation": "Tidak pantas merepotkan orang lain."
+        "translation": "Tidak pantas merepotkan orang lain.",
+        "rubySegments": [
+          [
+            "人",
+            "にん"
+          ],
+          [
+            "に",
+            null
+          ],
+          [
+            "迷惑",
+            "めいわく"
+          ],
+          [
+            "をかけるものではない。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -836,8 +1427,37 @@
       {
         "id": "Pantas bahasa Jepangnya lancar; dia sudah tinggal sepuluh tahun.",
         "jp": "十年住んでいるから、日本語が上手なわけだ。",
-        "furiganaHtml": "<ruby>十年<rt>じゅうねん</rt></ruby><ruby>住ん<rt>すん</rt></ruby>でいるから、<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>なわけだ。",
-        "translation": "Pantas bahasa Jepangnya lancar; dia sudah tinggal sepuluh tahun."
+        "translation": "Pantas bahasa Jepangnya lancar; dia sudah tinggal sepuluh tahun.",
+        "rubySegments": [
+          [
+            "十年",
+            "じゅうねん"
+          ],
+          [
+            "住ん",
+            "すん"
+          ],
+          [
+            "でいるから、",
+            null
+          ],
+          [
+            "日本語",
+            "にほんご"
+          ],
+          [
+            "が",
+            null
+          ],
+          [
+            "上手",
+            "じょうず"
+          ],
+          [
+            "なわけだ。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -871,8 +1491,25 @@
       {
         "id": "Bukan berarti saya membenci pekerjaan ini.",
         "jp": "仕事が嫌いなわけではない。",
-        "furiganaHtml": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>嫌い<rt>きらい</rt></ruby>なわけではない。",
-        "translation": "Bukan berarti saya membenci pekerjaan ini."
+        "translation": "Bukan berarti saya membenci pekerjaan ini.",
+        "rubySegments": [
+          [
+            "仕事",
+            "しごと"
+          ],
+          [
+            "が",
+            null
+          ],
+          [
+            "嫌い",
+            "きらい"
+          ],
+          [
+            "なわけではない。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -906,8 +1543,37 @@
       {
         "id": "Karena terlalu sibuk, saya lupa makan siang.",
         "jp": "あまりに忙しくて、昼食を忘れた。",
-        "furiganaHtml": "あまりに<ruby>忙しく<rt>いそがしく</rt></ruby>て、<ruby>昼食<rt>ちゅうしょく</rt></ruby>を<ruby>忘れ<rt>わすれ</rt></ruby>た。",
-        "translation": "Karena terlalu sibuk, saya lupa makan siang."
+        "translation": "Karena terlalu sibuk, saya lupa makan siang.",
+        "rubySegments": [
+          [
+            "あまりに",
+            null
+          ],
+          [
+            "忙しく",
+            "いそがしく"
+          ],
+          [
+            "て、",
+            null
+          ],
+          [
+            "昼食",
+            "ちゅうしょく"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "忘れ",
+            "わすれ"
+          ],
+          [
+            "た。",
+            null
+          ]
+        ]
       }
     ],
     "reviewNeeded": true,
@@ -943,8 +1609,33 @@
       {
         "id": "Karena sudah berjanji, seharusnya ditepati.",
         "jp": "約束した以上は、守るべきだ。",
-        "furiganaHtml": "<ruby>約束<rt>やくそく</rt></ruby>した<ruby>以上<rt>いじょう</rt></ruby>は、<ruby>守る<rt>まもる</rt></ruby>べきだ。",
-        "translation": "Karena sudah berjanji, seharusnya ditepati."
+        "translation": "Karena sudah berjanji, seharusnya ditepati.",
+        "rubySegments": [
+          [
+            "約束",
+            "やくそく"
+          ],
+          [
+            "した",
+            null
+          ],
+          [
+            "以上",
+            "いじょう"
+          ],
+          [
+            "は、",
+            null
+          ],
+          [
+            "守る",
+            "まもる"
+          ],
+          [
+            "べきだ。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -978,8 +1669,49 @@
       {
         "id": "Toko ini murah dan selain itu dekat stasiun.",
         "jp": "この店は安い上に、駅から近い。",
-        "furiganaHtml": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>安い<rt>やすい</rt></ruby><ruby>上に<rt>うえに</rt></ruby>、<ruby>駅<rt>えき</rt></ruby>から<ruby>近い<rt>ちかい</rt></ruby>。",
-        "translation": "Toko ini murah dan selain itu dekat stasiun."
+        "translation": "Toko ini murah dan selain itu dekat stasiun.",
+        "rubySegments": [
+          [
+            "この",
+            null
+          ],
+          [
+            "店",
+            "みせ"
+          ],
+          [
+            "は",
+            null
+          ],
+          [
+            "安い",
+            "やすい"
+          ],
+          [
+            "上に",
+            "うえに"
+          ],
+          [
+            "、",
+            null
+          ],
+          [
+            "駅",
+            "えき"
+          ],
+          [
+            "から",
+            null
+          ],
+          [
+            "近い",
+            "ちかい"
+          ],
+          [
+            "。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1013,8 +1745,33 @@
       {
         "id": "Kereta berhenti setiap dua stasiun.",
         "jp": "二駅おきに電車が止まる。",
-        "furiganaHtml": "<ruby>二駅<rt>ふたえき</rt></ruby>おきに<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>止ま<rt>とま</rt></ruby>る。",
-        "translation": "Kereta berhenti setiap dua stasiun."
+        "translation": "Kereta berhenti setiap dua stasiun.",
+        "rubySegments": [
+          [
+            "二駅",
+            "ふたえき"
+          ],
+          [
+            "おきに",
+            null
+          ],
+          [
+            "電車",
+            "でんしゃ"
+          ],
+          [
+            "が",
+            null
+          ],
+          [
+            "止ま",
+            "とま"
+          ],
+          [
+            "る。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1048,8 +1805,29 @@
       {
         "id": "Penjelasannya sulit dipahami.",
         "jp": "彼の説明は理解しがたい。",
-        "furiganaHtml": "<ruby>彼の<rt>かの</rt></ruby><ruby>説明<rt>せつめい</rt></ruby>は<ruby>理解<rt>りかい</rt></ruby>しがたい。",
-        "translation": "Penjelasannya sulit dipahami."
+        "translation": "Penjelasannya sulit dipahami.",
+        "rubySegments": [
+          [
+            "彼の",
+            "かの"
+          ],
+          [
+            "説明",
+            "せつめい"
+          ],
+          [
+            "は",
+            null
+          ],
+          [
+            "理解",
+            "りかい"
+          ],
+          [
+            "しがたい。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1083,8 +1861,33 @@
       {
         "id": "Saat sibuk, saya cenderung lupa makan.",
         "jp": "忙しいと、食事を忘れがちだ。",
-        "furiganaHtml": "<ruby>忙しい<rt>いそがしい</rt></ruby>と、<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>忘れ<rt>わすれ</rt></ruby>がちだ。",
-        "translation": "Saat sibuk, saya cenderung lupa makan."
+        "translation": "Saat sibuk, saya cenderung lupa makan.",
+        "rubySegments": [
+          [
+            "忙しい",
+            "いそがしい"
+          ],
+          [
+            "と、",
+            null
+          ],
+          [
+            "食事",
+            "しょくじ"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "忘れ",
+            "わすれ"
+          ],
+          [
+            "がちだ。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1118,8 +1921,37 @@
       {
         "id": "Baru saja hujan berhenti, ternyata mulai turun lagi.",
         "jp": "雨がやんだかと思うと、また降り始めた。",
-        "furiganaHtml": "<ruby>雨<rt>あめ</rt></ruby>がやんだかと<ruby>思う<rt>おもう</rt></ruby>と、また<ruby>降り<rt>おり</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>た。",
-        "translation": "Baru saja hujan berhenti, ternyata mulai turun lagi."
+        "translation": "Baru saja hujan berhenti, ternyata mulai turun lagi.",
+        "rubySegments": [
+          [
+            "雨",
+            "あめ"
+          ],
+          [
+            "がやんだかと",
+            null
+          ],
+          [
+            "思う",
+            "おもう"
+          ],
+          [
+            "と、また",
+            null
+          ],
+          [
+            "降り",
+            "おり"
+          ],
+          [
+            "始め",
+            "はじめ"
+          ],
+          [
+            "た。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1153,8 +1985,29 @@
       {
         "id": "Dilihat dari pengalamannya, dia mungkin berhasil.",
         "jp": "彼の経験からすると、成功するだろう。",
-        "furiganaHtml": "<ruby>彼の<rt>かの</rt></ruby><ruby>経験<rt>けいけん</rt></ruby>からすると、<ruby>成功<rt>せいこう</rt></ruby>するだろう。",
-        "translation": "Dilihat dari pengalamannya, dia mungkin berhasil."
+        "translation": "Dilihat dari pengalamannya, dia mungkin berhasil.",
+        "rubySegments": [
+          [
+            "彼の",
+            "かの"
+          ],
+          [
+            "経験",
+            "けいけん"
+          ],
+          [
+            "からすると、",
+            null
+          ],
+          [
+            "成功",
+            "せいこう"
+          ],
+          [
+            "するだろう。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1188,8 +2041,29 @@
       {
         "id": "Dilihat dari cara bicaranya saja, dia tampak baik.",
         "jp": "彼は話し方からして親切そうだ。",
-        "furiganaHtml": "<ruby>彼は<rt>かれは</rt></ruby><ruby>話し方<rt>はなしかた</rt></ruby>からして<ruby>親切<rt>しんせつ</rt></ruby>そうだ。",
-        "translation": "Dilihat dari cara bicaranya saja, dia tampak baik."
+        "translation": "Dilihat dari cara bicaranya saja, dia tampak baik.",
+        "rubySegments": [
+          [
+            "彼は",
+            "かれは"
+          ],
+          [
+            "話し方",
+            "はなしかた"
+          ],
+          [
+            "からして",
+            null
+          ],
+          [
+            "親切",
+            "しんせつ"
+          ],
+          [
+            "そうだ。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1223,8 +2097,33 @@
       {
         "id": "Karena sudah ikut, saya akan berusaha sampai akhir.",
         "jp": "参加するからには、最後まで頑張る。",
-        "furiganaHtml": "<ruby>参加<rt>さんか</rt></ruby>するからには、<ruby>最後<rt>さいご</rt></ruby>まで<ruby>頑張る<rt>がんばる</rt></ruby>。",
-        "translation": "Karena sudah ikut, saya akan berusaha sampai akhir."
+        "translation": "Karena sudah ikut, saya akan berusaha sampai akhir.",
+        "rubySegments": [
+          [
+            "参加",
+            "さんか"
+          ],
+          [
+            "するからには、",
+            null
+          ],
+          [
+            "最後",
+            "さいご"
+          ],
+          [
+            "まで",
+            null
+          ],
+          [
+            "頑張る",
+            "がんばる"
+          ],
+          [
+            "。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1258,8 +2157,29 @@
       {
         "id": "Sejak pergi, dia tidak kembali lagi.",
         "jp": "彼は出かけたきり、戻ってこない。",
-        "furiganaHtml": "<ruby>彼は<rt>かれは</rt></ruby><ruby>出か<rt>でか</rt></ruby>けたきり、<ruby>戻っ<rt>もどっ</rt></ruby>てこない。",
-        "translation": "Sejak pergi, dia tidak kembali lagi."
+        "translation": "Sejak pergi, dia tidak kembali lagi.",
+        "rubySegments": [
+          [
+            "彼は",
+            "かれは"
+          ],
+          [
+            "出か",
+            "でか"
+          ],
+          [
+            "けたきり、",
+            null
+          ],
+          [
+            "戻っ",
+            "もどっ"
+          ],
+          [
+            "てこない。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1293,8 +2213,25 @@
       {
         "id": "Padahal tahu, dia tidak mau memberi tahu.",
         "jp": "知っているくせに、教えてくれない。",
-        "furiganaHtml": "<ruby>知って<rt>しって</rt></ruby>いるくせに、<ruby>教え<rt>おしえ</rt></ruby>てくれない。",
-        "translation": "Padahal tahu, dia tidak mau memberi tahu."
+        "translation": "Padahal tahu, dia tidak mau memberi tahu.",
+        "rubySegments": [
+          [
+            "知って",
+            "しって"
+          ],
+          [
+            "いるくせに、",
+            null
+          ],
+          [
+            "教え",
+            "おしえ"
+          ],
+          [
+            "てくれない。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1328,8 +2265,41 @@
       {
         "id": "Saya memilih toko ini karena dekat stasiun.",
         "jp": "駅に近いことから、この店を選んだ。",
-        "furiganaHtml": "<ruby>駅<rt>えき</rt></ruby>に<ruby>近い<rt>ちかい</rt></ruby>ことから、この<ruby>店<rt>みせ</rt></ruby>を<ruby>選ん<rt>えらん</rt></ruby>だ。",
-        "translation": "Saya memilih toko ini karena dekat stasiun."
+        "translation": "Saya memilih toko ini karena dekat stasiun.",
+        "rubySegments": [
+          [
+            "駅",
+            "えき"
+          ],
+          [
+            "に",
+            null
+          ],
+          [
+            "近い",
+            "ちかい"
+          ],
+          [
+            "ことから、この",
+            null
+          ],
+          [
+            "店",
+            "みせ"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "選ん",
+            "えらん"
+          ],
+          [
+            "だ。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1363,8 +2333,37 @@
       {
         "id": "Yang mengejutkan, dia menyelesaikannya sendiri.",
         "jp": "驚いたことに、彼は一人で完成させた。",
-        "furiganaHtml": "<ruby>驚い<rt>おどろい</rt></ruby>たことに、<ruby>彼は<rt>かれは</rt></ruby><ruby>一人<rt>ひとり</rt></ruby>で<ruby>完成さ<rt>かんせいさ</rt></ruby>せた。",
-        "translation": "Yang mengejutkan, dia menyelesaikannya sendiri."
+        "translation": "Yang mengejutkan, dia menyelesaikannya sendiri.",
+        "rubySegments": [
+          [
+            "驚い",
+            "おどろい"
+          ],
+          [
+            "たことに、",
+            null
+          ],
+          [
+            "彼は",
+            "かれは"
+          ],
+          [
+            "一人",
+            "ひとり"
+          ],
+          [
+            "で",
+            null
+          ],
+          [
+            "完成さ",
+            "かんせいさ"
+          ],
+          [
+            "せた。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1398,8 +2397,37 @@
       {
         "id": "Dia bekerja tanpa beristirahat satu kali pun.",
         "jp": "彼は一度も休むことなく働いた。",
-        "furiganaHtml": "<ruby>彼は<rt>かれは</rt></ruby><ruby>一度<rt>いちど</rt></ruby>も<ruby>休む<rt>やすむ</rt></ruby>ことなく<ruby>働い<rt>はたらい</rt></ruby>た。",
-        "translation": "Dia bekerja tanpa beristirahat satu kali pun."
+        "translation": "Dia bekerja tanpa beristirahat satu kali pun.",
+        "rubySegments": [
+          [
+            "彼は",
+            "かれは"
+          ],
+          [
+            "一度",
+            "いちど"
+          ],
+          [
+            "も",
+            null
+          ],
+          [
+            "休む",
+            "やすむ"
+          ],
+          [
+            "ことなく",
+            null
+          ],
+          [
+            "働い",
+            "はたらい"
+          ],
+          [
+            "た。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1433,8 +2461,25 @@
       {
         "id": "Meminta maaf bukan berarti sudah dimaafkan.",
         "jp": "謝ったからといって、許したことにはならない。",
-        "furiganaHtml": "<ruby>謝っ<rt>あやまっ</rt></ruby>たからといって、<ruby>許し<rt>ゆるし</rt></ruby>たことにはならない。",
-        "translation": "Meminta maaf bukan berarti sudah dimaafkan."
+        "translation": "Meminta maaf bukan berarti sudah dimaafkan.",
+        "rubySegments": [
+          [
+            "謝っ",
+            "あやまっ"
+          ],
+          [
+            "たからといって、",
+            null
+          ],
+          [
+            "許し",
+            "ゆるし"
+          ],
+          [
+            "たことにはならない。",
+            null
+          ]
+        ]
       }
     ],
     "reviewNeeded": true,
@@ -1470,8 +2515,45 @@
       {
         "id": "Saat menggunakan layanan, bacalah peraturan.",
         "jp": "ご利用の際には、規則をお読みください。",
-        "furiganaHtml": "ご<ruby>利用<rt>りよう</rt></ruby>の<ruby>際に<rt>さいに</rt></ruby>は、<ruby>規則<rt>きそく</rt></ruby>をお<ruby>読み<rt>よみ</rt></ruby>ください。",
-        "translation": "Saat menggunakan layanan, bacalah peraturan."
+        "translation": "Saat menggunakan layanan, bacalah peraturan.",
+        "rubySegments": [
+          [
+            "ご",
+            null
+          ],
+          [
+            "利用",
+            "りよう"
+          ],
+          [
+            "の",
+            null
+          ],
+          [
+            "際に",
+            "さいに"
+          ],
+          [
+            "は、",
+            null
+          ],
+          [
+            "規則",
+            "きそく"
+          ],
+          [
+            "をお",
+            null
+          ],
+          [
+            "読み",
+            "よみ"
+          ],
+          [
+            "ください。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1505,8 +2587,41 @@
       {
         "id": "Di tengah rapat, telepon berdering.",
         "jp": "会議の最中に、電話が鳴った。",
-        "furiganaHtml": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>最中<rt>さいちゅう</rt></ruby>に、<ruby>電話<rt>でんわ</rt></ruby>が<ruby>鳴っ<rt>なっ</rt></ruby>た。",
-        "translation": "Di tengah rapat, telepon berdering."
+        "translation": "Di tengah rapat, telepon berdering.",
+        "rubySegments": [
+          [
+            "会議",
+            "かいぎ"
+          ],
+          [
+            "の",
+            null
+          ],
+          [
+            "最中",
+            "さいちゅう"
+          ],
+          [
+            "に、",
+            null
+          ],
+          [
+            "電話",
+            "でんわ"
+          ],
+          [
+            "が",
+            null
+          ],
+          [
+            "鳴っ",
+            "なっ"
+          ],
+          [
+            "た。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1540,8 +2655,37 @@
       {
         "id": "Hasil berubah tergantung usaha.",
         "jp": "結果は努力次第で変わる。",
-        "furiganaHtml": "<ruby>結果<rt>けっか</rt></ruby>は<ruby>努力<rt>どりょく</rt></ruby><ruby>次第<rt>しだい</rt></ruby>で<ruby>変わ<rt>かわ</rt></ruby>る。",
-        "translation": "Hasil berubah tergantung usaha."
+        "translation": "Hasil berubah tergantung usaha.",
+        "rubySegments": [
+          [
+            "結果",
+            "けっか"
+          ],
+          [
+            "は",
+            null
+          ],
+          [
+            "努力",
+            "どりょく"
+          ],
+          [
+            "次第",
+            "しだい"
+          ],
+          [
+            "で",
+            null
+          ],
+          [
+            "変わ",
+            "かわ"
+          ],
+          [
+            "る。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1575,8 +2719,37 @@
       {
         "id": "Setelah mendengar cerita itu, saya tidak bisa menahan tawa.",
         "jp": "その話を聞いて、笑わずにはいられなかった。",
-        "furiganaHtml": "その<ruby>話<rt>はなし</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>て、<ruby>笑わ<rt>わらわ</rt></ruby>ずにはいられなかった。",
-        "translation": "Setelah mendengar cerita itu, saya tidak bisa menahan tawa."
+        "translation": "Setelah mendengar cerita itu, saya tidak bisa menahan tawa.",
+        "rubySegments": [
+          [
+            "その",
+            null
+          ],
+          [
+            "話",
+            "はなし"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "聞い",
+            "きい"
+          ],
+          [
+            "て、",
+            null
+          ],
+          [
+            "笑わ",
+            "わらわ"
+          ],
+          [
+            "ずにはいられなかった。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1610,8 +2783,33 @@
       {
         "id": "Gara-gara hujan, pertandingan dibatalkan.",
         "jp": "雨のせいで、試合が中止になった。",
-        "furiganaHtml": "<ruby>雨<rt>あめ</rt></ruby>のせいで、<ruby>試合<rt>しあい</rt></ruby>が<ruby>中止<rt>ちゅうし</rt></ruby>になった。",
-        "translation": "Gara-gara hujan, pertandingan dibatalkan."
+        "translation": "Gara-gara hujan, pertandingan dibatalkan.",
+        "rubySegments": [
+          [
+            "雨",
+            "あめ"
+          ],
+          [
+            "のせいで、",
+            null
+          ],
+          [
+            "試合",
+            "しあい"
+          ],
+          [
+            "が",
+            null
+          ],
+          [
+            "中止",
+            "ちゅうし"
+          ],
+          [
+            "になった。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1645,8 +2843,33 @@
       {
         "id": "Sesuai reputasinya, masakan restoran terkenal itu luar biasa.",
         "jp": "有名な店だけあって、料理がすばらしい。",
-        "furiganaHtml": "<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>店<rt>みせ</rt></ruby>だけあって、<ruby>料理<rt>りょうり</rt></ruby>がすばらしい。",
-        "translation": "Sesuai reputasinya, masakan restoran terkenal itu luar biasa."
+        "translation": "Sesuai reputasinya, masakan restoran terkenal itu luar biasa.",
+        "rubySegments": [
+          [
+            "有名",
+            "ゆうめい"
+          ],
+          [
+            "な",
+            null
+          ],
+          [
+            "店",
+            "みせ"
+          ],
+          [
+            "だけあって、",
+            null
+          ],
+          [
+            "料理",
+            "りょうり"
+          ],
+          [
+            "がすばらしい。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1680,8 +2903,41 @@
       {
         "id": "Justru karena berpengalaman, penilaiannya cepat.",
         "jp": "経験が豊富なだけに、判断が速い。",
-        "furiganaHtml": "<ruby>経験<rt>けいけん</rt></ruby>が<ruby>豊富<rt>ほうふ</rt></ruby>なだけに、<ruby>判断<rt>はんだん</rt></ruby>が<ruby>速い<rt>はやい</rt></ruby>。",
-        "translation": "Justru karena berpengalaman, penilaiannya cepat."
+        "translation": "Justru karena berpengalaman, penilaiannya cepat.",
+        "rubySegments": [
+          [
+            "経験",
+            "けいけん"
+          ],
+          [
+            "が",
+            null
+          ],
+          [
+            "豊富",
+            "ほうふ"
+          ],
+          [
+            "なだけに、",
+            null
+          ],
+          [
+            "判断",
+            "はんだん"
+          ],
+          [
+            "が",
+            null
+          ],
+          [
+            "速い",
+            "はやい"
+          ],
+          [
+            "。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1715,8 +2971,33 @@
       {
         "id": "Saya membawa uang sebanyak yang diperlukan.",
         "jp": "必要なだけのお金を持っていく。",
-        "furiganaHtml": "<ruby>必要<rt>ひつよう</rt></ruby>なだけのお<ruby>金<rt>きん</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>ていく。",
-        "translation": "Saya membawa uang sebanyak yang diperlukan."
+        "translation": "Saya membawa uang sebanyak yang diperlukan.",
+        "rubySegments": [
+          [
+            "必要",
+            "ひつよう"
+          ],
+          [
+            "なだけのお",
+            null
+          ],
+          [
+            "金",
+            "きん"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "持っ",
+            "もっ"
+          ],
+          [
+            "ていく。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1750,8 +3031,29 @@
       {
         "id": "Meskipun gagal, saya ingin mencoba.",
         "jp": "たとえ失敗しても、挑戦したい。",
-        "furiganaHtml": "たとえ<ruby>失敗<rt>しっぱい</rt></ruby>しても、<ruby>挑戦<rt>ちょうせん</rt></ruby>したい。",
-        "translation": "Meskipun gagal, saya ingin mencoba."
+        "translation": "Meskipun gagal, saya ingin mencoba.",
+        "rubySegments": [
+          [
+            "たとえ",
+            null
+          ],
+          [
+            "失敗",
+            "しっぱい"
+          ],
+          [
+            "しても、",
+            null
+          ],
+          [
+            "挑戦",
+            "ちょうせん"
+          ],
+          [
+            "したい。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1785,8 +3087,45 @@
       {
         "id": "Setiap melihat foto ini, saya teringat perjalanan.",
         "jp": "この写真を見るたびに、旅を思い出す。",
-        "furiganaHtml": "この<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>たびに、<ruby>旅<rt>たび</rt></ruby>を<ruby>思い出す<rt>おもいだす</rt></ruby>。",
-        "translation": "Setiap melihat foto ini, saya teringat perjalanan."
+        "translation": "Setiap melihat foto ini, saya teringat perjalanan.",
+        "rubySegments": [
+          [
+            "この",
+            null
+          ],
+          [
+            "写真",
+            "しゃしん"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "見る",
+            "みる"
+          ],
+          [
+            "たびに、",
+            null
+          ],
+          [
+            "旅",
+            "たび"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "思い出す",
+            "おもいだす"
+          ],
+          [
+            "。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1820,8 +3159,21 @@
       {
         "id": "Baju itu menjadi penuh lumpur.",
         "jp": "シャツが泥だらけになった。",
-        "furiganaHtml": "シャツが<ruby>泥<rt>どろ</rt></ruby>だらけになった。",
-        "translation": "Baju itu menjadi penuh lumpur."
+        "translation": "Baju itu menjadi penuh lumpur.",
+        "rubySegments": [
+          [
+            "シャツが",
+            null
+          ],
+          [
+            "泥",
+            "どろ"
+          ],
+          [
+            "だらけになった。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1855,8 +3207,33 @@
       {
         "id": "Kota itu sedang berubah sedikit demi sedikit.",
         "jp": "町は少しずつ変わりつつある。",
-        "furiganaHtml": "<ruby>町<rt>まち</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>変わり<rt>かわり</rt></ruby>つつある。",
-        "translation": "Kota itu sedang berubah sedikit demi sedikit."
+        "translation": "Kota itu sedang berubah sedikit demi sedikit.",
+        "rubySegments": [
+          [
+            "町",
+            "まち"
+          ],
+          [
+            "は",
+            null
+          ],
+          [
+            "少し",
+            "すこし"
+          ],
+          [
+            "ずつ",
+            null
+          ],
+          [
+            "変わり",
+            "かわり"
+          ],
+          [
+            "つつある。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1890,8 +3267,33 @@
       {
         "id": "Saya sangat penasaran dengan hasil ujian.",
         "jp": "試験の結果が気になってたまらない。",
-        "furiganaHtml": "<ruby>試験<rt>しけん</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>が<ruby>気に<rt>きに</rt></ruby>なってたまらない。",
-        "translation": "Saya sangat penasaran dengan hasil ujian."
+        "translation": "Saya sangat penasaran dengan hasil ujian.",
+        "rubySegments": [
+          [
+            "試験",
+            "しけん"
+          ],
+          [
+            "の",
+            null
+          ],
+          [
+            "結果",
+            "けっか"
+          ],
+          [
+            "が",
+            null
+          ],
+          [
+            "気に",
+            "きに"
+          ],
+          [
+            "なってたまらない。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1925,8 +3327,29 @@
       {
         "id": "Tidak boleh mengambil foto di sini.",
         "jp": "ここで写真を撮ってはならない。",
-        "furiganaHtml": "ここで<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮っ<rt>とっ</rt></ruby>てはならない。",
-        "translation": "Tidak boleh mengambil foto di sini."
+        "translation": "Tidak boleh mengambil foto di sini.",
+        "rubySegments": [
+          [
+            "ここで",
+            null
+          ],
+          [
+            "写真",
+            "しゃしん"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "撮っ",
+            "とっ"
+          ],
+          [
+            "てはならない。",
+            null
+          ]
+        ]
       }
     ],
     "reviewNeeded": true,
@@ -1962,8 +3385,21 @@
       {
         "id": "Tidak apa-apa jika datang besok.",
         "jp": "明日来てもかまいません。",
-        "furiganaHtml": "<ruby>明日<rt>あした</rt></ruby><ruby>来て<rt>きて</rt></ruby>もかまいません。",
-        "translation": "Tidak apa-apa jika datang besok."
+        "translation": "Tidak apa-apa jika datang besok.",
+        "rubySegments": [
+          [
+            "明日",
+            "あした"
+          ],
+          [
+            "来て",
+            "きて"
+          ],
+          [
+            "もかまいません。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -1997,8 +3433,33 @@
       {
         "id": "Tidak ada gunanya menyesali hal yang sudah berlalu.",
         "jp": "終わったことを悔やんでも仕方がない。",
-        "furiganaHtml": "<ruby>終わ<rt>おわ</rt></ruby>ったことを<ruby>悔や<rt>くや</rt></ruby>んでも<ruby>仕方<rt>しかた</rt></ruby>がない。",
-        "translation": "Tidak ada gunanya menyesali hal yang sudah berlalu."
+        "translation": "Tidak ada gunanya menyesali hal yang sudah berlalu.",
+        "rubySegments": [
+          [
+            "終わ",
+            "おわ"
+          ],
+          [
+            "ったことを",
+            null
+          ],
+          [
+            "悔や",
+            "くや"
+          ],
+          [
+            "んでも",
+            null
+          ],
+          [
+            "仕方",
+            "しかた"
+          ],
+          [
+            "がない。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2032,8 +3493,25 @@
       {
         "id": "Kabarnya harga akan naik mulai bulan depan.",
         "jp": "来月から値上げするということだ。",
-        "furiganaHtml": "<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>値上げ<rt>ねあげ</rt></ruby>するということだ。",
-        "translation": "Kabarnya harga akan naik mulai bulan depan."
+        "translation": "Kabarnya harga akan naik mulai bulan depan.",
+        "rubySegments": [
+          [
+            "来月",
+            "らいげつ"
+          ],
+          [
+            "から",
+            null
+          ],
+          [
+            "値上げ",
+            "ねあげ"
+          ],
+          [
+            "するということだ。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2067,8 +3545,25 @@
       {
         "id": "Justru usaha itulah yang disebut keberhasilan.",
         "jp": "努力してこそ成功というものだ。",
-        "furiganaHtml": "<ruby>努力<rt>どりょく</rt></ruby>してこそ<ruby>成功<rt>せいこう</rt></ruby>というものだ。",
-        "translation": "Justru usaha itulah yang disebut keberhasilan."
+        "translation": "Justru usaha itulah yang disebut keberhasilan.",
+        "rubySegments": [
+          [
+            "努力",
+            "どりょく"
+          ],
+          [
+            "してこそ",
+            null
+          ],
+          [
+            "成功",
+            "せいこう"
+          ],
+          [
+            "というものだ。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2102,8 +3597,29 @@
       {
         "id": "Daripada tenang, kota ini lebih tepat disebut sepi.",
         "jp": "静かというより、寂しい町だ。",
-        "furiganaHtml": "<ruby>静か<rt>しずか</rt></ruby>というより、<ruby>寂しい<rt>さびしい</rt></ruby><ruby>町<rt>まち</rt></ruby>だ。",
-        "translation": "Daripada tenang, kota ini lebih tepat disebut sepi."
+        "translation": "Daripada tenang, kota ini lebih tepat disebut sepi.",
+        "rubySegments": [
+          [
+            "静か",
+            "しずか"
+          ],
+          [
+            "というより、",
+            null
+          ],
+          [
+            "寂しい",
+            "さびしい"
+          ],
+          [
+            "町",
+            "まち"
+          ],
+          [
+            "だ。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2137,8 +3653,33 @@
       {
         "id": "Seiring bertambahnya usia, cara berpikir juga berubah.",
         "jp": "年齢とともに、考え方も変わる。",
-        "furiganaHtml": "<ruby>年齢<rt>ねんれい</rt></ruby>とともに、<ruby>考え方<rt>かんがえかた</rt></ruby>も<ruby>変わ<rt>かわ</rt></ruby>る。",
-        "translation": "Seiring bertambahnya usia, cara berpikir juga berubah."
+        "translation": "Seiring bertambahnya usia, cara berpikir juga berubah.",
+        "rubySegments": [
+          [
+            "年齢",
+            "ねんれい"
+          ],
+          [
+            "とともに、",
+            null
+          ],
+          [
+            "考え方",
+            "かんがえかた"
+          ],
+          [
+            "も",
+            null
+          ],
+          [
+            "変わ",
+            "かわ"
+          ],
+          [
+            "る。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2172,8 +3713,29 @@
       {
         "id": "Kalau tidak melihat langsung, tidak bisa menilai.",
         "jp": "実際に見ないことには、判断できない。",
-        "furiganaHtml": "<ruby>実際に<rt>じっさいに</rt></ruby><ruby>見な<rt>みな</rt></ruby>いことには、<ruby>判断<rt>はんだん</rt></ruby>できない。",
-        "translation": "Kalau tidak melihat langsung, tidak bisa menilai."
+        "translation": "Kalau tidak melihat langsung, tidak bisa menilai.",
+        "rubySegments": [
+          [
+            "実際に",
+            "じっさいに"
+          ],
+          [
+            "見な",
+            "みな"
+          ],
+          [
+            "いことには、",
+            null
+          ],
+          [
+            "判断",
+            "はんだん"
+          ],
+          [
+            "できない。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2207,8 +3769,37 @@
       {
         "id": "Saat menonton film itu, saya tidak bisa menahan tangis.",
         "jp": "その映画を見ると、泣かないではいられない。",
-        "furiganaHtml": "その<ruby>映画<rt>えいが</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>と、<ruby>泣か<rt>なか</rt></ruby>ないではいられない。",
-        "translation": "Saat menonton film itu, saya tidak bisa menahan tangis."
+        "translation": "Saat menonton film itu, saya tidak bisa menahan tangis.",
+        "rubySegments": [
+          [
+            "その",
+            null
+          ],
+          [
+            "映画",
+            "えいが"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "見る",
+            "みる"
+          ],
+          [
+            "と、",
+            null
+          ],
+          [
+            "泣か",
+            "なか"
+          ],
+          [
+            "ないではいられない。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2242,8 +3833,33 @@
       {
         "id": "Saya membaca buku, majalah, dan sebagainya.",
         "jp": "本や雑誌などを読んでいる。",
-        "furiganaHtml": "<ruby>本<rt>ほん</rt></ruby>や<ruby>雑誌<rt>ざっし</rt></ruby>などを<ruby>読んで<rt>よんで</rt></ruby>いる。",
-        "translation": "Saya membaca buku, majalah, dan sebagainya."
+        "translation": "Saya membaca buku, majalah, dan sebagainya.",
+        "rubySegments": [
+          [
+            "本",
+            "ほん"
+          ],
+          [
+            "や",
+            null
+          ],
+          [
+            "雑誌",
+            "ざっし"
+          ],
+          [
+            "などを",
+            null
+          ],
+          [
+            "読んで",
+            "よんで"
+          ],
+          [
+            "いる。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2277,8 +3893,29 @@
       {
         "id": "Ini pemandangan khas Kyoto.",
         "jp": "これは京都ならではの景色だ。",
-        "furiganaHtml": "これは<ruby>京都<rt>きょうと</rt></ruby>ならではの<ruby>景色<rt>けしき</rt></ruby>だ。",
-        "translation": "Ini pemandangan khas Kyoto."
+        "translation": "Ini pemandangan khas Kyoto.",
+        "rubySegments": [
+          [
+            "これは",
+            null
+          ],
+          [
+            "京都",
+            "きょうと"
+          ],
+          [
+            "ならではの",
+            null
+          ],
+          [
+            "景色",
+            "けしき"
+          ],
+          [
+            "だ。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2312,8 +3949,33 @@
       {
         "id": "Saat masuk sekolah, saya menyerahkan dokumen.",
         "jp": "入学にあたって、書類を提出する。",
-        "furiganaHtml": "<ruby>入学<rt>にゅうがく</rt></ruby>にあたって、<ruby>書類<rt>しょるい</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>する。",
-        "translation": "Saat masuk sekolah, saya menyerahkan dokumen."
+        "translation": "Saat masuk sekolah, saya menyerahkan dokumen.",
+        "rubySegments": [
+          [
+            "入学",
+            "にゅうがく"
+          ],
+          [
+            "にあたって、",
+            null
+          ],
+          [
+            "書類",
+            "しょるい"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "提出",
+            "ていしゅつ"
+          ],
+          [
+            "する。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2347,8 +4009,33 @@
       {
         "id": "Dalam masyarakat modern, informasi penting.",
         "jp": "現代社会において、情報は重要だ。",
-        "furiganaHtml": "<ruby>現代社会<rt>げんだいしゃかい</rt></ruby>において、<ruby>情報<rt>じょうほう</rt></ruby>は<ruby>重要<rt>じゅうよう</rt></ruby>だ。",
-        "translation": "Dalam masyarakat modern, informasi penting."
+        "translation": "Dalam masyarakat modern, informasi penting.",
+        "rubySegments": [
+          [
+            "現代社会",
+            "げんだいしゃかい"
+          ],
+          [
+            "において、",
+            null
+          ],
+          [
+            "情報",
+            "じょうほう"
+          ],
+          [
+            "は",
+            null
+          ],
+          [
+            "重要",
+            "じゅうよう"
+          ],
+          [
+            "だ。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2382,8 +4069,41 @@
       {
         "id": "Sebelum upacara, diadakan pengarahan.",
         "jp": "式典に先立って、説明会を開く。",
-        "furiganaHtml": "<ruby>式典<rt>しきてん</rt></ruby>に<ruby>先立っ<rt>さきだっ</rt></ruby>て、<ruby>説明会<rt>せつめいかい</rt></ruby>を<ruby>開く<rt>ひらく</rt></ruby>。",
-        "translation": "Sebelum upacara, diadakan pengarahan."
+        "translation": "Sebelum upacara, diadakan pengarahan.",
+        "rubySegments": [
+          [
+            "式典",
+            "しきてん"
+          ],
+          [
+            "に",
+            null
+          ],
+          [
+            "先立っ",
+            "さきだっ"
+          ],
+          [
+            "て、",
+            null
+          ],
+          [
+            "説明会",
+            "せつめいかい"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "開く",
+            "ひらく"
+          ],
+          [
+            "。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2417,8 +4137,37 @@
       {
         "id": "Kami melanjutkan pekerjaan sesuai rencana.",
         "jp": "計画に沿って作業を進める。",
-        "furiganaHtml": "<ruby>計画<rt>けいかく</rt></ruby>に<ruby>沿って<rt>そって</rt></ruby><ruby>作業<rt>さぎょう</rt></ruby>を<ruby>進め<rt>すすめ</rt></ruby>る。",
-        "translation": "Kami melanjutkan pekerjaan sesuai rencana."
+        "translation": "Kami melanjutkan pekerjaan sesuai rencana.",
+        "rubySegments": [
+          [
+            "計画",
+            "けいかく"
+          ],
+          [
+            "に",
+            null
+          ],
+          [
+            "沿って",
+            "そって"
+          ],
+          [
+            "作業",
+            "さぎょう"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "進め",
+            "すすめ"
+          ],
+          [
+            "る。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2452,8 +4201,41 @@
       {
         "id": "Saya menjawab pertanyaan itu dengan sopan.",
         "jp": "質問に対して、丁寧に答えた。",
-        "furiganaHtml": "<ruby>質問<rt>しつもん</rt></ruby>に<ruby>対し<rt>たいし</rt></ruby>て、<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>答え<rt>こたえ</rt></ruby>た。",
-        "translation": "Saya menjawab pertanyaan itu dengan sopan."
+        "translation": "Saya menjawab pertanyaan itu dengan sopan.",
+        "rubySegments": [
+          [
+            "質問",
+            "しつもん"
+          ],
+          [
+            "に",
+            null
+          ],
+          [
+            "対し",
+            "たいし"
+          ],
+          [
+            "て、",
+            null
+          ],
+          [
+            "丁寧",
+            "ていねい"
+          ],
+          [
+            "に",
+            null
+          ],
+          [
+            "答え",
+            "こたえ"
+          ],
+          [
+            "た。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2487,8 +4269,25 @@
       {
         "id": "Seiring datangnya musim semi, cuaca menghangat.",
         "jp": "春になるにつれて、暖かくなる。",
-        "furiganaHtml": "<ruby>春<rt>はる</rt></ruby>になるにつれて、<ruby>暖かく<rt>あたたかく</rt></ruby>なる。",
-        "translation": "Seiring datangnya musim semi, cuaca menghangat."
+        "translation": "Seiring datangnya musim semi, cuaca menghangat.",
+        "rubySegments": [
+          [
+            "春",
+            "はる"
+          ],
+          [
+            "になるにつれて、",
+            null
+          ],
+          [
+            "暖かく",
+            "あたたかく"
+          ],
+          [
+            "なる。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2522,8 +4321,49 @@
       {
         "id": "Seiring pertumbuhan penduduk, masalah juga bertambah.",
         "jp": "人口の増加に伴って、問題も増えた。",
-        "furiganaHtml": "<ruby>人口<rt>じんこう</rt></ruby>の<ruby>増加<rt>ぞうか</rt></ruby>に<ruby>伴っ<rt>ともなっ</rt></ruby>て、<ruby>問題<rt>もんだい</rt></ruby>も<ruby>増え<rt>ふえ</rt></ruby>た。",
-        "translation": "Seiring pertumbuhan penduduk, masalah juga bertambah."
+        "translation": "Seiring pertumbuhan penduduk, masalah juga bertambah.",
+        "rubySegments": [
+          [
+            "人口",
+            "じんこう"
+          ],
+          [
+            "の",
+            null
+          ],
+          [
+            "増加",
+            "ぞうか"
+          ],
+          [
+            "に",
+            null
+          ],
+          [
+            "伴っ",
+            "ともなっ"
+          ],
+          [
+            "て、",
+            null
+          ],
+          [
+            "問題",
+            "もんだい"
+          ],
+          [
+            "も",
+            null
+          ],
+          [
+            "増え",
+            "ふえ"
+          ],
+          [
+            "た。",
+            null
+          ]
+        ]
       }
     ],
     "reviewNeeded": true,
@@ -2559,8 +4399,33 @@
       {
         "id": "Keberhasilan tidak lain adalah hasil usaha.",
         "jp": "成功は努力の結果にほかならない。",
-        "furiganaHtml": "<ruby>成功<rt>せいこう</rt></ruby>は<ruby>努力<rt>どりょく</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>にほかならない。",
-        "translation": "Keberhasilan tidak lain adalah hasil usaha."
+        "translation": "Keberhasilan tidak lain adalah hasil usaha.",
+        "rubySegments": [
+          [
+            "成功",
+            "せいこう"
+          ],
+          [
+            "は",
+            null
+          ],
+          [
+            "努力",
+            "どりょく"
+          ],
+          [
+            "の",
+            null
+          ],
+          [
+            "結果",
+            "けっか"
+          ],
+          [
+            "にほかならない。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2594,8 +4459,33 @@
       {
         "id": "Saya meneliti di bawah bimbingan guru.",
         "jp": "先生の指導のもとで研究した。",
-        "furiganaHtml": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>指導<rt>しどう</rt></ruby>のもとで<ruby>研究<rt>けんきゅう</rt></ruby>した。",
-        "translation": "Saya meneliti di bawah bimbingan guru."
+        "translation": "Saya meneliti di bawah bimbingan guru.",
+        "rubySegments": [
+          [
+            "先生",
+            "せんせい"
+          ],
+          [
+            "の",
+            null
+          ],
+          [
+            "指導",
+            "しどう"
+          ],
+          [
+            "のもとで",
+            null
+          ],
+          [
+            "研究",
+            "けんきゅう"
+          ],
+          [
+            "した。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2629,8 +4519,37 @@
       {
         "id": "Dia bisa berbahasa Inggris, bahkan bahasa Mandarin juga.",
         "jp": "彼は英語はもとより、中国語も話せる。",
-        "furiganaHtml": "<ruby>彼は<rt>かれは</rt></ruby><ruby>英語<rt>えいご</rt></ruby>はもとより、<ruby>中国語<rt>ちゅうごくご</rt></ruby>も<ruby>話せ<rt>はなせ</rt></ruby>る。",
-        "translation": "Dia bisa berbahasa Inggris, bahkan bahasa Mandarin juga."
+        "translation": "Dia bisa berbahasa Inggris, bahkan bahasa Mandarin juga.",
+        "rubySegments": [
+          [
+            "彼は",
+            "かれは"
+          ],
+          [
+            "英語",
+            "えいご"
+          ],
+          [
+            "はもとより、",
+            null
+          ],
+          [
+            "中国語",
+            "ちゅうごくご"
+          ],
+          [
+            "も",
+            null
+          ],
+          [
+            "話せ",
+            "はなせ"
+          ],
+          [
+            "る。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2664,8 +4583,41 @@
       {
         "id": "Di sisi lain, meski praktis, biayanya mahal.",
         "jp": "便利な反面、費用が高い。",
-        "furiganaHtml": "<ruby>便利<rt>べんり</rt></ruby>な<ruby>反面<rt>はんめん</rt></ruby>、<ruby>費用<rt>ひよう</rt></ruby>が<ruby>高い<rt>たかい</rt></ruby>。",
-        "translation": "Di sisi lain, meski praktis, biayanya mahal."
+        "translation": "Di sisi lain, meski praktis, biayanya mahal.",
+        "rubySegments": [
+          [
+            "便利",
+            "べんり"
+          ],
+          [
+            "な",
+            null
+          ],
+          [
+            "反面",
+            "はんめん"
+          ],
+          [
+            "、",
+            null
+          ],
+          [
+            "費用",
+            "ひよう"
+          ],
+          [
+            "が",
+            null
+          ],
+          [
+            "高い",
+            "たかい"
+          ],
+          [
+            "。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2699,8 +4651,29 @@
       {
         "id": "Saya tidak akan mengulangi kesalahan yang sama.",
         "jp": "二度と同じ失敗はするまい。",
-        "furiganaHtml": "<ruby>二度<rt>にど</rt></ruby>と<ruby>同じ<rt>おなじ</rt></ruby><ruby>失敗<rt>しっぱい</rt></ruby>はするまい。",
-        "translation": "Saya tidak akan mengulangi kesalahan yang sama."
+        "translation": "Saya tidak akan mengulangi kesalahan yang sama.",
+        "rubySegments": [
+          [
+            "二度",
+            "にど"
+          ],
+          [
+            "と",
+            null
+          ],
+          [
+            "同じ",
+            "おなじ"
+          ],
+          [
+            "失敗",
+            "しっぱい"
+          ],
+          [
+            "はするまい。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2734,8 +4707,29 @@
       {
         "id": "Ceritanya benar-benar seperti mimpi.",
         "jp": "彼の話はまるで夢のようだ。",
-        "furiganaHtml": "<ruby>彼の<rt>かの</rt></ruby><ruby>話<rt>はなし</rt></ruby>はまるで<ruby>夢<rt>ゆめ</rt></ruby>のようだ。",
-        "translation": "Ceritanya benar-benar seperti mimpi."
+        "translation": "Ceritanya benar-benar seperti mimpi.",
+        "rubySegments": [
+          [
+            "彼の",
+            "かの"
+          ],
+          [
+            "話",
+            "はなし"
+          ],
+          [
+            "はまるで",
+            null
+          ],
+          [
+            "夢",
+            "ゆめ"
+          ],
+          [
+            "のようだ。",
+            null
+          ]
+        ]
       }
     ],
     "reviewNeeded": true,
@@ -2771,8 +4765,29 @@
       {
         "id": "Daripada marah, dia malah tertawa.",
         "jp": "彼は怒るより、むしろ笑った。",
-        "furiganaHtml": "<ruby>彼は<rt>かれは</rt></ruby><ruby>怒る<rt>いかる</rt></ruby>より、むしろ<ruby>笑っ<rt>わらっ</rt></ruby>た。",
-        "translation": "Daripada marah, dia malah tertawa."
+        "translation": "Daripada marah, dia malah tertawa.",
+        "rubySegments": [
+          [
+            "彼は",
+            "かれは"
+          ],
+          [
+            "怒る",
+            "いかる"
+          ],
+          [
+            "より、むしろ",
+            null
+          ],
+          [
+            "笑っ",
+            "わらっ"
+          ],
+          [
+            "た。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2806,8 +4821,37 @@
       {
         "id": "Dia bernyanyi tanpa memedulikan pandangan sekitar.",
         "jp": "彼は周囲の目もかまわず歌った。",
-        "furiganaHtml": "<ruby>彼は<rt>かれは</rt></ruby><ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>目<rt>め</rt></ruby>もかまわず<ruby>歌っ<rt>うたっ</rt></ruby>た。",
-        "translation": "Dia bernyanyi tanpa memedulikan pandangan sekitar."
+        "translation": "Dia bernyanyi tanpa memedulikan pandangan sekitar.",
+        "rubySegments": [
+          [
+            "彼は",
+            "かれは"
+          ],
+          [
+            "周囲",
+            "しゅうい"
+          ],
+          [
+            "の",
+            null
+          ],
+          [
+            "目",
+            "め"
+          ],
+          [
+            "もかまわず",
+            null
+          ],
+          [
+            "歌っ",
+            "うたっ"
+          ],
+          [
+            "た。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2841,8 +4885,25 @@
       {
         "id": "Sejak awal dia memang berniat ikut.",
         "jp": "彼はもとより参加するつもりだった。",
-        "furiganaHtml": "<ruby>彼は<rt>かれは</rt></ruby>もとより<ruby>参加<rt>さんか</rt></ruby>するつもりだった。",
-        "translation": "Sejak awal dia memang berniat ikut."
+        "translation": "Sejak awal dia memang berniat ikut.",
+        "rubySegments": [
+          [
+            "彼は",
+            "かれは"
+          ],
+          [
+            "もとより",
+            null
+          ],
+          [
+            "参加",
+            "さんか"
+          ],
+          [
+            "するつもりだった。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2876,8 +4937,25 @@
       {
         "id": "Karena tidak ada kontak, tidak ada cara mencarinya.",
         "jp": "連絡先がなく、探しようがない。",
-        "furiganaHtml": "<ruby>連絡先<rt>れんらくさき</rt></ruby>がなく、<ruby>探し<rt>さがし</rt></ruby>ようがない。",
-        "translation": "Karena tidak ada kontak, tidak ada cara mencarinya."
+        "translation": "Karena tidak ada kontak, tidak ada cara mencarinya.",
+        "rubySegments": [
+          [
+            "連絡先",
+            "れんらくさき"
+          ],
+          [
+            "がなく、",
+            null
+          ],
+          [
+            "探し",
+            "さがし"
+          ],
+          [
+            "ようがない。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2911,8 +4989,29 @@
       {
         "id": "Kalau bersikap begitu, mustahil dipercaya.",
         "jp": "そんな態度では、信頼されようがない。",
-        "furiganaHtml": "そんな<ruby>態度<rt>たいど</rt></ruby>では、<ruby>信頼<rt>しんらい</rt></ruby>されようがない。",
-        "translation": "Kalau bersikap begitu, mustahil dipercaya."
+        "translation": "Kalau bersikap begitu, mustahil dipercaya.",
+        "rubySegments": [
+          [
+            "そんな",
+            null
+          ],
+          [
+            "態度",
+            "たいど"
+          ],
+          [
+            "では、",
+            null
+          ],
+          [
+            "信頼",
+            "しんらい"
+          ],
+          [
+            "されようがない。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2946,8 +5045,17 @@
       {
         "id": "Tolong catat agar tidak lupa.",
         "jp": "忘れないように、メモしてください。",
-        "furiganaHtml": "<ruby>忘れ<rt>わすれ</rt></ruby>ないように、メモしてください。",
-        "translation": "Tolong catat agar tidak lupa."
+        "translation": "Tolong catat agar tidak lupa.",
+        "rubySegments": [
+          [
+            "忘れ",
+            "わすれ"
+          ],
+          [
+            "ないように、メモしてください。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -2981,8 +5089,29 @@
       {
         "id": "Makanan ini enak walaupun murah.",
         "jp": "この料理は安いわりに、おいしい。",
-        "furiganaHtml": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>安い<rt>やすい</rt></ruby>わりに、おいしい。",
-        "translation": "Makanan ini enak walaupun murah."
+        "translation": "Makanan ini enak walaupun murah.",
+        "rubySegments": [
+          [
+            "この",
+            null
+          ],
+          [
+            "料理",
+            "りょうり"
+          ],
+          [
+            "は",
+            null
+          ],
+          [
+            "安い",
+            "やすい"
+          ],
+          [
+            "わりに、おいしい。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -3016,8 +5145,33 @@
       {
         "id": "Pendapat terbagi mengenai rencana itu.",
         "jp": "計画をめぐって、意見が分かれた。",
-        "furiganaHtml": "<ruby>計画<rt>けいかく</rt></ruby>をめぐって、<ruby>意見<rt>いけん</rt></ruby>が<ruby>分か<rt>わか</rt></ruby>れた。",
-        "translation": "Pendapat terbagi mengenai rencana itu."
+        "translation": "Pendapat terbagi mengenai rencana itu.",
+        "rubySegments": [
+          [
+            "計画",
+            "けいかく"
+          ],
+          [
+            "をめぐって、",
+            null
+          ],
+          [
+            "意見",
+            "いけん"
+          ],
+          [
+            "が",
+            null
+          ],
+          [
+            "分か",
+            "わか"
+          ],
+          [
+            "れた。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -3051,8 +5205,41 @@
       {
         "id": "Siapa pun dapat melamar tanpa memandang pengalaman.",
         "jp": "経験の有無を問わず応募できる。",
-        "furiganaHtml": "<ruby>経験<rt>けいけん</rt></ruby>の<ruby>有無<rt>うむ</rt></ruby>を<ruby>問わ<rt>とわ</rt></ruby>ず<ruby>応募<rt>おうぼ</rt></ruby>できる。",
-        "translation": "Siapa pun dapat melamar tanpa memandang pengalaman."
+        "translation": "Siapa pun dapat melamar tanpa memandang pengalaman.",
+        "rubySegments": [
+          [
+            "経験",
+            "けいけん"
+          ],
+          [
+            "の",
+            null
+          ],
+          [
+            "有無",
+            "うむ"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "問わ",
+            "とわ"
+          ],
+          [
+            "ず",
+            null
+          ],
+          [
+            "応募",
+            "おうぼ"
+          ],
+          [
+            "できる。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -3086,8 +5273,49 @@
       {
         "id": "Sepanjang tahun, banyak turis berkunjung.",
         "jp": "一年を通じて、多くの観光客が訪れる。",
-        "furiganaHtml": "<ruby>一年<rt>いちねん</rt></ruby>を<ruby>通じ<rt>つうじ</rt></ruby>て、<ruby>多く<rt>おおく</rt></ruby>の<ruby>観光客<rt>かんこうきゃく</rt></ruby>が<ruby>訪れ<rt>おとずれ</rt></ruby>る。",
-        "translation": "Sepanjang tahun, banyak turis berkunjung."
+        "translation": "Sepanjang tahun, banyak turis berkunjung.",
+        "rubySegments": [
+          [
+            "一年",
+            "いちねん"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "通じ",
+            "つうじ"
+          ],
+          [
+            "て、",
+            null
+          ],
+          [
+            "多く",
+            "おおく"
+          ],
+          [
+            "の",
+            null
+          ],
+          [
+            "観光客",
+            "かんこうきゃく"
+          ],
+          [
+            "が",
+            null
+          ],
+          [
+            "訪れ",
+            "おとずれ"
+          ],
+          [
+            "る。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -3121,8 +5349,41 @@
       {
         "id": "Acara ini diadakan di banyak kota, termasuk Tokyo.",
         "jp": "東京をはじめ、多くの都市で開催される。",
-        "furiganaHtml": "<ruby>東京<rt>とうきょう</rt></ruby>をはじめ、<ruby>多く<rt>おおく</rt></ruby>の<ruby>都市<rt>とし</rt></ruby>で<ruby>開催<rt>かいさい</rt></ruby>される。",
-        "translation": "Acara ini diadakan di banyak kota, termasuk Tokyo."
+        "translation": "Acara ini diadakan di banyak kota, termasuk Tokyo.",
+        "rubySegments": [
+          [
+            "東京",
+            "とうきょう"
+          ],
+          [
+            "をはじめ、",
+            null
+          ],
+          [
+            "多く",
+            "おおく"
+          ],
+          [
+            "の",
+            null
+          ],
+          [
+            "都市",
+            "とし"
+          ],
+          [
+            "で",
+            null
+          ],
+          [
+            "開催",
+            "かいさい"
+          ],
+          [
+            "される。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -3156,8 +5417,33 @@
       {
         "id": "Saya membuat laporan berdasarkan hasil survei.",
         "jp": "調査結果をもとに、報告書を作成した。",
-        "furiganaHtml": "<ruby>調査結果<rt>ちょうさけっか</rt></ruby>をもとに、<ruby>報告書<rt>ほうこくしょ</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>した。",
-        "translation": "Saya membuat laporan berdasarkan hasil survei."
+        "translation": "Saya membuat laporan berdasarkan hasil survei.",
+        "rubySegments": [
+          [
+            "調査結果",
+            "ちょうさけっか"
+          ],
+          [
+            "をもとに、",
+            null
+          ],
+          [
+            "報告書",
+            "ほうこくしょ"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "作成",
+            "さくせい"
+          ],
+          [
+            "した。",
+            null
+          ]
+        ]
       }
     ]
   },
@@ -3191,8 +5477,41 @@
       {
         "id": "Pekerjaan diberikan sesuai kemampuan.",
         "jp": "能力に応じて、仕事を任せる。",
-        "furiganaHtml": "<ruby>能力<rt>のうりょく</rt></ruby>に<ruby>応じ<rt>おうじ</rt></ruby>て、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>任せ<rt>まかせ</rt></ruby>る。",
-        "translation": "Pekerjaan diberikan sesuai kemampuan."
+        "translation": "Pekerjaan diberikan sesuai kemampuan.",
+        "rubySegments": [
+          [
+            "能力",
+            "のうりょく"
+          ],
+          [
+            "に",
+            null
+          ],
+          [
+            "応じ",
+            "おうじ"
+          ],
+          [
+            "て、",
+            null
+          ],
+          [
+            "仕事",
+            "しごと"
+          ],
+          [
+            "を",
+            null
+          ],
+          [
+            "任せ",
+            "まかせ"
+          ],
+          [
+            "る。",
+            null
+          ]
+        ]
       }
     ],
     "reviewNeeded": true,

@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import type { KeyboardEvent as ReactKeyboardEvent, MouseEvent } from "react";
 import data from "../data/bunpou/n2.json";
 import { calculateSM2, SM2Rating } from "../lib/sm2";
 import {
@@ -65,7 +66,59 @@ export default function Home() {
   const [selected, setSelected] = useState<Pattern | null>(null);
   const [quizPattern, setQuizPattern] = useState<Pattern | null>(null);
   const [quizAnswer, setQuizAnswer] = useState(false);
+  const [flashcardPattern, setFlashcardPattern] = useState<Pattern | null>(null);
+  const [flashcardAnswer, setFlashcardAnswer] = useState(false);
   const [importMessage, setImportMessage] = useState("");
+  const [furiganaOn, setFuriganaOn] = useState(true);
+
+  useEffect(() => {
+    try {
+      setFuriganaOn(window.localStorage.getItem("learningn2-furigana") !== "off");
+    } catch {
+      setFuriganaOn(true);
+    }
+  }, []);
+
+  function toggleFurigana() {
+    const next = !furiganaOn;
+    setFuriganaOn(next);
+    try {
+      window.localStorage.setItem("learningn2-furigana", next ? "on" : "off");
+    } catch {
+      // UI tetap berjalan jika localStorage tidak tersedia.
+    }
+  }
+
+  function revealRuby(event: MouseEvent<HTMLSpanElement>) {
+    if (furiganaOn) return;
+    event.currentTarget.classList.toggle("ruby-reveal");
+  }
+
+  function revealRubyWithKeyboard(event: ReactKeyboardEvent<HTMLSpanElement>) {
+    if (!furiganaOn && (event.key === "Enter" || event.key === " ")) {
+      event.preventDefault();
+      event.currentTarget.classList.toggle("ruby-reveal");
+    }
+  }
+
+  function renderRuby(segments: [string, string | null][], forceVisible = false) {
+    return segments.map(([text, reading], index) => {
+      if (!reading) return <span key={`${text}-${index}`}>{text}</span>;
+      return (
+        <span
+          className={`ruby-word ${forceVisible ? "ruby-force-visible" : ""}`}
+          key={`${text}-${index}`}
+          onClick={revealRuby}
+          onKeyDown={revealRubyWithKeyboard}
+          role={!furiganaOn && !forceVisible ? "button" : undefined}
+          tabIndex={!furiganaOn && !forceVisible ? 0 : undefined}
+          title={!furiganaOn && !forceVisible ? "Tap kanji untuk melihat bacaan" : undefined}
+        >
+          <ruby>{text}<rt>{reading}</rt></ruby>
+        </span>
+      );
+    });
+  }
 
   useEffect(() => {
     if (migrateLegacyProgress()) setProgress(loadProgress());
@@ -76,6 +129,7 @@ export default function Home() {
       if (event.key === 'Escape') {
         setSelected(null);
         setQuizPattern(null);
+        setFlashcardPattern(null);
       }
     }
     window.addEventListener('keydown', closeOnEscape);
@@ -147,7 +201,7 @@ export default function Home() {
   }
 
   return (
-    <main className="shell">
+    <main className={`shell ${furiganaOn ? "furigana-on" : "furigana-off"}`}>
       <header className="top">
         <div>
           <div className="logo">LearningN2</div>
@@ -156,6 +210,10 @@ export default function Home() {
         <nav className="nav" aria-label="Navigasi utama">
           <button className="btn" onClick={() => setFilter("all")}>Semua</button>
           <button className="btn" onClick={() => setFilter("favorites")}>Favorit</button>
+          <button className={`btn furigana-toggle ${furiganaOn ? "primary" : ""}`} onClick={toggleFurigana} aria-pressed={furiganaOn}>
+            Furigana: {furiganaOn ? "On" : "Off"}
+          </button>
+          <button className="btn" onClick={() => { setFlashcardPattern(filtered[0] ?? activePatterns[0]); setFlashcardAnswer(false); }}>Flashcard</button>
           <button className="btn" onClick={() => { setQuizPattern(filtered[0] ?? activePatterns[0]); setQuizAnswer(false); }}>Quiz</button>
           <button className="btn" onClick={exportProgress}>Export</button>
           <label className="btn">Import<input type="file" accept="application/json" hidden onChange={importProgress} /></label>
@@ -214,7 +272,7 @@ export default function Home() {
       {selected && (
         <div className="modal-backdrop" role="presentation" onClick={() => setSelected(null)}>
           <section className="modal card" role="dialog" aria-modal="true" aria-labelledby="pattern-title" onClick={(event) => event.stopPropagation()}>
-            <div className="modal-header"><h2 id="pattern-title">{selected.displayTitle}</h2><button className="btn" onClick={() => setSelected(null)}>Tutup</button></div>
+            <div className="modal-header"><h2 id="pattern-title">{selected.displayTitle}</h2><div className="actions"><button className={`btn ${furiganaOn ? "primary" : ""}`} onClick={toggleFurigana} aria-pressed={furiganaOn}>Furigana: {furiganaOn ? "On" : "Off"}</button><button className="btn" onClick={() => setSelected(null)}>Tutup</button></div></div>
             <div className="jp">{selected.jp} ・ {selected.kana}</div>
             <div className="meaning-block meaning-block--detail">
               <div className="meaning-label">Arti pola</div>
@@ -225,7 +283,7 @@ export default function Home() {
             {selected.examples.map((example) => (
               <div className="example" key={example.id}>
                 <div className="example-copy">
-                  <div className="example-japanese" dangerouslySetInnerHTML={{ __html: example.furiganaHtml }} />
+                  <div className="example-japanese">{renderRuby(example.rubySegments as [string, string | null][])}</div>
                   <div className="example-translation"><b>Arti contoh:</b> {example.translation}</div>
                 </div>
                 <button className="btn" onClick={() => speak(example.jp)}>Audio Jepang</button>
@@ -242,12 +300,26 @@ export default function Home() {
         </div>
       )}
 
+      {flashcardPattern && (
+        <div className="modal-backdrop" role="presentation" onClick={() => setFlashcardPattern(null)}>
+          <section className="modal card flashcard" role="dialog" aria-modal="true" aria-labelledby="flashcard-title" onClick={(event) => event.stopPropagation()}>
+            <div className="modal-header"><h2 id="flashcard-title">Flashcard</h2><div className="actions"><button className={`btn ${furiganaOn ? "primary" : ""}`} onClick={toggleFurigana} aria-pressed={furiganaOn}>Furigana: {furiganaOn ? "On" : "Off"}</button><button className="btn" onClick={() => setFlashcardPattern(null)}>Tutup</button></div></div>
+            <div className="jp">{renderRuby(flashcardPattern.examples[0].rubySegments as [string, string | null][], flashcardAnswer)}</div>
+            {flashcardAnswer ? <div className="answer"><b>{flashcardPattern.meaning}</b><p>{flashcardPattern.explanation}</p></div> : <button className="btn primary" onClick={() => setFlashcardAnswer(true)}>Balik kartu</button>}
+          </section>
+        </div>
+      )}
+
       {quizPattern && (
         <div className="modal-backdrop" role="presentation" onClick={() => setQuizPattern(null)}>
           <section className="modal card" role="dialog" aria-modal="true" aria-labelledby="quiz-title" onClick={(event) => event.stopPropagation()}>
-            <div className="modal-header"><h2 id="quiz-title">Quiz kilat</h2><button className="btn" onClick={() => setQuizPattern(null)}>Tutup</button></div>
-            <p>Apa arti pola berikut?</p><div className="jp">{quizPattern.jp}</div>
-            {quizAnswer ? <p className="answer">{quizPattern.meaning}</p> : <button className="btn primary" onClick={() => setQuizAnswer(true)}>Tampilkan jawaban</button>}
+            <div className="modal-header"><h2 id="quiz-title">Quiz kilat</h2><div className="actions"><button className={`btn ${furiganaOn ? "primary" : ""}`} onClick={toggleFurigana} aria-pressed={furiganaOn}>Furigana: {furiganaOn ? "On" : "Off"}</button><button className="btn" onClick={() => setQuizPattern(null)}>Tutup</button></div></div>
+            <p>Apa arti pola berikut?</p>
+            <div className={`quiz-question ${quizAnswer ? "quiz-answer-revealed" : ""}`}>
+              <div className="jp">{renderRuby((quizPattern.examples[0]?.rubySegments ?? [[quizPattern.jp, null]]) as [string, string | null][], quizAnswer)}</div>
+              {quizAnswer && <div className="example-translation"><b>Bacaan/arti contoh:</b> {quizPattern.examples[0]?.translation}</div>}
+            </div>
+            {quizAnswer ? <p className="answer"><b>Arti pola:</b> {quizPattern.meaning}<br /><b>Penjelasan:</b> {quizPattern.explanation}</p> : <button className="btn primary" onClick={() => setQuizAnswer(true)}>Tampilkan jawaban</button>}
             {quizAnswer && <button className="btn" onClick={() => { review(quizPattern.id, 2); setQuizAnswer(false); setQuizPattern(null); }}>Tandai direview</button>}
           </section>
         </div>

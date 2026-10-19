@@ -30,8 +30,9 @@ npm run build
 ## Features
 
 - Dashboard with active count, mastered progress, review queue, search, and filters.
-- Detail pola: rumus, penjelasan, contoh furigana, audio Jepang, catatan, favorit, dan review SM-2.
-- Quiz kilat dan status belajar (`unstudied`, `learning`, `mastered`).
+- Detail pola: rumus, penjelasan, contoh dengan arti, audio Jepang, catatan, favorit, dan review SM-2.
+- Toggle furigana tersimpan lokal; mode off menyembunyikan `<rt>`, lalu tap/keyboard pada kanji menampilkan bacaan sementara.
+- Flashcard, quiz kilat, dan status belajar (`unstudied`, `learning`, `mastered`). Quiz memaksa furigana tampil setelah jawaban dibuka.
 - LocalStorage persistence with try/catch, normalized schema, and legacy-key migration.
 - Import/export progress JSON with validation and merge behavior.
 - PWA manifest, icons, and service worker for app shell; personal data stays in localStorage.

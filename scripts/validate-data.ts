@@ -59,11 +59,20 @@ function validate(): void {
         reviewCount++;
       }
       for (const ex of item.examples) {
-        if (!ex.jp || !ex.id || !ex.furiganaHtml || !ex.translation || ex.translation.trim() === "") {
-          throw new Error(`Active item ${item.id} has invalid example: missing jp, id, furiganaHtml, or translation`);
+        if (!ex.jp || !ex.id || !Array.isArray(ex.rubySegments) || !ex.translation || ex.translation.trim() === "") {
+          throw new Error(`Active item ${item.id} has invalid example: missing jp, id, rubySegments, or translation`);
         }
-        if (!ex.furiganaHtml.includes("<ruby>")) {
-          throw new Error(`Active item ${item.id} example must contain ruby furigana`);
+        const reconstructed = ex.rubySegments.map((segment: unknown) => {
+          if (!Array.isArray(segment) || typeof segment[0] !== "string" || (segment[1] !== null && typeof segment[1] !== "string")) {
+            throw new Error(`Active item ${item.id} example has invalid ruby segment`);
+          }
+          if (segment[1] !== null && !/[一-龯㐀-鿿]/.test(segment[0])) {
+            throw new Error(`Active item ${item.id} example attaches ruby to non-kanji text`);
+          }
+          return segment[0];
+        }).join("");
+        if (reconstructed !== ex.jp) {
+          throw new Error(`Active item ${item.id} example ruby segments change sentence text`);
         }
       }
     } else if (item.available === false) {

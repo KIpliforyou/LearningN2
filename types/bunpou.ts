@@ -1,6 +1,6 @@
 export interface ExampleSentence {
   jp: string;
-  furiganaHtml: string;
+  rubySegments: [string, string | null][];
   translation: string;
   id: string;
 }
