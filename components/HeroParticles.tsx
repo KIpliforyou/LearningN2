@@ -2,6 +2,7 @@
 
 import { Canvas, useFrame } from "@react-three/fiber";
 import { useMemo, useRef } from "react";
+import * as THREE from "three";
 
 // Simple particle system forming a rotating sphere.
 // Colors use design tokens defined in globals.css.
