@@ -3,6 +3,7 @@
 import { useEffect, useMemo, useState } from "react";
 import type { KeyboardEvent as ReactKeyboardEvent, MouseEvent } from "react";
 import data from "../data/bunpou/n2.json";
+import HeroParticles from "../components/HeroParticles";
 import ToggleButton from "../components/ToggleButton";
 import PatternVideo from "../components/PatternVideo";
 import { calculateSM2, SM2Rating } from "../lib/sm2";
