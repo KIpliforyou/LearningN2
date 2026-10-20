@@ -1,4 +1,4 @@
-import data from "../data/bunpou/n2.json";
+import data from "../data/bunpou/n2.json" assert { type: "json" };
 
 function validate(): void {
   if (!Array.isArray(data)) {

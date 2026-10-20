@@ -3,43 +3,60 @@
 @tailwind utilities;
 
 :root {
-  --ink: #202033;
-  --purple: #6750e8;
-  --bg: #f6f5ff;
-  --card: #fff;
-  --muted: #73738b;
-  --border: #dedcf5;
-  --surface-2: #f0edff;
-  --furigana: #1d6fd9;
+  /* Dark mode defaults – overridden by [data-theme="light"] */
+  --bg: #070b1a;            /* page background */
+  --surface: #0f1530;      /* cards, panels, modals */
+  --surface-2: #161d42;    /* hover cards, inputs */
+  --border: #232b55;        /* separators */
+  --text: #f5f7ff;          /* primary text */
+  --text-muted: #9aa3c7;   /* secondary text */
+  --brand: #6750e8;        /* brand, primary buttons */
+  --gold: #f5b93a;         /* highlight "hafal" */
+  --blue: #4da3ff;         /* secondary accent, learning status */
+  --furigana: #7cc0ff;     /* furigana text */
+  --correct: #3ddc97;      /* quiz correct */
+  --wrong: #ff5d73;        /* quiz wrong */
+  --review: #ff8a5b;       /* needs review */
+  --star-dim: #5b6591;    /* undiscovered star */
 }
-:root[data-theme="dark"] {
-  --ink: #f5f7ff;
-  --purple: #8c7cff;
-  --bg: #070b1a;
-  --card: #0f1530;
-  --muted: #b5bddc;
-  --border: #303969;
-  --surface-2: #161d42;
-  --furigana: #7cc0ff;
+
+:root[data-theme="light"] {
+  --bg: #f6f7fc;
+  --surface: #ffffff;
+  --surface-2: #eef0fa;
+  --border: #d9ddf0;
+  --text: #11162e;
+  --text-muted: #525a80;
+  --brand: #5b45d6;
+  --gold: #d99a1e;      /* fill */
+  --gold-text: #8a5a00;/* text */
+  --blue: #1d6fd9;
+  --furigana: #1d6fd9;
+  --correct: #15803d;
+  --wrong: #c62843;
+  --review: #c2410c;
+  --star-dim: #5b6591;
 }
 * { box-sizing: border-box; }
-body { margin: 0; background: var(--bg); color: var(--ink); font-family: system-ui, sans-serif; }
+body { margin: 0; background: var(--bg); color: var(--text); font-family: system-ui, sans-serif; }
 button, input, textarea, select { font: inherit; }
 button:focus-visible, input:focus-visible, textarea:focus-visible { outline: 3px solid #9c8bff; outline-offset: 2px; }
 .shell { max-width: 1100px; margin: auto; padding: 24px; }
 .top { display: flex; justify-content: space-between; align-items: center; gap: 16px; margin-bottom: 28px; }
-.logo { font-size: 28px; font-weight: 900; color: var(--purple); }
+.logo { font-size: 28px; font-weight: 900; color: var(--brand); }
 .nav { display: flex; gap: 8px; flex-wrap: wrap; }
-.nav a, .btn { padding: 10px 14px; border-radius: 12px; border: 1px solid var(--border); background: var(--card); text-decoration: none; color: var(--ink); cursor: pointer; }
-.btn.primary { background: var(--purple); color: white; border-color: var(--purple); }
-.hero { background: linear-gradient(135deg, #7562ef, #9c8bff); color: white; border-radius: 24px; padding: 28px; margin-bottom: 20px; }
+.nav a, .btn { padding: 10px 14px; border-radius: 12px; border: 1px solid var(--border); background: var(--surface); text-decoration: none; color: var(--text); cursor: pointer; }
+.btn.primary { background: var(--brand); color: var(--text-contrast); border-color: var(--brand); }
+.hero { background: linear-gradient(135deg, #7562ef, #9c8bff); color: white; border-radius: 24px; padding: 2rem 1.5rem; margin-bottom: 20px; text-align: center; }
+.hero h1 { font-size: 2.2rem; margin-bottom: 0.5rem; }
+.hero p { font-size: 1.1rem; margin-bottom: 1rem; }
 .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }
 .card { background: var(--card); border: 1px solid var(--border); border-radius: 18px; padding: 20px; box-shadow: 0 5px 18px #39307a10; }
 .muted { color: var(--muted); }
 .tag { display: inline-block; background: #eeeaff; color: var(--purple); padding: 5px 9px; border-radius: 999px; font-size: 12px; font-weight: 700; }
-.search { width: 100%; padding: 14px; border: 1px solid var(--border); border-radius: 14px; margin: 14px 0; background: var(--card); color: var(--ink); }
+.search { width: 100%; padding: 14px; border: 1px solid var(--border); border-radius: 14px; margin: 14px 0; background: var(--surface); color: var(--text); }
 .jp { font-size: 25px; font-weight: 800; }
-.meaning-block { margin: 12px 0; padding: 12px 14px; border-left: 4px solid var(--purple); border-radius: 10px; background: var(--surface-2); }
+.meaning-block { margin: 12px 0; padding: 12px 14px; border-left: 4px solid var(--brand); border-radius: 10px; background: var(--surface-2); }
 .meaning-block p { margin: 4px 0 0; font-weight: 650; }
 .meaning-label { color: var(--purple); font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: .05em; }
 .meaning-block--detail { font-size: 18px; }
