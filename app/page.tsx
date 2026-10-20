@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useState } from "react";
 import type { KeyboardEvent as ReactKeyboardEvent, MouseEvent } from "react";
 import data from "../data/bunpou/n2.json";
-import HeroParticles from "../components/HeroParticles";
+import ToggleButton from "../components/ToggleButton";
 import PatternVideo from "../components/PatternVideo";
 import { calculateSM2, SM2Rating } from "../lib/sm2";
 import {
@@ -229,12 +229,8 @@ export default function Home() {
         <nav className="nav" aria-label="Navigasi utama">
           <button className="btn" onClick={() => setFilter("all")}>Semua</button>
           <button className="btn" onClick={() => setFilter("favorites")}>Favorit</button>
-          <button className={`btn furigana-toggle ${furiganaOn ? "primary" : ""}`} onClick={toggleFurigana} aria-pressed={furiganaOn}>
-            Furigana: {furiganaOn ? "On" : "Off"}
-          </button>
-          <button className="btn" onClick={toggleTheme} aria-pressed={darkMode}>
-            Tema: {darkMode ? "Gelap" : "Terang"}
-          </button>
+          <ToggleButton label="Furigana" checked={furiganaOn} onClick={toggleFurigana} />
+          <ToggleButton label="Tema" checked={darkMode} onClick={toggleTheme} />
           <button className="btn" onClick={() => { setFlashcardPattern(filtered[0] ?? activePatterns[0]); setFlashcardAnswer(false); }}>Flashcard</button>
           <button className="btn" onClick={() => { setQuizPattern(filtered[0] ?? activePatterns[0]); setQuizQuestionIndex(0); setQuizAnswer(false); }}>Quiz</button>
           <button className="btn" onClick={exportProgress}>Export</button>
