@@ -3,6 +3,7 @@
 import { useEffect, useMemo, useState } from "react";
 import type { KeyboardEvent as ReactKeyboardEvent, MouseEvent } from "react";
 import data from "../data/bunpou/n2.json";
+import HeroParticles from "../components/HeroParticles";
 import PatternVideo from "../components/PatternVideo";
 import { calculateSM2, SM2Rating } from "../lib/sm2";
 import {
@@ -242,6 +243,7 @@ export default function Home() {
       </header>
 
       <section className="hero">
+        <HeroParticles />
         <h1>Belajar N2, satu pola sekali duduk.</h1>
         <p>91 pola aktif dari transcript video. Progress tersimpan lokal di perangkat ini.</p>
         <div className="actions">
